@@ -1,0 +1,362 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="Convert legacy ANU7 Telugu text to Unicode for FlexiSIGN, CorelDRAW and modern publishing workflows.">
+  <title>Telugu Vector Studio | ANU7 Unicode Converter</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <a class="brand" href="index.html">
+    <div class="brand-icon">తె</div>
+    <div>
+      <strong>Telugu Vector Studio</strong>
+      <span>Telugu Font Conversion & Publishing Tools</span>
+    </div>
+  </a>
+
+  <nav>
+    <a class="active" href="index.html">Home</a>
+    <a href="accuracy.html">Accuracy</a>
+    <a href="documentation.html">Documentation</a>
+    <a href="about.html">About</a>
+  </nav>
+</header>
+
+<main>
+
+  <!-- HERO -->
+  <section class="hero">
+    <span class="eyebrow">SMART TELUGU PUBLISHING WORKFLOW</span>
+    <h1>ANU 7 <span>↔</span> Telugu Unicode Converter</h1>
+    <p>
+      Convert your existing Telugu text and use it in FlexiSIGN,
+      CorelDRAW and other modern design applications.
+    </p>
+
+    <div class="hero-tags">
+      <span>✓ Legacy text conversion</span>
+      <span>✓ Editable Unicode text</span>
+      <span>✓ Modern font support</span>
+    </div>
+  </section>
+
+  <!-- CONVERTER -->
+  <section class="converter-card" id="converter">
+
+    <div class="section-heading">
+      <div>
+        <span class="eyebrow">01 / CONVERSION WORKSPACE</span>
+        <h2>Convert Telugu Text</h2>
+        <p>Paste your old ANU7 text or enter Telugu Unicode text.</p>
+      </div>
+      <div class="engine-status" id="engineStatus">
+        <i></i>
+        <span id="loadStatus">Loading engine...</span>
+      </div>
+    </div>
+
+    <div class="mode-row">
+      <label for="mode">Conversion direction</label>
+      <select id="mode">
+        <option value="anuToUnicode">ANU7 Legacy → Telugu Unicode</option>
+        <option value="unicodeToAnu">Telugu Unicode → ANU7 Legacy</option>
+      </select>
+    </div>
+
+    <div class="editor-grid">
+
+      <div class="editor">
+        <div class="editor-heading">
+          <div>
+            <span class="editor-kicker">SOURCE</span>
+            <label id="sourceLabel" for="source">ANU7 Legacy Text</label>
+          </div>
+          <button class="light-btn" id="clearBtn" type="button">Clear</button>
+        </div>
+
+        <textarea id="source" spellcheck="false"
+          placeholder="Paste your existing ANU7 text here..."></textarea>
+
+        <div class="editor-footer">
+          <span id="sourceCount">0 characters</span>
+          <span>Input text</span>
+        </div>
+      </div>
+
+      <div class="conversion-actions">
+        <button class="convert-btn" id="convertBtn" type="button">
+          Convert <span>→</span>
+        </button>
+        <button class="swap-btn" id="swapBtn" type="button"
+          title="Swap conversion direction">⇄ Swap</button>
+      </div>
+
+      <div class="editor output-editor">
+        <div class="editor-heading">
+          <div>
+            <span class="editor-kicker">RESULT</span>
+            <label id="outputLabel" for="output">Telugu Unicode Output</label>
+          </div>
+          <button class="light-btn" id="copyBtn" type="button">Copy</button>
+        </div>
+
+        <textarea id="output" spellcheck="false"
+          placeholder="Your converted Telugu text appears here..."
+          readonly></textarea>
+
+        <div class="editor-footer">
+          <span id="outputCount">0 characters</span>
+          <span id="matchInfo">ANU7 → Unicode</span>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="message" id="message" role="status">
+      Ready when you are.
+    </div>
+
+    <button class="paste-hint" id="pasteHint" type="button">
+      <span>⌨</span> Tip: Paste using Ctrl + V, then click Convert.
+    </button>
+
+  </section>
+
+  <!-- OLD WAY VS NEW WAY -->
+  <section class="comparison-section">
+    <div class="section-heading centered">
+      <span class="eyebrow">02 / THE DIFFERENCE</span>
+      <h2>From Manual Typing to a Faster Workflow</h2>
+      <p>Why spend time retyping old Telugu content when you can convert it?</p>
+    </div>
+
+    <div class="comparison-grid">
+
+      <article class="comparison-card old-card">
+        <div class="comparison-title">
+          <span class="round-icon red">◷</span>
+          <div>
+            <span class="small-label">EARLIER WORKFLOW</span>
+            <h3>Manual Typing</h3>
+          </div>
+        </div>
+
+        <div class="software-window old-window">
+          <div class="window-top">
+            <span>FlexiSIGN</span>
+            <span>CorelDRAW</span>
+          </div>
+          <div class="fake-toolbar">
+            <span>↖</span><span>T</span><span>▢</span><span>◯</span>
+          </div>
+          <div class="fake-canvas">
+            <strong>తెలుగు</strong>
+            <span class="cursor"></span>
+          </div>
+          <div class="window-caption">Manual Telugu typing workspace</div>
+        </div>
+
+        <ul class="benefit-list negative">
+          <li>Type using an ANU7 keyboard layout</li>
+          <li>Depend on compatible legacy fonts</li>
+          <li>Time-consuming for long content</li>
+          <li>Typing mistakes require correction</li>
+        </ul>
+      </article>
+
+      <article class="comparison-card new-card">
+        <div class="comparison-title">
+          <span class="round-icon blue">⚡</span>
+          <div>
+            <span class="small-label">NEW WORKFLOW</span>
+            <h3>Convert with Telugu Vector Studio</h3>
+          </div>
+        </div>
+
+        <div class="workflow-visual">
+
+          <div class="workflow-file legacy-file">
+            <span class="file-icon">▤</span>
+            <strong>ANU7 Text</strong>
+            <small>Legacy content</small>
+            <div class="sample-code">Old text</div>
+          </div>
+
+          <span class="workflow-arrow">→</span>
+
+          <div class="studio-monitor">
+            <div class="monitor-screen">
+              <div class="monitor-logo">తె</div>
+              <strong>Telugu Vector Studio</strong>
+              <small>Convert to Unicode</small>
+              <div class="monitor-status">✓ Converted</div>
+            </div>
+            <div class="monitor-neck"></div>
+            <div class="monitor-base"></div>
+          </div>
+
+          <span class="workflow-arrow">→</span>
+
+          <div class="workflow-file unicode-file">
+            <span class="file-icon">▤</span>
+            <strong>Unicode Telugu</strong>
+            <small>Modern text</small>
+            <div class="sample-telugu">తెలుగు</div>
+          </div>
+
+        </div>
+
+        <ul class="benefit-list positive">
+          <li>Convert existing ANU7 content quickly</li>
+          <li>Copy Unicode Telugu text directly</li>
+          <li>Paste into FlexiSIGN or CorelDRAW</li>
+          <li>Edit text and choose compatible fonts</li>
+        </ul>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- FLEXISIGN RESULT -->
+  <section class="flexi-section">
+
+    <div class="flexi-copy">
+      <span class="eyebrow">03 / READY FOR DESIGN</span>
+      <h2>Paste into FlexiSIGN.<br><span>Design Without Limits.</span></h2>
+      <p>
+        Copy the converted Unicode Telugu text and paste it into
+        FlexiSIGN. Choose a compatible Telugu Unicode font and
+        continue designing without manually retyping the content.
+      </p>
+
+      <div class="flexi-features">
+        <div><span>✓</span><div><strong>Edit the text</strong><small>Change words and content whenever needed.</small></div></div>
+        <div><span>✓</span><div><strong>Change the font</strong><small>Choose a compatible Telugu Unicode font.</small></div></div>
+        <div><span>✓</span><div><strong>Adjust your design</strong><small>Change size, colour, spacing and position.</small></div></div>
+        <div><span>✓</span><div><strong>Create vector outlines</strong><small>Use FlexiSIGN's text-to-curves or outline feature when preparing cutting artwork.</small></div></div>
+      </div>
+    </div>
+
+    <div class="flexi-preview">
+      <div class="flexi-app">
+        <div class="flexi-titlebar">
+          <span class="flexi-logo">✦</span>
+          <strong>FlexiSIGN</strong>
+          <span class="window-dots">● ● ●</span>
+        </div>
+
+        <div class="flexi-body">
+          <div class="flexi-tools">
+            <span>↖</span><span>T</span><span>▢</span><span>◯</span><span>✎</span>
+          </div>
+          <div class="flexi-artboard">
+            <div class="selected-text">
+              <span class="selection-point top-left"></span>
+              <span class="selection-point top-right"></span>
+              <span class="selection-point bottom-left"></span>
+              <span class="selection-point bottom-right"></span>
+              తెలుగు
+            </div>
+            <div class="font-picker">
+              <small>FONT FAMILY</small>
+              <strong>Noto Sans Telugu ▾</strong>
+            </div>
+          </div>
+        </div>
+
+        <div class="flexi-footer">
+          <span>Unicode Telugu text</span>
+          <span class="editable-tag">Editable</span>
+        </div>
+      </div>
+
+      <div class="preview-caption">
+        <span>✓</span>
+        <div>
+          <strong>Ready for your design workflow</strong>
+          <small>Text can be edited before converting it to outlines.</small>
+        </div>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- SIMPLE WORKFLOW -->
+  <section class="steps-section">
+    <div class="section-heading centered">
+      <span class="eyebrow">04 / HOW TO USE</span>
+      <h2>Four Simple Steps</h2>
+      <p>From an old ANU7 file to editable Telugu design.</p>
+    </div>
+
+    <div class="steps-grid">
+      <article class="step-card">
+        <span class="step-number">01</span>
+        <div class="step-icon">▤</div>
+        <h3>Paste ANU7 Text</h3>
+        <p>Copy text from your existing legacy document.</p>
+      </article>
+      <article class="step-card">
+        <span class="step-number">02</span>
+        <div class="step-icon">⇄</div>
+        <h3>Convert to Unicode</h3>
+        <p>Use Telugu Vector Studio to convert the text.</p>
+      </article>
+      <article class="step-card">
+        <span class="step-number">03</span>
+        <div class="step-icon">▣</div>
+        <h3>Paste into FlexiSIGN</h3>
+        <p>Copy the result and paste it into your design.</p>
+      </article>
+      <article class="step-card">
+        <span class="step-number">04</span>
+        <div class="step-icon">✎</div>
+        <h3>Edit and Create</h3>
+        <p>Choose a font, edit your text and create vector outlines.</p>
+      </article>
+    </div>
+  </section>
+
+  <!-- BENEFITS -->
+  <section class="benefits-section">
+    <div class="benefits-heading">
+      <span class="eyebrow">05 / WHY TELUGU VECTOR STUDIO?</span>
+      <h2>Less Retyping.<br>More Designing.</h2>
+    </div>
+
+    <div class="benefit-item">
+      <span>◷</span>
+      <strong>Save Time</strong>
+      <p>Convert existing text instead of typing it all again.</p>
+    </div>
+    <div class="benefit-item">
+      <span>✎</span>
+      <strong>Stay Editable</strong>
+      <p>Work with Unicode text in compatible design software.</p>
+    </div>
+    <div class="benefit-item">
+      <span>Aa</span>
+      <strong>Font Freedom</strong>
+      <p>Use compatible Unicode Telugu fonts for your designs.</p>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <div>
+    <strong>Telugu Vector Studio</strong>
+    <span>Telugu Font Conversion & Publishing Tools</span>
+  </div>
+  <span>Browser-based conversion · Local processing</span>
+</footer>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,7112 @@
+[
+  {
+    "unicode": "అ",
+    "codepoints": "U+0C05",
+    "kind": "base",
+    "anu7": "n",
+    "anu7Hex": "6E",
+    "anu6": "J",
+    "anu6Hex": "4A"
+  },
+  {
+    "unicode": "ఆ",
+    "codepoints": "U+0C06",
+    "kind": "base",
+    "anu7": "€",
+    "anu7Hex": "80",
+    "anu6": "P",
+    "anu6Hex": "50"
+  },
+  {
+    "unicode": "ఇ",
+    "codepoints": "U+0C07",
+    "kind": "base",
+    "anu7": "‚",
+    "anu7Hex": "82",
+    "anu6": "W",
+    "anu6Hex": "57"
+  },
+  {
+    "unicode": "ఈ",
+    "codepoints": "U+0C08",
+    "kind": "base",
+    "anu7": "‡",
+    "anu7Hex": "87",
+    "anu6": "D",
+    "anu6Hex": "44"
+  },
+  {
+    "unicode": "ఉ",
+    "codepoints": "U+0C09",
+    "kind": "base",
+    "anu7": "–",
+    "anu7Hex": "96",
+    "anu6": "L",
+    "anu6Hex": "4C"
+  },
+  {
+    "unicode": "ఊ",
+    "codepoints": "U+0C0A",
+    "kind": "base",
+    "anu7": "}",
+    "anu7Hex": "7D",
+    "anu6": "T",
+    "anu6Hex": "54"
+  },
+  {
+    "unicode": "ఋ",
+    "codepoints": "U+0C0B",
+    "kind": "base",
+    "anu7": "‹TT",
+    "anu7Hex": "8B 54 54",
+    "anu6": "|°°",
+    "anu6Hex": "7C B0 B0"
+  },
+  {
+    "unicode": "ఎ",
+    "codepoints": "U+0C0E",
+    "kind": "base",
+    "anu7": "m",
+    "anu7Hex": "6D",
+    "anu6": "Z",
+    "anu6Hex": "5A"
+  },
+  {
+    "unicode": "ఏ",
+    "codepoints": "U+0C0F",
+    "kind": "base",
+    "anu7": "@",
+    "anu7Hex": "40",
+    "anu6": "U",
+    "anu6Hex": "55"
+  },
+  {
+    "unicode": "ఒ",
+    "codepoints": "U+0C12",
+    "kind": "base",
+    "anu7": "ÿ",
+    "anu7Hex": "FF",
+    "anu6": "X",
+    "anu6Hex": "58"
+  },
+  {
+    "unicode": "ఓ",
+    "codepoints": "U+0C13",
+    "kind": "base",
+    "anu7": "z",
+    "anu7Hex": "7A",
+    "anu6": "F",
+    "anu6Hex": "46"
+  },
+  {
+    "unicode": "ం",
+    "codepoints": "U+0C02",
+    "kind": "base",
+    "anu7": "+",
+    "anu7Hex": "2B",
+    "anu6": "O",
+    "anu6Hex": "4F"
+  },
+  {
+    "unicode": "‘",
+    "codepoints": "U+2018",
+    "kind": "base",
+    "anu7": "»",
+    "anu7Hex": "BB",
+    "anu6": "'",
+    "anu6Hex": "27"
+  },
+  {
+    "unicode": "’",
+    "codepoints": "U+2019",
+    "kind": "base",
+    "anu7": "µ",
+    "anu7Hex": "B5",
+    "anu6": "Ñ",
+    "anu6Hex": "D1"
+  },
+  {
+    "unicode": "“",
+    "codepoints": "U+201C",
+    "kind": "base",
+    "anu7": "»»",
+    "anu7Hex": "BB BB",
+    "anu6": "''",
+    "anu6Hex": "27 27"
+  },
+  {
+    "unicode": "”",
+    "codepoints": "U+201D",
+    "kind": "base",
+    "anu7": "µµ",
+    "anu7Hex": "B5 B5",
+    "anu6": "ÑÑ",
+    "anu6Hex": "D1 D1"
+  },
+  {
+    "unicode": "ౠ",
+    "codepoints": "U+0C60",
+    "kind": "base",
+    "anu7": "‹T¶",
+    "anu7Hex": "8B 54 B6",
+    "anu6": "|°¶",
+    "anu6Hex": "7C B0 B6"
+  },
+  {
+    "unicode": "ౡ",
+    "codepoints": "U+0C61",
+    "kind": "base",
+    "anu7": "~L",
+    "anu7Hex": "7E 4C",
+    "anu6": "~L",
+    "anu6Hex": "7E 4C"
+  },
+  {
+    "unicode": "ఐ",
+    "codepoints": "U+0C10",
+    "kind": "base",
+    "anu7": "×",
+    "anu7Hex": "D7",
+    "anu6": "S",
+    "anu6Hex": "53"
+  },
+  {
+    "unicode": "ఔ",
+    "codepoints": "U+0C14",
+    "kind": "base",
+    "anu7": "W",
+    "anu7Hex": "57",
+    "anu6": "B",
+    "anu6Hex": "42"
+  },
+  {
+    "unicode": "ః",
+    "codepoints": "U+0C03",
+    "kind": "base",
+    "anu7": "'",
+    "anu7Hex": "27",
+    "anu6": ":",
+    "anu6Hex": "3A"
+  },
+  {
+    "unicode": "ఁ",
+    "codepoints": "U+0C01",
+    "kind": "base",
+    "anu7": "\"",
+    "anu7Hex": "22",
+    "anu6": "–",
+    "anu6Hex": "96"
+  },
+  {
+    "unicode": "ా",
+    "codepoints": "U+0C3E",
+    "kind": "base",
+    "anu7": "Œ",
+    "anu7Hex": "8C",
+    "anu6": "Œ",
+    "anu6Hex": "8C"
+  },
+  {
+    "unicode": "ి",
+    "codepoints": "U+0C3F",
+    "kind": "base",
+    "anu7": "",
+    "anu7Hex": "8D",
+    "anu6": "",
+    "anu6Hex": "8D"
+  },
+  {
+    "unicode": "ీ",
+    "codepoints": "U+0C40",
+    "kind": "base",
+    "anu7": "™",
+    "anu7Hex": "99",
+    "anu6": "™",
+    "anu6Hex": "99"
+  },
+  {
+    "unicode": "ు",
+    "codepoints": "U+0C41",
+    "kind": "base",
+    "anu7": "•",
+    "anu7Hex": "95",
+    "anu6": "•",
+    "anu6Hex": "95"
+  },
+  {
+    "unicode": "ూ",
+    "codepoints": "U+0C42",
+    "kind": "base",
+    "anu7": "¯",
+    "anu7Hex": "AF",
+    "anu6": "¯",
+    "anu6Hex": "AF"
+  },
+  {
+    "unicode": "ృ",
+    "codepoints": "U+0C43",
+    "kind": "base",
+    "anu7": "",
+    "anu7Hex": "7F",
+    "anu6": "$",
+    "anu6Hex": "24"
+  },
+  {
+    "unicode": "ౄ",
+    "codepoints": "U+0C44",
+    "kind": "base",
+    "anu7": "²",
+    "anu7Hex": "7F B2",
+    "anu6": "",
+    "anu6Hex": ""
+  },
+  {
+    "unicode": "ె",
+    "codepoints": "U+0C46",
+    "kind": "base",
+    "anu7": "³",
+    "anu7Hex": "B3",
+    "anu6": "³",
+    "anu6Hex": "B3"
+  },
+  {
+    "unicode": "ే",
+    "codepoints": "U+0C47",
+    "kind": "base",
+    "anu7": "À",
+    "anu7Hex": "C0",
+    "anu6": "À",
+    "anu6Hex": "C0"
+  },
+  {
+    "unicode": "ొ",
+    "codepoints": "U+0C4A",
+    "kind": "base",
+    "anu7": "¸",
+    "anu7Hex": "B8",
+    "anu6": "¸",
+    "anu6Hex": "B8"
+  },
+  {
+    "unicode": "ో",
+    "codepoints": "U+0C4B",
+    "kind": "base",
+    "anu7": "Ë",
+    "anu7Hex": "CB",
+    "anu6": "Ë",
+    "anu6Hex": "CB"
+  },
+  {
+    "unicode": "ౖ",
+    "codepoints": "U+0C56",
+    "kind": "base",
+    "anu7": "Õ",
+    "anu7Hex": "D5",
+    "anu6": "Ø",
+    "anu6Hex": "D8"
+  },
+  {
+    "unicode": "ై",
+    "codepoints": "U+0C48",
+    "kind": "base",
+    "anu7": "îÕ",
+    "anu7Hex": "EE D5",
+    "anu6": "³Ø",
+    "anu6Hex": "B3 D8"
+  },
+  {
+    "unicode": " ై",
+    "codepoints": "U+0020 U+0C46 U+0C56",
+    "kind": "base",
+    "anu7": "³Õ",
+    "anu7Hex": "B3 D5",
+    "anu6": "",
+    "anu6Hex": ""
+  },
+  {
+    "unicode": "ౌ",
+    "codepoints": "U+0C4C",
+    "kind": "base",
+    "anu7": "º",
+    "anu7Hex": "BA",
+    "anu6": "º",
+    "anu6Hex": "BA"
+  },
+  {
+    "unicode": "క",
+    "codepoints": "U+0C15",
+    "kind": "base",
+    "anu7": "¿£",
+    "anu7Hex": "BF A3",
+    "anu6": "H",
+    "anu6Hex": "48"
+  },
+  {
+    "unicode": "ఖ",
+    "codepoints": "U+0C16",
+    "kind": "base",
+    "anu7": "K",
+    "anu7Hex": "4B",
+    "anu6": "M",
+    "anu6Hex": "4D"
+  },
+  {
+    "unicode": "గ",
+    "codepoints": "U+0C17",
+    "kind": "base",
+    "anu7": ">·",
+    "anu7Hex": "3E B7",
+    "anu6": "Q",
+    "anu6Hex": "51"
+  },
+  {
+    "unicode": "ఘ",
+    "codepoints": "U+0C18",
+    "kind": "base",
+    "anu7": "|˜ŸT",
+    "anu7Hex": "7C 98 9F 54",
+    "anu6": "„¦°",
+    "anu6Hex": "84 A6 B0"
+  },
+  {
+    "unicode": "చ",
+    "codepoints": "U+0C1A",
+    "kind": "base",
+    "anu7": "#á",
+    "anu7Hex": "23 E1",
+    "anu6": "K",
+    "anu6Hex": "4B"
+  },
+  {
+    "unicode": "ఛ",
+    "codepoints": "U+0C1B",
+    "kind": "base",
+    "anu7": "#óá",
+    "anu7Hex": "23 F3 E1",
+    "anu6": "K",
+    "anu6Hex": "4B 8F"
+  },
+  {
+    "unicode": "జ",
+    "codepoints": "U+0C1C",
+    "kind": "base",
+    "anu7": "È",
+    "anu7Hex": "C8",
+    "anu6": "*",
+    "anu6Hex": "2A"
+  },
+  {
+    "unicode": "ఝ",
+    "codepoints": "U+0C1D",
+    "kind": "base",
+    "anu7": "sÁa",
+    "anu7Hex": "73 C1 61",
+    "anu6": "~­",
+    "anu6Hex": "7E AD"
+  },
+  {
+    "unicode": "ట",
+    "codepoints": "U+0C1F",
+    "kind": "base",
+    "anu7": "³",
+    "anu7Hex": "B3",
+    "anu6": ">",
+    "anu6Hex": "3E"
+  },
+  {
+    "unicode": "ఠ",
+    "codepoints": "U+0C20",
+    "kind": "base",
+    "anu7": "sÄÁ",
+    "anu7Hex": "73 C4 C1",
+    "anu6": "",
+    "anu6Hex": ""
+  },
+  {
+    "unicode": "డ",
+    "codepoints": "U+0C21",
+    "kind": "base",
+    "anu7": "&ƒ",
+    "anu7Hex": "26 83",
+    "anu6": "_",
+    "anu6Hex": "5F"
+  },
+  {
+    "unicode": "ఢ",
+    "codepoints": "U+0C22",
+    "kind": "base",
+    "anu7": "&óƒ",
+    "anu7Hex": "26 F3 83",
+    "anu6": "_",
+    "anu6Hex": "5F 8F"
+  },
+  {
+    "unicode": "ణ",
+    "codepoints": "U+0C23",
+    "kind": "base",
+    "anu7": "D",
+    "anu7Hex": "44",
+    "anu6": "}",
+    "anu6Hex": "7D"
+  },
+  {
+    "unicode": "త",
+    "codepoints": "U+0C24",
+    "kind": "base",
+    "anu7": "Ôá",
+    "anu7Hex": "D4 E1",
+    "anu6": "`",
+    "anu6Hex": "60"
+  },
+  {
+    "unicode": "థ",
+    "codepoints": "U+0C25",
+    "kind": "base",
+    "anu7": "<¸Š",
+    "anu7Hex": "3C B8 8A",
+    "anu6": "^‰",
+    "anu6Hex": "5E 89"
+  },
+  {
+    "unicode": "ద",
+    "codepoints": "U+0C26",
+    "kind": "base",
+    "anu7": "<Š",
+    "anu7Hex": "3C 8A",
+    "anu6": "^",
+    "anu6Hex": "5E"
+  },
+  {
+    "unicode": "న",
+    "codepoints": "U+0C28",
+    "kind": "base",
+    "anu7": "q",
+    "anu7Hex": "71",
+    "anu6": "#",
+    "anu6Hex": "23"
+  },
+  {
+    "unicode": "ప",
+    "codepoints": "U+0C2A",
+    "kind": "base",
+    "anu7": "|Ÿ",
+    "anu7Hex": "7C 9F",
+    "anu6": "„",
+    "anu6Hex": "84"
+  },
+  {
+    "unicode": "బ",
+    "codepoints": "U+0C2C",
+    "kind": "base",
+    "anu7": "‹",
+    "anu7Hex": "8B",
+    "anu6": "|",
+    "anu6Hex": "7C"
+  },
+  {
+    "unicode": "భ",
+    "codepoints": "U+0C2D",
+    "kind": "base",
+    "anu7": "uó„",
+    "anu7Hex": "75 F3 84",
+    "anu6": "ƒ",
+    "anu6Hex": "83 8F"
+  },
+  {
+    "unicode": "మ",
+    "codepoints": "U+0C2E",
+    "kind": "base",
+    "anu7": "eT",
+    "anu7Hex": "65 54",
+    "anu6": "=°",
+    "anu6Hex": "3D B0"
+  },
+  {
+    "unicode": "య",
+    "codepoints": "U+0C2F",
+    "kind": "base",
+    "anu7": "jáT",
+    "anu7Hex": "6A E1 54",
+    "anu6": "†",
+    "anu6Hex": "86"
+  },
+  {
+    "unicode": "ర",
+    "codepoints": "U+0C30",
+    "kind": "base",
+    "anu7": "sÁ",
+    "anu7Hex": "73 C1",
+    "anu6": "~",
+    "anu6Hex": "7E"
+  },
+  {
+    "unicode": "ల",
+    "codepoints": "U+0C32",
+    "kind": "base",
+    "anu7": "\\",
+    "anu7Hex": "5C",
+    "anu6": "",
+    "anu6Hex": "81"
+  },
+  {
+    "unicode": "వ",
+    "codepoints": "U+0C35",
+    "kind": "base",
+    "anu7": "e",
+    "anu7Hex": "65",
+    "anu6": "",
+    "anu6Hex": ""
+  },
+  {
+    "unicode": "శ",
+    "codepoints": "U+0C36",
+    "kind": "base",
+    "anu7": "Xø",
+    "anu7Hex": "58 F8",
+    "anu6": "‰",
+    "anu6Hex": "89"
+  },
+  {
+    "unicode": "ష",
+    "codepoints": "U+0C37",
+    "kind": "base",
+    "anu7": "wŸ",
+    "anu7Hex": "77 9F",
+    "anu6": "+",
+    "anu6Hex": "2B"
+  },
+  {
+    "unicode": "స",
+    "codepoints": "U+0C38",
+    "kind": "base",
+    "anu7": "dŸ",
+    "anu7Hex": "64 9F",
+    "anu6": "‹",
+    "anu6Hex": "8B"
+  },
+  {
+    "unicode": "హ",
+    "codepoints": "U+0C39",
+    "kind": "base",
+    "anu7": "VŸ²",
+    "anu7Hex": "56 9F B2",
+    "anu6": "‚",
+    "anu6Hex": "82"
+  },
+  {
+    "unicode": "ళ",
+    "codepoints": "U+0C33",
+    "kind": "base",
+    "anu7": "Þø",
+    "anu7Hex": "DE F8",
+    "anu6": "ˆ",
+    "anu6Hex": "88"
+  },
+  {
+    "unicode": "ఱ",
+    "codepoints": "U+0C31",
+    "kind": "base",
+    "anu7": "i",
+    "anu7Hex": "69",
+    "anu6": "Ž",
+    "anu6Hex": "8E"
+  },
+  {
+    "unicode": "ఙ",
+    "codepoints": "U+0C19",
+    "kind": "base",
+    "anu7": "v",
+    "anu7Hex": "76",
+    "anu6": "V",
+    "anu6Hex": "56"
+  },
+  {
+    "unicode": "ఞ",
+    "codepoints": "U+0C1E",
+    "kind": "base",
+    "anu7": "x",
+    "anu7Hex": "78",
+    "anu6": "&",
+    "anu6Hex": "26"
+  },
+  {
+    "unicode": "క్ష",
+    "codepoints": "U+0C15 U+0C4D U+0C37",
+    "kind": "base",
+    "anu7": "¿£Œ",
+    "anu7Hex": "BF A3 8C",
+    "anu6": "",
+    "anu6Hex": ""
+  },
+  {
+    "unicode": "౦",
+    "codepoints": "U+0C66",
+    "kind": "base",
+    "anu7": "0",
+    "anu7Hex": "30",
+    "anu6": "0",
+    "anu6Hex": "30"
+  },
+  {
+    "unicode": "౧",
+    "codepoints": "U+0C67",
+    "kind": "base",
+    "anu7": "1",
+    "anu7Hex": "31",
+    "anu6": "1",
+    "anu6Hex": "31"
+  },
+  {
+    "unicode": "౨",
+    "codepoints": "U+0C68",
+    "kind": "base",
+    "anu7": "2",
+    "anu7Hex": "32",
+    "anu6": "2",
+    "anu6Hex": "32"
+  },
+  {
+    "unicode": "౩",
+    "codepoints": "U+0C69",
+    "kind": "base",
+    "anu7": "3",
+    "anu7Hex": "33",
+    "anu6": "3",
+    "anu6Hex": "33"
+  },
+  {
+    "unicode": "౪",
+    "codepoints": "U+0C6A",
+    "kind": "base",
+    "anu7": "4",
+    "anu7Hex": "34",
+    "anu6": "4",
+    "anu6Hex": "34"
+  },
+  {
+    "unicode": "౫",
+    "codepoints": "U+0C6B",
+    "kind": "base",
+    "anu7": "5",
+    "anu7Hex": "35",
+    "anu6": "5",
+    "anu6Hex": "35"
+  },
+  {
+    "unicode": "౬",
+    "codepoints": "U+0C6C",
+    "kind": "base",
+    "anu7": "6",
+    "anu7Hex": "36",
+    "anu6": "6",
+    "anu6Hex": "36"
+  },
+  {
+    "unicode": "౭",
+    "codepoints": "U+0C6D",
+    "kind": "base",
+    "anu7": "7",
+    "anu7Hex": "37",
+    "anu6": "7",
+    "anu6Hex": "37"
+  },
+  {
+    "unicode": "౮",
+    "codepoints": "U+0C6E",
+    "kind": "base",
+    "anu7": "8",
+    "anu7Hex": "38",
+    "anu6": "8",
+    "anu6Hex": "38"
+  },
+  {
+    "unicode": "౯",
+    "codepoints": "U+0C6F",
+    "kind": "base",
+    "anu7": "9",
+    "anu7Hex": "39",
+    "anu6": "9",
+    "anu6Hex": "39"
+  },
+  {
+    "unicode": "।",
+    "codepoints": "U+0964",
+    "kind": "base",
+    "anu7": "ö",
+    "anu7Hex": "F6",
+    "anu6": "I",
+    "anu6Hex": "49"
+  },
+  {
+    "unicode": "॥",
+    "codepoints": "U+0965",
+    "kind": "base",
+    "anu7": "öö",
+    "anu7Hex": "F6 F6",
+    "anu6": "II",
+    "anu6Hex": "49 49"
+  },
+  {
+    "unicode": "ఫ",
+    "codepoints": "U+0C2B",
+    "kind": "base",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "„¦",
+    "anu6Hex": "84 A6"
+  },
+  {
+    "unicode": "ధ",
+    "codepoints": "U+0C27",
+    "kind": "base",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "^",
+    "anu6Hex": "5E 8F"
+  },
+  {
+    "unicode": "క",
+    "codepoints": "U+0C15",
+    "kind": "gunintam",
+    "anu7": "¿£",
+    "anu7Hex": "BF A3",
+    "anu6": "H›",
+    "anu6Hex": "48 9B"
+  },
+  {
+    "unicode": "కా",
+    "codepoints": "U+0C15 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "¿±",
+    "anu7Hex": "BF B1",
+    "anu6": "Hê",
+    "anu6Hex": "48 EA"
+  },
+  {
+    "unicode": "కి",
+    "codepoints": "U+0C15 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "¿ì",
+    "anu7Hex": "BF EC",
+    "anu6": "H÷",
+    "anu6Hex": "48 F7"
+  },
+  {
+    "unicode": "కీ",
+    "codepoints": "U+0C15 U+0C40",
+    "kind": "gunintam",
+    "anu7": "¿¡",
+    "anu7Hex": "BF A1",
+    "anu6": "H©",
+    "anu6Hex": "48 A9"
+  },
+  {
+    "unicode": "కు",
+    "codepoints": "U+0C15 U+0C41",
+    "kind": "gunintam",
+    "anu7": "Å£”",
+    "anu7Hex": "C5 A3 94",
+    "anu6": "ä›½",
+    "anu6Hex": "E4 9B BD"
+  },
+  {
+    "unicode": "కూ",
+    "codepoints": "U+0C15 U+0C42",
+    "kind": "gunintam",
+    "anu7": "Å£L",
+    "anu7Hex": "C5 A3 4C",
+    "anu6": "ä›€",
+    "anu6Hex": "E4 9B 80"
+  },
+  {
+    "unicode": "కె",
+    "codepoints": "U+0C15 U+0C46",
+    "kind": "gunintam",
+    "anu7": "Â¿",
+    "anu7Hex": "C2 BF",
+    "anu6": "ïH",
+    "anu6Hex": "EF 48"
+  },
+  {
+    "unicode": "కే",
+    "codepoints": "U+0C15 U+0C47",
+    "kind": "gunintam",
+    "anu7": "¹¿",
+    "anu7Hex": "B9 BF",
+    "anu6": "öH",
+    "anu6Hex": "F6 48"
+  },
+  {
+    "unicode": "కై",
+    "codepoints": "U+0C15 U+0C48",
+    "kind": "gunintam",
+    "anu7": "Â¿Õ",
+    "anu7Hex": "C2 BF D5",
+    "anu6": "ïHá",
+    "anu6Hex": "EF 48 E1"
+  },
+  {
+    "unicode": "కొ",
+    "codepoints": "U+0C15 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "¿=",
+    "anu7Hex": "BF 3D",
+    "anu6": "Hù",
+    "anu6Hex": "48 F9"
+  },
+  {
+    "unicode": "కో",
+    "codepoints": "U+0C15 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "¿Ã",
+    "anu7Hex": "BF C3",
+    "anu6": "HË",
+    "anu6Hex": "48 CB"
+  },
+  {
+    "unicode": "కౌ",
+    "codepoints": "U+0C15 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "¿š",
+    "anu7Hex": "BF 9A",
+    "anu6": "HÒ",
+    "anu6Hex": "48 D2"
+  },
+  {
+    "unicode": "కం",
+    "codepoints": "U+0C15 U+0C02",
+    "kind": "gunintam",
+    "anu7": "¿£+",
+    "anu7Hex": "BF A3 2B",
+    "anu6": "H›O",
+    "anu6Hex": "48 9B 4F"
+  },
+  {
+    "unicode": "కః",
+    "codepoints": "U+0C15 U+0C03",
+    "kind": "gunintam",
+    "anu7": "¿£'",
+    "anu7Hex": "BF A3 27",
+    "anu6": "H›:",
+    "anu6Hex": "48 9B 3A"
+  },
+  {
+    "unicode": "ఖ",
+    "codepoints": "U+0C16",
+    "kind": "gunintam",
+    "anu7": "K",
+    "anu7Hex": "4B",
+    "anu6": "Y",
+    "anu6Hex": "59"
+  },
+  {
+    "unicode": "ఖా",
+    "codepoints": "U+0C16 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "U²",
+    "anu7Hex": "55 B2",
+    "anu6": "Mì",
+    "anu6Hex": "4D EC"
+  },
+  {
+    "unicode": "ఖి",
+    "codepoints": "U+0C16 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "Ï",
+    "anu7Hex": "CF",
+    "anu6": "d",
+    "anu6Hex": "64"
+  },
+  {
+    "unicode": "ఖీ",
+    "codepoints": "U+0C16 U+0C40",
+    "kind": "gunintam",
+    "anu7": "F",
+    "anu7Hex": "46",
+    "anu6": "v",
+    "anu6Hex": "76"
+  },
+  {
+    "unicode": "ఖు",
+    "codepoints": "U+0C16 U+0C41",
+    "kind": "gunintam",
+    "anu7": "KT",
+    "anu7Hex": "4B 54",
+    "anu6": "Y°",
+    "anu6Hex": "59 B0"
+  },
+  {
+    "unicode": "ఖూ",
+    "codepoints": "U+0C16 U+0C42",
+    "kind": "gunintam",
+    "anu7": "KÖ",
+    "anu7Hex": "4B D6",
+    "anu6": "Y¶",
+    "anu6Hex": "59 B6"
+  },
+  {
+    "unicode": "ఖె",
+    "codepoints": "U+0C16 U+0C46",
+    "kind": "gunintam",
+    "anu7": "UÉ",
+    "anu7Hex": "55 C9",
+    "anu6": "Mÿ",
+    "anu6Hex": "4D FF"
+  },
+  {
+    "unicode": "ఖే",
+    "codepoints": "U+0C16 U+0C47",
+    "kind": "gunintam",
+    "anu7": "Uñ",
+    "anu7Hex": "55 F1",
+    "anu6": "Mè",
+    "anu6Hex": "4D E8"
+  },
+  {
+    "unicode": "ఖై",
+    "codepoints": "U+0C16 U+0C48",
+    "kind": "gunintam",
+    "anu7": "UÉÕ",
+    "anu7Hex": "55 C9 D5",
+    "anu6": "Mÿá",
+    "anu6Hex": "4D FF E1"
+  },
+  {
+    "unicode": "ఖొ",
+    "codepoints": "U+0C16 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "U¤",
+    "anu7Hex": "55 A4",
+    "anu6": "Mç",
+    "anu6Hex": "4D E7"
+  },
+  {
+    "unicode": "ఖో",
+    "codepoints": "U+0C16 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "UË",
+    "anu7Hex": "55 CB",
+    "anu6": "MÕ",
+    "anu6Hex": "4D D5"
+  },
+  {
+    "unicode": "ఖౌ",
+    "codepoints": "U+0C16 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "U…",
+    "anu7Hex": "55 85",
+    "anu6": "Mº",
+    "anu6Hex": "4D BA"
+  },
+  {
+    "unicode": "ఖం",
+    "codepoints": "U+0C16 U+0C02",
+    "kind": "gunintam",
+    "anu7": "K+",
+    "anu7Hex": "4B 2B",
+    "anu6": "YO",
+    "anu6Hex": "59 4F"
+  },
+  {
+    "unicode": "ఖః",
+    "codepoints": "U+0C16 U+0C03",
+    "kind": "gunintam",
+    "anu7": "K'",
+    "anu7Hex": "4B 27",
+    "anu6": "Y:",
+    "anu6Hex": "59 3A"
+  },
+  {
+    "unicode": "గ",
+    "codepoints": "U+0C17",
+    "kind": "gunintam",
+    "anu7": ">·",
+    "anu7Hex": "3E B7",
+    "anu6": "Q®",
+    "anu6Hex": "51 AE"
+  },
+  {
+    "unicode": "గా",
+    "codepoints": "U+0C17 U+0C3E",
+    "kind": "gunintam",
+    "anu7": ">±",
+    "anu7Hex": "3E B1",
+    "anu6": "Qê",
+    "anu6Hex": "51 EA"
+  },
+  {
+    "unicode": "గి",
+    "codepoints": "U+0C17 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "Ð",
+    "anu7Hex": "D0",
+    "anu6": "y",
+    "anu6Hex": "79"
+  },
+  {
+    "unicode": "గీ",
+    "codepoints": "U+0C17 U+0C40",
+    "kind": "gunintam",
+    "anu7": "^",
+    "anu7Hex": "5E",
+    "anu6": "w",
+    "anu6Hex": "77"
+  },
+  {
+    "unicode": "గు",
+    "codepoints": "U+0C17 U+0C41",
+    "kind": "gunintam",
+    "anu7": ">·T",
+    "anu7Hex": "3E B7 54",
+    "anu6": "Q®°",
+    "anu6Hex": "51 AE B0"
+  },
+  {
+    "unicode": "గూ",
+    "codepoints": "U+0C17 U+0C42",
+    "kind": "gunintam",
+    "anu7": ">·Ö",
+    "anu7Hex": "3E B7 D6",
+    "anu6": "Q®¶",
+    "anu6Hex": "51 AE B6"
+  },
+  {
+    "unicode": "గె",
+    "codepoints": "U+0C17 U+0C46",
+    "kind": "gunintam",
+    "anu7": "Â>",
+    "anu7Hex": "C2 3E",
+    "anu6": "ïQ",
+    "anu6Hex": "EF 51"
+  },
+  {
+    "unicode": "గే",
+    "codepoints": "U+0C17 U+0C47",
+    "kind": "gunintam",
+    "anu7": "¹>",
+    "anu7Hex": "B9 3E",
+    "anu6": "öQ",
+    "anu6Hex": "F6 51"
+  },
+  {
+    "unicode": "గై",
+    "codepoints": "U+0C17 U+0C48",
+    "kind": "gunintam",
+    "anu7": "Â>Õ",
+    "anu7Hex": "C2 3E D5",
+    "anu6": "ïQá",
+    "anu6Hex": "EF 51 E1"
+  },
+  {
+    "unicode": "గొ",
+    "codepoints": "U+0C17 U+0C4A",
+    "kind": "gunintam",
+    "anu7": ">=",
+    "anu7Hex": "3E 3D",
+    "anu6": "Qù",
+    "anu6Hex": "51 F9"
+  },
+  {
+    "unicode": "గో",
+    "codepoints": "U+0C17 U+0C4B",
+    "kind": "gunintam",
+    "anu7": ">Ã",
+    "anu7Hex": "3E C3",
+    "anu6": "QË",
+    "anu6Hex": "51 CB"
+  },
+  {
+    "unicode": "గౌ",
+    "codepoints": "U+0C17 U+0C4C",
+    "kind": "gunintam",
+    "anu7": ">š",
+    "anu7Hex": "3E 9A",
+    "anu6": "QÒ",
+    "anu6Hex": "51 D2"
+  },
+  {
+    "unicode": "గం",
+    "codepoints": "U+0C17 U+0C02",
+    "kind": "gunintam",
+    "anu7": ">·+",
+    "anu7Hex": "3E B7 2B",
+    "anu6": "Q®O",
+    "anu6Hex": "51 AE 4F"
+  },
+  {
+    "unicode": "గః",
+    "codepoints": "U+0C17 U+0C03",
+    "kind": "gunintam",
+    "anu7": ">·'",
+    "anu7Hex": "3E B7 27",
+    "anu6": "Q®:",
+    "anu6Hex": "51 AE 3A"
+  },
+  {
+    "unicode": "ఘ",
+    "codepoints": "U+0C18",
+    "kind": "gunintam",
+    "anu7": "|˜ŸT",
+    "anu7Hex": "7C 98 9F 54",
+    "anu6": "„¦¬°",
+    "anu6Hex": "84 A6 AC B0"
+  },
+  {
+    "unicode": "ఘా",
+    "codepoints": "U+0C18 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "|˜ŸÖ",
+    "anu7Hex": "7C 98 9F D6",
+    "anu6": "„¦¬¶",
+    "anu6Hex": "84 A6 AC B6"
+  },
+  {
+    "unicode": "ఘి",
+    "codepoints": "U+0C18 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "|˜¾T",
+    "anu7Hex": "7C 98 BE 54",
+    "anu6": "„¦²°",
+    "anu6Hex": "84 A6 B2 B0"
+  },
+  {
+    "unicode": "ఘీ",
+    "codepoints": "U+0C18 U+0C40",
+    "kind": "gunintam",
+    "anu7": "|˜ÓT",
+    "anu7Hex": "7C 98 D3 54",
+    "anu6": "„¦Ô°",
+    "anu6Hex": "84 A6 D4 B0"
+  },
+  {
+    "unicode": "ఘు",
+    "codepoints": "U+0C18 U+0C41",
+    "kind": "gunintam",
+    "anu7": "|˜ŸTT",
+    "anu7Hex": "7C 98 9F 54 54",
+    "anu6": "„¦¬ò",
+    "anu6Hex": "84 A6 AC F2"
+  },
+  {
+    "unicode": "ఘూ",
+    "codepoints": "U+0C18 U+0C42",
+    "kind": "gunintam",
+    "anu7": "|˜ŸTÖ",
+    "anu7Hex": "7C 98 9F 54 D6",
+    "anu6": "„¦¬ü",
+    "anu6Hex": "84 A6 AC FC"
+  },
+  {
+    "unicode": "ఘె",
+    "codepoints": "U+0C18 U+0C46",
+    "kind": "gunintam",
+    "anu7": "™|˜T",
+    "anu7Hex": "99 7C 98 54",
+    "anu6": "Ì„¦°",
+    "anu6Hex": "CC 84 A6 B0"
+  },
+  {
+    "unicode": "ఘే",
+    "codepoints": "U+0C18 U+0C47",
+    "kind": "gunintam",
+    "anu7": "|˜T",
+    "anu7Hex": "9D 7C 98 54",
+    "anu6": "À„¦°",
+    "anu6Hex": "C0 84 A6 B0"
+  },
+  {
+    "unicode": "ఘై",
+    "codepoints": "U+0C18 U+0C48",
+    "kind": "gunintam",
+    "anu7": "™|˜T®",
+    "anu7Hex": "99 7C 98 54 AE",
+    "anu6": "Ì„¦°Ø",
+    "anu6Hex": "CC 84 A6 B0 D8"
+  },
+  {
+    "unicode": "ఘొ",
+    "codepoints": "U+0C18 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "|˜ŸT¤",
+    "anu7Hex": "7C 98 9F 54 A4",
+    "anu6": "„¦¬°ç",
+    "anu6Hex": "84 A6 AC B0 E7"
+  },
+  {
+    "unicode": "ఘో",
+    "codepoints": "U+0C18 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "|˜ŸTË",
+    "anu7Hex": "7C 98 9F 54 CB",
+    "anu6": "„¦¬°Õ",
+    "anu6Hex": "84 A6 AC B0 D5"
+  },
+  {
+    "unicode": "ఘౌ",
+    "codepoints": "U+0C18 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "|˜ŸTò",
+    "anu7Hex": "7C 98 9F 54 F2",
+    "anu6": "„¦¬°¿",
+    "anu6Hex": "84 A6 AC B0 BF"
+  },
+  {
+    "unicode": "ఘం",
+    "codepoints": "U+0C18 U+0C02",
+    "kind": "gunintam",
+    "anu7": "|˜ŸT+",
+    "anu7Hex": "7C 98 9F 54 2B",
+    "anu6": "„¦¬°O",
+    "anu6Hex": "84 A6 AC B0 4F"
+  },
+  {
+    "unicode": "ఘః",
+    "codepoints": "U+0C18 U+0C03",
+    "kind": "gunintam",
+    "anu7": "|˜ŸT'",
+    "anu7Hex": "7C 98 9F 54 27",
+    "anu6": "„¦¬°:",
+    "anu6Hex": "84 A6 AC B0 3A"
+  },
+  {
+    "unicode": "చ",
+    "codepoints": "U+0C1A",
+    "kind": "gunintam",
+    "anu7": "#á",
+    "anu7Hex": "23 E1",
+    "anu6": "KÇ",
+    "anu6Hex": "4B C7"
+  },
+  {
+    "unicode": "చా",
+    "codepoints": "U+0C1A U+0C3E",
+    "kind": "gunintam",
+    "anu7": "#",
+    "anu7Hex": "23 90",
+    "anu6": "KŒ",
+    "anu6Hex": "4B 8C"
+  },
+  {
+    "unicode": "చి",
+    "codepoints": "U+0C1A U+0C3F",
+    "kind": "gunintam",
+    "anu7": "º",
+    "anu7Hex": "BA",
+    "anu6": "z",
+    "anu6Hex": "7A"
+  },
+  {
+    "unicode": "చీ",
+    "codepoints": "U+0C1A U+0C40",
+    "kind": "gunintam",
+    "anu7": "N",
+    "anu7Hex": "4E",
+    "anu6": "p",
+    "anu6Hex": "70"
+  },
+  {
+    "unicode": "చు",
+    "codepoints": "U+0C1A U+0C41",
+    "kind": "gunintam",
+    "anu7": "#áT",
+    "anu7Hex": "23 E1 54",
+    "anu6": "KÇ°",
+    "anu6Hex": "4B C7 B0"
+  },
+  {
+    "unicode": "చూ",
+    "codepoints": "U+0C1A U+0C42",
+    "kind": "gunintam",
+    "anu7": "#áÖ",
+    "anu7Hex": "23 E1 D6",
+    "anu6": "KÇ¶",
+    "anu6Hex": "4B C7 B6"
+  },
+  {
+    "unicode": "చె",
+    "codepoints": "U+0C1A U+0C46",
+    "kind": "gunintam",
+    "anu7": "#î",
+    "anu7Hex": "23 EE",
+    "anu6": "K³",
+    "anu6Hex": "4B B3"
+  },
+  {
+    "unicode": "చే",
+    "codepoints": "U+0C1A U+0C47",
+    "kind": "gunintam",
+    "anu7": "#û",
+    "anu7Hex": "23 FB",
+    "anu6": "KÍ",
+    "anu6Hex": "4B CD"
+  },
+  {
+    "unicode": "చై",
+    "codepoints": "U+0C1A U+0C48",
+    "kind": "gunintam",
+    "anu7": "#îÕ",
+    "anu7Hex": "23 EE D5",
+    "anu6": "K³á",
+    "anu6Hex": "4B B3 E1"
+  },
+  {
+    "unicode": "చొ",
+    "codepoints": "U+0C1A U+0C4A",
+    "kind": "gunintam",
+    "anu7": "#=",
+    "anu7Hex": "23 3D",
+    "anu6": "Kù",
+    "anu6Hex": "4B F9"
+  },
+  {
+    "unicode": "చో",
+    "codepoints": "U+0C1A U+0C4B",
+    "kind": "gunintam",
+    "anu7": "#Ã",
+    "anu7Hex": "23 C3",
+    "anu6": "KË",
+    "anu6Hex": "4B CB"
+  },
+  {
+    "unicode": "చౌ",
+    "codepoints": "U+0C1A U+0C4C",
+    "kind": "gunintam",
+    "anu7": "#ê",
+    "anu7Hex": "23 EA",
+    "anu6": "Kñ",
+    "anu6Hex": "4B F1"
+  },
+  {
+    "unicode": "చం",
+    "codepoints": "U+0C1A U+0C02",
+    "kind": "gunintam",
+    "anu7": "#á+",
+    "anu7Hex": "23 E1 2B",
+    "anu6": "KÇO",
+    "anu6Hex": "4B C7 4F"
+  },
+  {
+    "unicode": "చః",
+    "codepoints": "U+0C1A U+0C03",
+    "kind": "gunintam",
+    "anu7": "#á'",
+    "anu7Hex": "23 E1 27",
+    "anu6": "KÇ:",
+    "anu6Hex": "4B C7 3A"
+  },
+  {
+    "unicode": "ఛ",
+    "codepoints": "U+0C1B",
+    "kind": "gunintam",
+    "anu7": "#óá",
+    "anu7Hex": "23 F3 E1",
+    "anu6": "KÇ",
+    "anu6Hex": "4B 8F C7"
+  },
+  {
+    "unicode": "ఛా",
+    "codepoints": "U+0C1B U+0C3E",
+    "kind": "gunintam",
+    "anu7": "#ó",
+    "anu7Hex": "23 F3 90",
+    "anu6": "KŒ",
+    "anu6Hex": "4B 8F 8C"
+  },
+  {
+    "unicode": "ఛి",
+    "codepoints": "U+0C1B U+0C3F",
+    "kind": "gunintam",
+    "anu7": "ºó",
+    "anu7Hex": "BA F3",
+    "anu6": "z",
+    "anu6Hex": "7A 8F"
+  },
+  {
+    "unicode": "ఛీ",
+    "codepoints": "U+0C1B U+0C40",
+    "kind": "gunintam",
+    "anu7": "Nó",
+    "anu7Hex": "4E F3",
+    "anu6": "p",
+    "anu6Hex": "70 8F"
+  },
+  {
+    "unicode": "ఛు",
+    "codepoints": "U+0C1B U+0C41",
+    "kind": "gunintam",
+    "anu7": "#óáT",
+    "anu7Hex": "23 F3 E1 54",
+    "anu6": "KÇ°",
+    "anu6Hex": "4B 8F C7 B0"
+  },
+  {
+    "unicode": "ఛూ",
+    "codepoints": "U+0C1B U+0C42",
+    "kind": "gunintam",
+    "anu7": "#óáÖ",
+    "anu7Hex": "23 F3 E1 D6",
+    "anu6": "KÇ¶",
+    "anu6Hex": "4B 8F C7 B6"
+  },
+  {
+    "unicode": "ఛె",
+    "codepoints": "U+0C1B U+0C46",
+    "kind": "gunintam",
+    "anu7": "#óî",
+    "anu7Hex": "23 F3 EE",
+    "anu6": "K³",
+    "anu6Hex": "4B 8F B3"
+  },
+  {
+    "unicode": "ఛే",
+    "codepoints": "U+0C1B U+0C47",
+    "kind": "gunintam",
+    "anu7": "#óû",
+    "anu7Hex": "23 F3 FB",
+    "anu6": "KÍ",
+    "anu6Hex": "4B 8F CD"
+  },
+  {
+    "unicode": "ఛై",
+    "codepoints": "U+0C1B U+0C48",
+    "kind": "gunintam",
+    "anu7": "#óîÕ",
+    "anu7Hex": "23 F3 EE D5",
+    "anu6": "K³á",
+    "anu6Hex": "4B 8F B3 E1"
+  },
+  {
+    "unicode": "ఛొ",
+    "codepoints": "U+0C1B U+0C4A",
+    "kind": "gunintam",
+    "anu7": "#ó=",
+    "anu7Hex": "23 F3 3D",
+    "anu6": "Kù",
+    "anu6Hex": "4B 8F F9"
+  },
+  {
+    "unicode": "ఛో",
+    "codepoints": "U+0C1B U+0C4B",
+    "kind": "gunintam",
+    "anu7": "#óÃ",
+    "anu7Hex": "23 F3 C3",
+    "anu6": "KË",
+    "anu6Hex": "4B 8F CB"
+  },
+  {
+    "unicode": "ఛౌ",
+    "codepoints": "U+0C1B U+0C4C",
+    "kind": "gunintam",
+    "anu7": "#óê",
+    "anu7Hex": "23 F3 EA",
+    "anu6": "Kñ",
+    "anu6Hex": "4B 8F F1"
+  },
+  {
+    "unicode": "ఛం",
+    "codepoints": "U+0C1B U+0C02",
+    "kind": "gunintam",
+    "anu7": "#óá+",
+    "anu7Hex": "23 F3 E1 2B",
+    "anu6": "KÇO",
+    "anu6Hex": "4B 8F C7 4F"
+  },
+  {
+    "unicode": "ఛః",
+    "codepoints": "U+0C1B U+0C03",
+    "kind": "gunintam",
+    "anu7": "#óá'",
+    "anu7Hex": "23 F3 E1 27",
+    "anu6": "KÇ:",
+    "anu6Hex": "4B 8F C7 3A"
+  },
+  {
+    "unicode": "జ",
+    "codepoints": "U+0C1C",
+    "kind": "gunintam",
+    "anu7": "È",
+    "anu7Hex": "C8",
+    "anu6": "[",
+    "anu6Hex": "5B"
+  },
+  {
+    "unicode": "జా",
+    "codepoints": "U+0C1C U+0C3E",
+    "kind": "gunintam",
+    "anu7": "C²",
+    "anu7Hex": "43 B2",
+    "anu6": "*ì",
+    "anu6Hex": "2A EC"
+  },
+  {
+    "unicode": "జి",
+    "codepoints": "U+0C1C U+0C3F",
+    "kind": "gunintam",
+    "anu7": "›",
+    "anu7Hex": "9B",
+    "anu6": "l",
+    "anu6Hex": "6C"
+  },
+  {
+    "unicode": "జీ",
+    "codepoints": "U+0C1C U+0C40",
+    "kind": "gunintam",
+    "anu7": "J",
+    "anu7Hex": "4A",
+    "anu6": "r",
+    "anu6Hex": "72"
+  },
+  {
+    "unicode": "జు",
+    "codepoints": "U+0C1C U+0C41",
+    "kind": "gunintam",
+    "anu7": "E",
+    "anu7Hex": "45",
+    "anu6": "A",
+    "anu6Hex": "41"
+  },
+  {
+    "unicode": "జూ",
+    "codepoints": "U+0C1C U+0C42",
+    "kind": "gunintam",
+    "anu7": "p",
+    "anu7Hex": "70",
+    "anu6": "E",
+    "anu6Hex": "45"
+  },
+  {
+    "unicode": "జె",
+    "codepoints": "U+0C1C U+0C46",
+    "kind": "gunintam",
+    "anu7": "CÉ",
+    "anu7Hex": "43 C9",
+    "anu6": "*ÿ",
+    "anu6Hex": "2A FF"
+  },
+  {
+    "unicode": "జే",
+    "codepoints": "U+0C1C U+0C47",
+    "kind": "gunintam",
+    "anu7": "Cñ",
+    "anu7Hex": "43 F1",
+    "anu6": "*è",
+    "anu6Hex": "2A E8"
+  },
+  {
+    "unicode": "జై",
+    "codepoints": "U+0C1C U+0C48",
+    "kind": "gunintam",
+    "anu7": "CÉÕ",
+    "anu7Hex": "43 C9 D5",
+    "anu6": "*ÿá",
+    "anu6Hex": "2A FF E1"
+  },
+  {
+    "unicode": "జొ",
+    "codepoints": "U+0C1C U+0C4A",
+    "kind": "gunintam",
+    "anu7": "C¤",
+    "anu7Hex": "43 A4",
+    "anu6": "*ç",
+    "anu6Hex": "2A E7"
+  },
+  {
+    "unicode": "జో",
+    "codepoints": "U+0C1C U+0C4B",
+    "kind": "gunintam",
+    "anu7": "CË",
+    "anu7Hex": "43 CB",
+    "anu6": "*Õ",
+    "anu6Hex": "2A D5"
+  },
+  {
+    "unicode": "జౌ",
+    "codepoints": "U+0C1C U+0C4C",
+    "kind": "gunintam",
+    "anu7": "C…",
+    "anu7Hex": "43 85",
+    "anu6": "*º",
+    "anu6Hex": "2A BA"
+  },
+  {
+    "unicode": "జం",
+    "codepoints": "U+0C1C U+0C02",
+    "kind": "gunintam",
+    "anu7": "È+",
+    "anu7Hex": "C8 2B",
+    "anu6": "[O",
+    "anu6Hex": "5B 4F"
+  },
+  {
+    "unicode": "జః",
+    "codepoints": "U+0C1C U+0C03",
+    "kind": "gunintam",
+    "anu7": "È'",
+    "anu7Hex": "C8 27",
+    "anu6": "[:",
+    "anu6Hex": "5B 3A"
+  },
+  {
+    "unicode": "ఝ",
+    "codepoints": "U+0C1D",
+    "kind": "gunintam",
+    "anu7": "sÁa",
+    "anu7Hex": "73 C1 61",
+    "anu6": "~¡­",
+    "anu6Hex": "7E A1 AD"
+  },
+  {
+    "unicode": "ఝా",
+    "codepoints": "U+0C1D U+0C3E",
+    "kind": "gunintam",
+    "anu7": "sÁa²",
+    "anu7Hex": "73 C1 61 B2",
+    "anu6": "~¡­ì",
+    "anu6Hex": "7E A1 AD EC"
+  },
+  {
+    "unicode": "ఝి",
+    "codepoints": "U+0C1D U+0C3F",
+    "kind": "gunintam",
+    "anu7": "]a",
+    "anu7Hex": "5D 61",
+    "anu6": "i­",
+    "anu6Hex": "69 AD"
+  },
+  {
+    "unicode": "ఝీ",
+    "codepoints": "U+0C1D U+0C40",
+    "kind": "gunintam",
+    "anu7": "¯a",
+    "anu7Hex": "AF 61",
+    "anu6": "s­",
+    "anu6Hex": "73 AD"
+  },
+  {
+    "unicode": "ఝు",
+    "codepoints": "U+0C1D U+0C41",
+    "kind": "gunintam",
+    "anu7": "sÁaT",
+    "anu7Hex": "73 C1 61 54",
+    "anu6": "~¡­°",
+    "anu6Hex": "7E A1 AD B0"
+  },
+  {
+    "unicode": "ఝూ",
+    "codepoints": "U+0C1D U+0C42",
+    "kind": "gunintam",
+    "anu7": "sÁaÖ",
+    "anu7Hex": "73 C1 61 D6",
+    "anu6": "~¡­¶",
+    "anu6Hex": "7E A1 AD B6"
+  },
+  {
+    "unicode": "ఝె",
+    "codepoints": "U+0C1D U+0C46",
+    "kind": "gunintam",
+    "anu7": "Âsa",
+    "anu7Hex": "C2 73 61",
+    "anu6": "ï~­",
+    "anu6Hex": "EF 7E AD"
+  },
+  {
+    "unicode": "ఝే",
+    "codepoints": "U+0C1D U+0C47",
+    "kind": "gunintam",
+    "anu7": "¹sa",
+    "anu7Hex": "B9 73 61",
+    "anu6": "ö~­",
+    "anu6Hex": "F6 7E AD"
+  },
+  {
+    "unicode": "ఝై",
+    "codepoints": "U+0C1D U+0C48",
+    "kind": "gunintam",
+    "anu7": "Âsa®",
+    "anu7Hex": "C2 73 61 AE",
+    "anu6": "ï~­Ø",
+    "anu6Hex": "EF 7E AD D8"
+  },
+  {
+    "unicode": "ఝొ",
+    "codepoints": "U+0C1D U+0C4A",
+    "kind": "gunintam",
+    "anu7": "ÂsaT",
+    "anu7Hex": "C2 73 61 54",
+    "anu6": "ï~­°",
+    "anu6Hex": "EF 7E AD B0"
+  },
+  {
+    "unicode": "ఝో",
+    "codepoints": "U+0C1D U+0C4B",
+    "kind": "gunintam",
+    "anu7": "Âsa²",
+    "anu7Hex": "C2 73 61 B2",
+    "anu6": "ï~­ì",
+    "anu6Hex": "EF 7E AD EC"
+  },
+  {
+    "unicode": "ఝౌ",
+    "codepoints": "U+0C1D U+0C4C",
+    "kind": "gunintam",
+    "anu7": "sÁaò",
+    "anu7Hex": "73 C1 61 F2",
+    "anu6": "~¡­¿",
+    "anu6Hex": "7E A1 AD BF"
+  },
+  {
+    "unicode": "ఝం",
+    "codepoints": "U+0C1D U+0C02",
+    "kind": "gunintam",
+    "anu7": "sÁa+",
+    "anu7Hex": "73 C1 61 2B",
+    "anu6": "~¡­O",
+    "anu6Hex": "7E A1 AD 4F"
+  },
+  {
+    "unicode": "ఝః",
+    "codepoints": "U+0C1D U+0C03",
+    "kind": "gunintam",
+    "anu7": "sÁa'",
+    "anu7Hex": "73 C1 61 27",
+    "anu6": "~¡­:",
+    "anu6Hex": "7E A1 AD 3A"
+  },
+  {
+    "unicode": "ట",
+    "codepoints": "U+0C1F",
+    "kind": "gunintam",
+    "anu7": "³",
+    "anu7Hex": "B3",
+    "anu6": "@",
+    "anu6Hex": "40"
+  },
+  {
+    "unicode": "టా",
+    "codepoints": "U+0C1F U+0C3E",
+    "kind": "gunintam",
+    "anu7": "{²",
+    "anu7Hex": "7B B2",
+    "anu6": "\\ì",
+    "anu6Hex": "5C EC"
+  },
+  {
+    "unicode": "టి",
+    "codepoints": "U+0C1F U+0C3F",
+    "kind": "gunintam",
+    "anu7": "{ì",
+    "anu7Hex": "7B EC",
+    "anu6": "\\÷",
+    "anu6Hex": "5C F7"
+  },
+  {
+    "unicode": "టీ",
+    "codepoints": "U+0C1F U+0C40",
+    "kind": "gunintam",
+    "anu7": "{¡",
+    "anu7Hex": "7B A1",
+    "anu6": "\\©",
+    "anu6Hex": "5C A9"
+  },
+  {
+    "unicode": "టు",
+    "codepoints": "U+0C1F U+0C41",
+    "kind": "gunintam",
+    "anu7": "³T",
+    "anu7Hex": "B3 54",
+    "anu6": "@°",
+    "anu6Hex": "40 B0"
+  },
+  {
+    "unicode": "టూ",
+    "codepoints": "U+0C1F U+0C42",
+    "kind": "gunintam",
+    "anu7": "³Ö",
+    "anu7Hex": "B3 D6",
+    "anu6": "@¶",
+    "anu6Hex": "40 B6"
+  },
+  {
+    "unicode": "టె",
+    "codepoints": "U+0C1F U+0C46",
+    "kind": "gunintam",
+    "anu7": "fÉ",
+    "anu7Hex": "66 C9",
+    "anu6": ">ÿ",
+    "anu6Hex": "3E FF"
+  },
+  {
+    "unicode": "టే",
+    "codepoints": "U+0C1F U+0C47",
+    "kind": "gunintam",
+    "anu7": "fñ",
+    "anu7Hex": "66 F1",
+    "anu6": ">è",
+    "anu6Hex": "3E E8"
+  },
+  {
+    "unicode": "టై",
+    "codepoints": "U+0C1F U+0C48",
+    "kind": "gunintam",
+    "anu7": "fÉ®",
+    "anu7Hex": "66 C9 AE",
+    "anu6": ">ÿØ",
+    "anu6Hex": "3E FF D8"
+  },
+  {
+    "unicode": "టొ",
+    "codepoints": "U+0C1F U+0C4A",
+    "kind": "gunintam",
+    "anu7": "{¤",
+    "anu7Hex": "7B A4",
+    "anu6": "\\ç",
+    "anu6Hex": "5C E7"
+  },
+  {
+    "unicode": "టో",
+    "codepoints": "U+0C1F U+0C4B",
+    "kind": "gunintam",
+    "anu7": "{Ë",
+    "anu7Hex": "7B CB",
+    "anu6": "\\Õ",
+    "anu6Hex": "5C D5"
+  },
+  {
+    "unicode": "టౌ",
+    "codepoints": "U+0C1F U+0C4C",
+    "kind": "gunintam",
+    "anu7": "{…",
+    "anu7Hex": "7B 85",
+    "anu6": "\\º",
+    "anu6Hex": "5C BA"
+  },
+  {
+    "unicode": "టం",
+    "codepoints": "U+0C1F U+0C02",
+    "kind": "gunintam",
+    "anu7": "³+",
+    "anu7Hex": "B3 2B",
+    "anu6": "@O",
+    "anu6Hex": "40 4F"
+  },
+  {
+    "unicode": "టః",
+    "codepoints": "U+0C1F U+0C03",
+    "kind": "gunintam",
+    "anu7": "³'",
+    "anu7Hex": "B3 27",
+    "anu6": "@:",
+    "anu6Hex": "40 3A"
+  },
+  {
+    "unicode": "ఠ",
+    "codepoints": "U+0C20",
+    "kind": "gunintam",
+    "anu7": "sÄÁ",
+    "anu7Hex": "73 C4 C1",
+    "anu6": "~”¡",
+    "anu6Hex": "7E 94 A1"
+  },
+  {
+    "unicode": "ఠా",
+    "codepoints": "U+0C20 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "sÄ",
+    "anu7Hex": "73 C4 90",
+    "anu6": "~”Œ",
+    "anu6Hex": "7E 94 8C"
+  },
+  {
+    "unicode": "ఠి",
+    "codepoints": "U+0C20 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "]Ä",
+    "anu7Hex": "5D C4",
+    "anu6": "i”",
+    "anu6Hex": "69 94"
+  },
+  {
+    "unicode": "ఠీ",
+    "codepoints": "U+0C20 U+0C40",
+    "kind": "gunintam",
+    "anu7": "¯Ä",
+    "anu7Hex": "AF C4",
+    "anu6": "s”",
+    "anu6Hex": "73 94"
+  },
+  {
+    "unicode": "ఠు",
+    "codepoints": "U+0C20 U+0C41",
+    "kind": "gunintam",
+    "anu7": "sÄÁT",
+    "anu7Hex": "73 C4 C1 54",
+    "anu6": "~”¡°",
+    "anu6Hex": "7E 94 A1 B0"
+  },
+  {
+    "unicode": "ఠూ",
+    "codepoints": "U+0C20 U+0C42",
+    "kind": "gunintam",
+    "anu7": "sÄÁÖ",
+    "anu7Hex": "73 C4 C1 D6",
+    "anu6": "~”¡¶",
+    "anu6Hex": "7E 94 A1 B6"
+  },
+  {
+    "unicode": "ఠె",
+    "codepoints": "U+0C20 U+0C46",
+    "kind": "gunintam",
+    "anu7": "ÂsÄ",
+    "anu7Hex": "C2 73 C4",
+    "anu6": "ï~”",
+    "anu6Hex": "EF 7E 94"
+  },
+  {
+    "unicode": "ఠే",
+    "codepoints": "U+0C20 U+0C47",
+    "kind": "gunintam",
+    "anu7": "¹sÄ",
+    "anu7Hex": "B9 73 C4",
+    "anu6": "ö~”",
+    "anu6Hex": "F6 7E 94"
+  },
+  {
+    "unicode": "ఠై",
+    "codepoints": "U+0C20 U+0C48",
+    "kind": "gunintam",
+    "anu7": "ÂsÄÕ",
+    "anu7Hex": "C2 73 C4 D5",
+    "anu6": "ï~”á",
+    "anu6Hex": "EF 7E 94 E1"
+  },
+  {
+    "unicode": "ఠొ",
+    "codepoints": "U+0C20 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "sÄ=",
+    "anu7Hex": "73 C4 3D",
+    "anu6": "~”ù",
+    "anu6Hex": "7E 94 F9"
+  },
+  {
+    "unicode": "ఠో",
+    "codepoints": "U+0C20 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "sÄÃ",
+    "anu7Hex": "73 C4 C3",
+    "anu6": "~”Ë",
+    "anu6Hex": "7E 94 CB"
+  },
+  {
+    "unicode": "ఠౌ",
+    "codepoints": "U+0C20 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "sÄš",
+    "anu7Hex": "73 C4 9A",
+    "anu6": "~”Ò",
+    "anu6Hex": "7E 94 D2"
+  },
+  {
+    "unicode": "ఠం",
+    "codepoints": "U+0C20 U+0C02",
+    "kind": "gunintam",
+    "anu7": "sÄÁ+",
+    "anu7Hex": "73 C4 C1 2B",
+    "anu6": "~”¡O",
+    "anu6Hex": "7E 94 A1 4F"
+  },
+  {
+    "unicode": "ఠః",
+    "codepoints": "U+0C20 U+0C03",
+    "kind": "gunintam",
+    "anu7": "sÄÁ'",
+    "anu7Hex": "73 C4 C1 27",
+    "anu6": "~”¡:",
+    "anu6Hex": "7E 94 A1 3A"
+  },
+  {
+    "unicode": "డ",
+    "codepoints": "U+0C21",
+    "kind": "gunintam",
+    "anu7": "&ƒ",
+    "anu7Hex": "26 83",
+    "anu6": "_È",
+    "anu6Hex": "5F C8"
+  },
+  {
+    "unicode": "డా",
+    "codepoints": "U+0C21 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "&†",
+    "anu7Hex": "26 86",
+    "anu6": "_¨",
+    "anu6Hex": "5F A8"
+  },
+  {
+    "unicode": "డి",
+    "codepoints": "U+0C21 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "&",
+    "anu7Hex": "26 8D",
+    "anu6": "_",
+    "anu6Hex": "5F 8D"
+  },
+  {
+    "unicode": "డీ",
+    "codepoints": "U+0C21 U+0C40",
+    "kind": "gunintam",
+    "anu7": "&ž",
+    "anu7Hex": "26 9E",
+    "anu6": "_™",
+    "anu6Hex": "5F 99"
+  },
+  {
+    "unicode": "డు",
+    "codepoints": "U+0C21 U+0C41",
+    "kind": "gunintam",
+    "anu7": "&ƒT",
+    "anu7Hex": "26 83 54",
+    "anu6": "_È°",
+    "anu6Hex": "5F C8 B0"
+  },
+  {
+    "unicode": "డూ",
+    "codepoints": "U+0C21 U+0C42",
+    "kind": "gunintam",
+    "anu7": "&ƒÖ",
+    "anu7Hex": "26 83 D6",
+    "anu6": "_È¶",
+    "anu6Hex": "5F C8 B6"
+  },
+  {
+    "unicode": "డె",
+    "codepoints": "U+0C21 U+0C46",
+    "kind": "gunintam",
+    "anu7": "&î",
+    "anu7Hex": "26 EE",
+    "anu6": "_³",
+    "anu6Hex": "5F B3"
+  },
+  {
+    "unicode": "డే",
+    "codepoints": "U+0C21 U+0C47",
+    "kind": "gunintam",
+    "anu7": "&û",
+    "anu7Hex": "26 FB",
+    "anu6": "_Í",
+    "anu6Hex": "5F CD"
+  },
+  {
+    "unicode": "డై",
+    "codepoints": "U+0C21 U+0C48",
+    "kind": "gunintam",
+    "anu7": "&îÕ",
+    "anu7Hex": "26 EE D5",
+    "anu6": "_³á",
+    "anu6Hex": "5F B3 E1"
+  },
+  {
+    "unicode": "డొ",
+    "codepoints": "U+0C21 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "&=",
+    "anu7Hex": "26 3D",
+    "anu6": "_ù",
+    "anu6Hex": "5F F9"
+  },
+  {
+    "unicode": "డో",
+    "codepoints": "U+0C21 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "&Ã",
+    "anu7Hex": "26 C3",
+    "anu6": "_Ë",
+    "anu6Hex": "5F CB"
+  },
+  {
+    "unicode": "డౌ",
+    "codepoints": "U+0C21 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "&ê",
+    "anu7Hex": "26 EA",
+    "anu6": "_ñ",
+    "anu6Hex": "5F F1"
+  },
+  {
+    "unicode": "డం",
+    "codepoints": "U+0C21 U+0C02",
+    "kind": "gunintam",
+    "anu7": "&ƒ+",
+    "anu7Hex": "26 83 2B",
+    "anu6": "_ÈO",
+    "anu6Hex": "5F C8 4F"
+  },
+  {
+    "unicode": "డః",
+    "codepoints": "U+0C21 U+0C03",
+    "kind": "gunintam",
+    "anu7": "&ƒ'",
+    "anu7Hex": "26 83 27",
+    "anu6": "_È:",
+    "anu6Hex": "5F C8 3A"
+  },
+  {
+    "unicode": "ఢ",
+    "codepoints": "U+0C22",
+    "kind": "gunintam",
+    "anu7": "&óƒ",
+    "anu7Hex": "26 F3 83",
+    "anu6": "_È",
+    "anu6Hex": "5F 8F C8"
+  },
+  {
+    "unicode": "ఢా",
+    "codepoints": "U+0C22 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "&ó†",
+    "anu7Hex": "26 F3 86",
+    "anu6": "_¨",
+    "anu6Hex": "5F 8F A8"
+  },
+  {
+    "unicode": "ఢి",
+    "codepoints": "U+0C22 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "&ó",
+    "anu7Hex": "26 F3 8D",
+    "anu6": "_",
+    "anu6Hex": "5F 8F 8D"
+  },
+  {
+    "unicode": "ఢీ",
+    "codepoints": "U+0C22 U+0C40",
+    "kind": "gunintam",
+    "anu7": "&óž",
+    "anu7Hex": "26 F3 9E",
+    "anu6": "_™",
+    "anu6Hex": "5F 8F 99"
+  },
+  {
+    "unicode": "ఢు",
+    "codepoints": "U+0C22 U+0C41",
+    "kind": "gunintam",
+    "anu7": "&óƒT",
+    "anu7Hex": "26 F3 83 54",
+    "anu6": "_È°",
+    "anu6Hex": "5F 8F C8 B0"
+  },
+  {
+    "unicode": "ఢూ",
+    "codepoints": "U+0C22 U+0C42",
+    "kind": "gunintam",
+    "anu7": "&óƒÖ",
+    "anu7Hex": "26 F3 83 D6",
+    "anu6": "_È¶",
+    "anu6Hex": "5F 8F C8 B6"
+  },
+  {
+    "unicode": "ఢె",
+    "codepoints": "U+0C22 U+0C46",
+    "kind": "gunintam",
+    "anu7": "&óî",
+    "anu7Hex": "26 F3 EE",
+    "anu6": "_³",
+    "anu6Hex": "5F 8F B3"
+  },
+  {
+    "unicode": "ఢే",
+    "codepoints": "U+0C22 U+0C47",
+    "kind": "gunintam",
+    "anu7": "&óû",
+    "anu7Hex": "26 F3 FB",
+    "anu6": "_Í",
+    "anu6Hex": "5F 8F CD"
+  },
+  {
+    "unicode": "ఢై",
+    "codepoints": "U+0C22 U+0C48",
+    "kind": "gunintam",
+    "anu7": "&óîÕ",
+    "anu7Hex": "26 F3 EE D5",
+    "anu6": "_³á",
+    "anu6Hex": "5F 8F B3 E1"
+  },
+  {
+    "unicode": "ఢొ",
+    "codepoints": "U+0C22 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "&ó=",
+    "anu7Hex": "26 F3 3D",
+    "anu6": "_ù",
+    "anu6Hex": "5F 8F F9"
+  },
+  {
+    "unicode": "ఢో",
+    "codepoints": "U+0C22 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "&óÃ",
+    "anu7Hex": "26 F3 C3",
+    "anu6": "_Ë",
+    "anu6Hex": "5F 8F CB"
+  },
+  {
+    "unicode": "ఢౌ",
+    "codepoints": "U+0C22 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "&óê",
+    "anu7Hex": "26 F3 EA",
+    "anu6": "_ñ",
+    "anu6Hex": "5F 8F F1"
+  },
+  {
+    "unicode": "ఢం",
+    "codepoints": "U+0C22 U+0C02",
+    "kind": "gunintam",
+    "anu7": "&óƒ+",
+    "anu7Hex": "26 F3 83 2B",
+    "anu6": "_ÈO",
+    "anu6Hex": "5F 8F C8 4F"
+  },
+  {
+    "unicode": "ఢః",
+    "codepoints": "U+0C22 U+0C03",
+    "kind": "gunintam",
+    "anu7": "&óƒ'",
+    "anu7Hex": "26 F3 83 27",
+    "anu6": "_È:",
+    "anu6Hex": "5F 8F C8 3A"
+  },
+  {
+    "unicode": "ణ",
+    "codepoints": "U+0C23",
+    "kind": "gunintam",
+    "anu7": "D",
+    "anu7Hex": "44",
+    "anu6": "}",
+    "anu6Hex": "7D"
+  },
+  {
+    "unicode": "ణా",
+    "codepoints": "U+0C23 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "D²",
+    "anu7Hex": "44 B2",
+    "anu6": "}ì",
+    "anu6Hex": "7D EC"
+  },
+  {
+    "unicode": "ణి",
+    "codepoints": "U+0C23 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "Dì",
+    "anu7Hex": "44 EC",
+    "anu6": "}÷",
+    "anu6Hex": "7D F7"
+  },
+  {
+    "unicode": "ణీ",
+    "codepoints": "U+0C23 U+0C40",
+    "kind": "gunintam",
+    "anu7": "D¡",
+    "anu7Hex": "44 A1",
+    "anu6": "}©",
+    "anu6Hex": "7D A9"
+  },
+  {
+    "unicode": "ణు",
+    "codepoints": "U+0C23 U+0C41",
+    "kind": "gunintam",
+    "anu7": "DT",
+    "anu7Hex": "44 54",
+    "anu6": "}°",
+    "anu6Hex": "7D B0"
+  },
+  {
+    "unicode": "ణూ",
+    "codepoints": "U+0C23 U+0C42",
+    "kind": "gunintam",
+    "anu7": "DÖ",
+    "anu7Hex": "44 D6",
+    "anu6": "}¶",
+    "anu6Hex": "7D B6"
+  },
+  {
+    "unicode": "ణె",
+    "codepoints": "U+0C23 U+0C46",
+    "kind": "gunintam",
+    "anu7": "DÉ",
+    "anu7Hex": "44 C9",
+    "anu6": "}ÿ",
+    "anu6Hex": "7D FF"
+  },
+  {
+    "unicode": "ణే",
+    "codepoints": "U+0C23 U+0C47",
+    "kind": "gunintam",
+    "anu7": "Dñ",
+    "anu7Hex": "44 F1",
+    "anu6": "}è",
+    "anu6Hex": "7D E8"
+  },
+  {
+    "unicode": "ణై",
+    "codepoints": "U+0C23 U+0C48",
+    "kind": "gunintam",
+    "anu7": "DÉ®",
+    "anu7Hex": "44 C9 AE",
+    "anu6": "}ÿØ",
+    "anu6Hex": "7D FF D8"
+  },
+  {
+    "unicode": "ణొ",
+    "codepoints": "U+0C23 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "D=",
+    "anu7Hex": "44 3D",
+    "anu6": "}ù",
+    "anu6Hex": "7D F9"
+  },
+  {
+    "unicode": "ణో",
+    "codepoints": "U+0C23 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "DÃ",
+    "anu7Hex": "44 C3",
+    "anu6": "}Ë",
+    "anu6Hex": "7D CB"
+  },
+  {
+    "unicode": "ణౌ",
+    "codepoints": "U+0C23 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "D…",
+    "anu7Hex": "44 85",
+    "anu6": "}º",
+    "anu6Hex": "7D BA"
+  },
+  {
+    "unicode": "ణం",
+    "codepoints": "U+0C23 U+0C02",
+    "kind": "gunintam",
+    "anu7": "D+",
+    "anu7Hex": "44 2B",
+    "anu6": "}O",
+    "anu6Hex": "7D 4F"
+  },
+  {
+    "unicode": "ణః",
+    "codepoints": "U+0C23 U+0C03",
+    "kind": "gunintam",
+    "anu7": "D'",
+    "anu7Hex": "44 27",
+    "anu6": "}:",
+    "anu6Hex": "7D 3A"
+  },
+  {
+    "unicode": "త",
+    "codepoints": "U+0C24",
+    "kind": "gunintam",
+    "anu7": "Ôá",
+    "anu7Hex": "D4 E1",
+    "anu6": "`Ç",
+    "anu6Hex": "60 C7"
+  },
+  {
+    "unicode": "తా",
+    "codepoints": "U+0C24 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "Ô",
+    "anu7Hex": "D4 90",
+    "anu6": "`Œ",
+    "anu6Hex": "60 8C"
+  },
+  {
+    "unicode": "తి",
+    "codepoints": "U+0C24 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "Ü",
+    "anu7Hex": "DC",
+    "anu6": "u",
+    "anu6Hex": "75"
+  },
+  {
+    "unicode": "తీ",
+    "codepoints": "U+0C24 U+0C40",
+    "kind": "gunintam",
+    "anu7": "r",
+    "anu7Hex": "72",
+    "anu6": "f",
+    "anu6Hex": "66"
+  },
+  {
+    "unicode": "తు",
+    "codepoints": "U+0C24 U+0C41",
+    "kind": "gunintam",
+    "anu7": "ÔáT",
+    "anu7Hex": "D4 E1 54",
+    "anu6": "`Ç°",
+    "anu6Hex": "60 C7 B0"
+  },
+  {
+    "unicode": "తూ",
+    "codepoints": "U+0C24 U+0C42",
+    "kind": "gunintam",
+    "anu7": "ÔáÖ",
+    "anu7Hex": "D4 E1 D6",
+    "anu6": "`Ç¶",
+    "anu6Hex": "60 C7 B6"
+  },
+  {
+    "unicode": "తె",
+    "codepoints": "U+0C24 U+0C46",
+    "kind": "gunintam",
+    "anu7": "Ôî",
+    "anu7Hex": "D4 EE",
+    "anu6": "`³",
+    "anu6Hex": "60 B3"
+  },
+  {
+    "unicode": "తే",
+    "codepoints": "U+0C24 U+0C47",
+    "kind": "gunintam",
+    "anu7": "Ôû",
+    "anu7Hex": "D4 FB",
+    "anu6": "`Í",
+    "anu6Hex": "60 CD"
+  },
+  {
+    "unicode": "తై",
+    "codepoints": "U+0C24 U+0C48",
+    "kind": "gunintam",
+    "anu7": "ÔîÕ",
+    "anu7Hex": "D4 EE D5",
+    "anu6": "`³á",
+    "anu6Hex": "60 B3 E1"
+  },
+  {
+    "unicode": "తొ",
+    "codepoints": "U+0C24 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "Ô=",
+    "anu7Hex": "D4 3D",
+    "anu6": "`ù",
+    "anu6Hex": "60 F9"
+  },
+  {
+    "unicode": "తో",
+    "codepoints": "U+0C24 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "ÔÃ",
+    "anu7Hex": "D4 C3",
+    "anu6": "`Ë",
+    "anu6Hex": "60 CB"
+  },
+  {
+    "unicode": "తౌ",
+    "codepoints": "U+0C24 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "Ôê",
+    "anu7Hex": "D4 EA",
+    "anu6": "`ñ",
+    "anu6Hex": "60 F1"
+  },
+  {
+    "unicode": "తం",
+    "codepoints": "U+0C24 U+0C02",
+    "kind": "gunintam",
+    "anu7": "Ôá+",
+    "anu7Hex": "D4 E1 2B",
+    "anu6": "`ÇO",
+    "anu6Hex": "60 C7 4F"
+  },
+  {
+    "unicode": "తః",
+    "codepoints": "U+0C24 U+0C03",
+    "kind": "gunintam",
+    "anu7": "Ôá'",
+    "anu7Hex": "D4 E1 27",
+    "anu6": "`Ç:",
+    "anu6Hex": "60 C7 3A"
+  },
+  {
+    "unicode": "థ",
+    "codepoints": "U+0C25",
+    "kind": "gunintam",
+    "anu7": "<¸Š",
+    "anu7Hex": "3C B8 8A",
+    "anu6": "^ŠÎ",
+    "anu6Hex": "5E 8A CE"
+  },
+  {
+    "unicode": "థా",
+    "codepoints": "U+0C25 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "<¸‘",
+    "anu7Hex": "3C B8 91",
+    "anu6": "^Š¥",
+    "anu6Hex": "5E 8A A5"
+  },
+  {
+    "unicode": "థి",
+    "codepoints": "U+0C25 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "~¸",
+    "anu7Hex": "7E B8",
+    "anu6": "kŠ",
+    "anu6Hex": "6B 8A"
+  },
+  {
+    "unicode": "థీ",
+    "codepoints": "U+0C25 U+0C40",
+    "kind": "gunintam",
+    "anu7": "B¸",
+    "anu7Hex": "42 B8",
+    "anu6": "nŠ",
+    "anu6Hex": "6E 8A"
+  },
+  {
+    "unicode": "థు",
+    "codepoints": "U+0C25 U+0C41",
+    "kind": "gunintam",
+    "anu7": "<¸ŠT",
+    "anu7Hex": "3C B8 8A 54",
+    "anu6": "^ŠÎ°",
+    "anu6Hex": "5E 8A CE B0"
+  },
+  {
+    "unicode": "థూ",
+    "codepoints": "U+0C25 U+0C42",
+    "kind": "gunintam",
+    "anu7": "<¸ŠÖ",
+    "anu7Hex": "3C B8 8A D6",
+    "anu6": "^ŠÎ¶",
+    "anu6Hex": "5E 8A CE B6"
+  },
+  {
+    "unicode": "థె",
+    "codepoints": "U+0C25 U+0C46",
+    "kind": "gunintam",
+    "anu7": "<¸î",
+    "anu7Hex": "3C B8 EE",
+    "anu6": "^Š³",
+    "anu6Hex": "5E 8A B3"
+  },
+  {
+    "unicode": "థే",
+    "codepoints": "U+0C25 U+0C47",
+    "kind": "gunintam",
+    "anu7": "<¸û",
+    "anu7Hex": "3C B8 FB",
+    "anu6": "^ŠÍ",
+    "anu6Hex": "5E 8A CD"
+  },
+  {
+    "unicode": "థై",
+    "codepoints": "U+0C25 U+0C48",
+    "kind": "gunintam",
+    "anu7": "<¸îÕ",
+    "anu7Hex": "3C B8 EE D5",
+    "anu6": "^Š³á",
+    "anu6Hex": "5E 8A B3 E1"
+  },
+  {
+    "unicode": "థొ",
+    "codepoints": "U+0C25 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "<¸=",
+    "anu7Hex": "3C B8 3D",
+    "anu6": "^Šù",
+    "anu6Hex": "5E 8A F9"
+  },
+  {
+    "unicode": "థో",
+    "codepoints": "U+0C25 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "<¸Ã",
+    "anu7Hex": "3C B8 C3",
+    "anu6": "^ŠË",
+    "anu6Hex": "5E 8A CB"
+  },
+  {
+    "unicode": "థౌ",
+    "codepoints": "U+0C25 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "<¸ê",
+    "anu7Hex": "3C B8 EA",
+    "anu6": "^Šñ",
+    "anu6Hex": "5E 8A F1"
+  },
+  {
+    "unicode": "థం",
+    "codepoints": "U+0C25 U+0C02",
+    "kind": "gunintam",
+    "anu7": "<¸Š+",
+    "anu7Hex": "3C B8 8A 2B",
+    "anu6": "^ŠÎO",
+    "anu6Hex": "5E 8A CE 4F"
+  },
+  {
+    "unicode": "థః",
+    "codepoints": "U+0C25 U+0C03",
+    "kind": "gunintam",
+    "anu7": "<¸Š'",
+    "anu7Hex": "3C B8 8A 27",
+    "anu6": "^ŠÎ:",
+    "anu6Hex": "5E 8A CE 3A"
+  },
+  {
+    "unicode": "ద",
+    "codepoints": "U+0C26",
+    "kind": "gunintam",
+    "anu7": "<Š",
+    "anu7Hex": "3C 8A",
+    "anu6": "^Î",
+    "anu6Hex": "5E CE"
+  },
+  {
+    "unicode": "దా",
+    "codepoints": "U+0C26 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "<‘",
+    "anu7Hex": "3C 91",
+    "anu6": "^¥",
+    "anu6Hex": "5E A5"
+  },
+  {
+    "unicode": "ది",
+    "codepoints": "U+0C26 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "~",
+    "anu7Hex": "7E",
+    "anu6": "k",
+    "anu6Hex": "6B"
+  },
+  {
+    "unicode": "దీ",
+    "codepoints": "U+0C26 U+0C40",
+    "kind": "gunintam",
+    "anu7": "B",
+    "anu7Hex": "42",
+    "anu6": "n",
+    "anu6Hex": "6E"
+  },
+  {
+    "unicode": "దు",
+    "codepoints": "U+0C26 U+0C41",
+    "kind": "gunintam",
+    "anu7": "<ŠT",
+    "anu7Hex": "3C 8A 54",
+    "anu6": "^Î°",
+    "anu6Hex": "5E CE B0"
+  },
+  {
+    "unicode": "దూ",
+    "codepoints": "U+0C26 U+0C42",
+    "kind": "gunintam",
+    "anu7": "<ŠÖ",
+    "anu7Hex": "3C 8A D6",
+    "anu6": "^Î¶",
+    "anu6Hex": "5E CE B6"
+  },
+  {
+    "unicode": "దె",
+    "codepoints": "U+0C26 U+0C46",
+    "kind": "gunintam",
+    "anu7": "<î",
+    "anu7Hex": "3C EE",
+    "anu6": "^³",
+    "anu6Hex": "5E B3"
+  },
+  {
+    "unicode": "దే",
+    "codepoints": "U+0C26 U+0C47",
+    "kind": "gunintam",
+    "anu7": "<û",
+    "anu7Hex": "3C FB",
+    "anu6": "^Í",
+    "anu6Hex": "5E CD"
+  },
+  {
+    "unicode": "దై",
+    "codepoints": "U+0C26 U+0C48",
+    "kind": "gunintam",
+    "anu7": "<îÕ",
+    "anu7Hex": "3C EE D5",
+    "anu6": "^³á",
+    "anu6Hex": "5E B3 E1"
+  },
+  {
+    "unicode": "దొ",
+    "codepoints": "U+0C26 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "<=",
+    "anu7Hex": "3C 3D",
+    "anu6": "^ù",
+    "anu6Hex": "5E F9"
+  },
+  {
+    "unicode": "దో",
+    "codepoints": "U+0C26 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "<Ã",
+    "anu7Hex": "3C C3",
+    "anu6": "^Ë",
+    "anu6Hex": "5E CB"
+  },
+  {
+    "unicode": "దౌ",
+    "codepoints": "U+0C26 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "<ê",
+    "anu7Hex": "3C EA",
+    "anu6": "^ñ",
+    "anu6Hex": "5E F1"
+  },
+  {
+    "unicode": "దం",
+    "codepoints": "U+0C26 U+0C02",
+    "kind": "gunintam",
+    "anu7": "<Š+",
+    "anu7Hex": "3C 8A 2B",
+    "anu6": "^ÎO",
+    "anu6Hex": "5E CE 4F"
+  },
+  {
+    "unicode": "దః",
+    "codepoints": "U+0C26 U+0C03",
+    "kind": "gunintam",
+    "anu7": "<Š'",
+    "anu7Hex": "3C 8A 27",
+    "anu6": "^Î:",
+    "anu6Hex": "5E CE 3A"
+  },
+  {
+    "unicode": "ధ",
+    "codepoints": "U+0C27",
+    "kind": "gunintam",
+    "anu7": "<óŠ",
+    "anu7Hex": "3C F3 8A",
+    "anu6": "^Î",
+    "anu6Hex": "5E 8F CE"
+  },
+  {
+    "unicode": "ధా",
+    "codepoints": "U+0C27 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "<ó‘",
+    "anu7Hex": "3C F3 91",
+    "anu6": "^¥",
+    "anu6Hex": "5E 8F A5"
+  },
+  {
+    "unicode": "ధి",
+    "codepoints": "U+0C27 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "~ó",
+    "anu7Hex": "7E F3",
+    "anu6": "k",
+    "anu6Hex": "6B 8F"
+  },
+  {
+    "unicode": "ధీ",
+    "codepoints": "U+0C27 U+0C40",
+    "kind": "gunintam",
+    "anu7": "Bó",
+    "anu7Hex": "42 F3",
+    "anu6": "n",
+    "anu6Hex": "6E 8F"
+  },
+  {
+    "unicode": "ధు",
+    "codepoints": "U+0C27 U+0C41",
+    "kind": "gunintam",
+    "anu7": "<óŠT",
+    "anu7Hex": "3C F3 8A 54",
+    "anu6": "^Î°",
+    "anu6Hex": "5E 8F CE B0"
+  },
+  {
+    "unicode": "ధూ",
+    "codepoints": "U+0C27 U+0C42",
+    "kind": "gunintam",
+    "anu7": "<óŠÖ",
+    "anu7Hex": "3C F3 8A D6",
+    "anu6": "^Î¶",
+    "anu6Hex": "5E 8F CE B6"
+  },
+  {
+    "unicode": "ధె",
+    "codepoints": "U+0C27 U+0C46",
+    "kind": "gunintam",
+    "anu7": "<óî",
+    "anu7Hex": "3C F3 EE",
+    "anu6": "^³",
+    "anu6Hex": "5E 8F B3"
+  },
+  {
+    "unicode": "ధే",
+    "codepoints": "U+0C27 U+0C47",
+    "kind": "gunintam",
+    "anu7": "<óû",
+    "anu7Hex": "3C F3 FB",
+    "anu6": "^Í",
+    "anu6Hex": "5E 8F CD"
+  },
+  {
+    "unicode": "ధై",
+    "codepoints": "U+0C27 U+0C48",
+    "kind": "gunintam",
+    "anu7": "<óîÕ",
+    "anu7Hex": "3C F3 EE D5",
+    "anu6": "^³á",
+    "anu6Hex": "5E 8F B3 E1"
+  },
+  {
+    "unicode": "ధొ",
+    "codepoints": "U+0C27 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "<ó=",
+    "anu7Hex": "3C F3 3D",
+    "anu6": "^ù",
+    "anu6Hex": "5E 8F F9"
+  },
+  {
+    "unicode": "ధో",
+    "codepoints": "U+0C27 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "<óÃ",
+    "anu7Hex": "3C F3 C3",
+    "anu6": "^Ë",
+    "anu6Hex": "5E 8F CB"
+  },
+  {
+    "unicode": "ధౌ",
+    "codepoints": "U+0C27 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "<óê",
+    "anu7Hex": "3C F3 EA",
+    "anu6": "^ñ",
+    "anu6Hex": "5E 8F F1"
+  },
+  {
+    "unicode": "ధం",
+    "codepoints": "U+0C27 U+0C02",
+    "kind": "gunintam",
+    "anu7": "<óŠ+",
+    "anu7Hex": "3C F3 8A 2B",
+    "anu6": "^ÎO",
+    "anu6Hex": "5E 8F CE 4F"
+  },
+  {
+    "unicode": "ధః",
+    "codepoints": "U+0C27 U+0C03",
+    "kind": "gunintam",
+    "anu7": "<óŠ'",
+    "anu7Hex": "3C F3 8A 27",
+    "anu6": "^Î:",
+    "anu6Hex": "5E 8F CE 3A"
+  },
+  {
+    "unicode": "న",
+    "codepoints": "U+0C28",
+    "kind": "gunintam",
+    "anu7": "q",
+    "anu7Hex": "71",
+    "anu6": "#",
+    "anu6Hex": "23"
+  },
+  {
+    "unicode": "నా",
+    "codepoints": "U+0C28 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "H",
+    "anu7Hex": "48 90",
+    "anu6": "<Œ",
+    "anu6Hex": "3C 8C"
+  },
+  {
+    "unicode": "ని",
+    "codepoints": "U+0C28 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "“",
+    "anu7Hex": "93",
+    "anu6": "x",
+    "anu6Hex": "78"
+  },
+  {
+    "unicode": "నీ",
+    "codepoints": "U+0C28 U+0C40",
+    "kind": "gunintam",
+    "anu7": "ú",
+    "anu7Hex": "FA",
+    "anu6": "h",
+    "anu6Hex": "68"
+  },
+  {
+    "unicode": "ను",
+    "codepoints": "U+0C28 U+0C41",
+    "kind": "gunintam",
+    "anu7": "qT",
+    "anu7Hex": "71 54",
+    "anu6": "#°",
+    "anu6Hex": "23 B0"
+  },
+  {
+    "unicode": "నూ",
+    "codepoints": "U+0C28 U+0C42",
+    "kind": "gunintam",
+    "anu7": "qÖ",
+    "anu7Hex": "71 D6",
+    "anu6": "#¶",
+    "anu6Hex": "23 B6"
+  },
+  {
+    "unicode": "నె",
+    "codepoints": "U+0C28 U+0C46",
+    "kind": "gunintam",
+    "anu7": "Hî",
+    "anu7Hex": "48 EE",
+    "anu6": "<³",
+    "anu6Hex": "3C B3"
+  },
+  {
+    "unicode": "నే",
+    "codepoints": "U+0C28 U+0C47",
+    "kind": "gunintam",
+    "anu7": "Hû",
+    "anu7Hex": "48 FB",
+    "anu6": "<Í",
+    "anu6Hex": "3C CD"
+  },
+  {
+    "unicode": "నై",
+    "codepoints": "U+0C28 U+0C48",
+    "kind": "gunintam",
+    "anu7": "HîÕ",
+    "anu7Hex": "48 EE D5",
+    "anu6": "<³á",
+    "anu6Hex": "3C B3 E1"
+  },
+  {
+    "unicode": "నొ",
+    "codepoints": "U+0C28 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "H=",
+    "anu7Hex": "48 3D",
+    "anu6": "<ù",
+    "anu6Hex": "3C F9"
+  },
+  {
+    "unicode": "నో",
+    "codepoints": "U+0C28 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "HÃ",
+    "anu7Hex": "48 C3",
+    "anu6": "<Ë",
+    "anu6Hex": "3C CB"
+  },
+  {
+    "unicode": "నౌ",
+    "codepoints": "U+0C28 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "Hê",
+    "anu7Hex": "48 EA",
+    "anu6": "<ñ",
+    "anu6Hex": "3C F1"
+  },
+  {
+    "unicode": "నం",
+    "codepoints": "U+0C28 U+0C02",
+    "kind": "gunintam",
+    "anu7": "q+",
+    "anu7Hex": "71 2B",
+    "anu6": "#O",
+    "anu6Hex": "23 4F"
+  },
+  {
+    "unicode": "నః",
+    "codepoints": "U+0C28 U+0C03",
+    "kind": "gunintam",
+    "anu7": "q'",
+    "anu7Hex": "71 27",
+    "anu6": "#:",
+    "anu6Hex": "23 3A"
+  },
+  {
+    "unicode": "ప",
+    "codepoints": "U+0C2A",
+    "kind": "gunintam",
+    "anu7": "|Ÿ",
+    "anu7Hex": "7C 9F",
+    "anu6": "„¬",
+    "anu6Hex": "84 AC"
+  },
+  {
+    "unicode": "పా",
+    "codepoints": "U+0C2A U+0C3E",
+    "kind": "gunintam",
+    "anu7": "bÍ",
+    "anu7Hex": "62 CD",
+    "anu6": "‡",
+    "anu6Hex": "87 90"
+  },
+  {
+    "unicode": "పి",
+    "codepoints": "U+0C2A U+0C3F",
+    "kind": "gunintam",
+    "anu7": "|¾",
+    "anu7Hex": "7C BE",
+    "anu6": "„²",
+    "anu6Hex": "84 B2"
+  },
+  {
+    "unicode": "పీ",
+    "codepoints": "U+0C2A U+0C40",
+    "kind": "gunintam",
+    "anu7": "|Ó",
+    "anu7Hex": "7C D3",
+    "anu6": "„Ô",
+    "anu6Hex": "84 D4"
+  },
+  {
+    "unicode": "పు",
+    "codepoints": "U+0C2A U+0C41",
+    "kind": "gunintam",
+    "anu7": "|ŸÚ",
+    "anu7Hex": "7C 9F DA",
+    "anu6": "„¬ô",
+    "anu6Hex": "84 AC F4"
+  },
+  {
+    "unicode": "పూ",
+    "codepoints": "U+0C2A U+0C42",
+    "kind": "gunintam",
+    "anu7": "|ŸP",
+    "anu7Hex": "7C 9F 50",
+    "anu6": "„¬î",
+    "anu6Hex": "84 AC EE"
+  },
+  {
+    "unicode": "పె",
+    "codepoints": "U+0C2A U+0C46",
+    "kind": "gunintam",
+    "anu7": "™|",
+    "anu7Hex": "99 7C",
+    "anu6": "Ì„",
+    "anu6Hex": "CC 84"
+  },
+  {
+    "unicode": "పే",
+    "codepoints": "U+0C2A U+0C47",
+    "kind": "gunintam",
+    "anu7": "|",
+    "anu7Hex": "9D 7C",
+    "anu6": "À„",
+    "anu6Hex": "C0 84"
+  },
+  {
+    "unicode": "పై",
+    "codepoints": "U+0C2A U+0C48",
+    "kind": "gunintam",
+    "anu7": "™|Õ",
+    "anu7Hex": "99 7C D5",
+    "anu6": "Ì„á",
+    "anu6Hex": "CC 84 E1"
+  },
+  {
+    "unicode": "పొ",
+    "codepoints": "U+0C2A U+0C4A",
+    "kind": "gunintam",
+    "anu7": "bõ",
+    "anu7Hex": "62 F5",
+    "anu6": "‡Ú",
+    "anu6Hex": "87 DA"
+  },
+  {
+    "unicode": "పో",
+    "codepoints": "U+0C2A U+0C4B",
+    "kind": "gunintam",
+    "anu7": "bþ",
+    "anu7Hex": "62 FE",
+    "anu6": "‡é",
+    "anu6Hex": "87 E9"
+  },
+  {
+    "unicode": "పౌ",
+    "codepoints": "U+0C2A U+0C4C",
+    "kind": "gunintam",
+    "anu7": "bå",
+    "anu7Hex": "62 E5",
+    "anu6": "‡Ï",
+    "anu6Hex": "87 CF"
+  },
+  {
+    "unicode": "పం",
+    "codepoints": "U+0C2A U+0C02",
+    "kind": "gunintam",
+    "anu7": "|Ÿ+",
+    "anu7Hex": "7C 9F 2B",
+    "anu6": "„¬O",
+    "anu6Hex": "84 AC 4F"
+  },
+  {
+    "unicode": "పః",
+    "codepoints": "U+0C2A U+0C03",
+    "kind": "gunintam",
+    "anu7": "|Ÿ'",
+    "anu7Hex": "7C 9F 27",
+    "anu6": "„¬:",
+    "anu6Hex": "84 AC 3A"
+  },
+  {
+    "unicode": "ఫ",
+    "codepoints": "U+0C2B",
+    "kind": "gunintam",
+    "anu7": "|˜Ÿ",
+    "anu7Hex": "7C 98 9F",
+    "anu6": "„¦¬",
+    "anu6Hex": "84 A6 AC"
+  },
+  {
+    "unicode": "ఫా",
+    "codepoints": "U+0C2B U+0C3E",
+    "kind": "gunintam",
+    "anu7": "b˜Í",
+    "anu7Hex": "62 98 CD",
+    "anu6": "‡¦",
+    "anu6Hex": "87 A6 90"
+  },
+  {
+    "unicode": "ఫి",
+    "codepoints": "U+0C2B U+0C3F",
+    "kind": "gunintam",
+    "anu7": "|˜¾",
+    "anu7Hex": "7C 98 BE",
+    "anu6": "„¦²",
+    "anu6Hex": "84 A6 B2"
+  },
+  {
+    "unicode": "ఫీ",
+    "codepoints": "U+0C2B U+0C40",
+    "kind": "gunintam",
+    "anu7": "|˜Ó",
+    "anu7Hex": "7C 98 D3",
+    "anu6": "„¦Ô",
+    "anu6Hex": "84 A6 D4"
+  },
+  {
+    "unicode": "ఫు",
+    "codepoints": "U+0C2B U+0C41",
+    "kind": "gunintam",
+    "anu7": "|˜ŸÚ",
+    "anu7Hex": "7C 98 9F DA",
+    "anu6": "„¦¬ô",
+    "anu6Hex": "84 A6 AC F4"
+  },
+  {
+    "unicode": "ఫూ",
+    "codepoints": "U+0C2B U+0C42",
+    "kind": "gunintam",
+    "anu7": "|˜ŸP",
+    "anu7Hex": "7C 98 9F 50",
+    "anu6": "„¦¬î",
+    "anu6Hex": "84 A6 AC EE"
+  },
+  {
+    "unicode": "ఫె",
+    "codepoints": "U+0C2B U+0C46",
+    "kind": "gunintam",
+    "anu7": "™|˜",
+    "anu7Hex": "99 7C 98",
+    "anu6": "Ì„¦",
+    "anu6Hex": "CC 84 A6"
+  },
+  {
+    "unicode": "ఫే",
+    "codepoints": "U+0C2B U+0C47",
+    "kind": "gunintam",
+    "anu7": "|˜",
+    "anu7Hex": "9D 7C 98",
+    "anu6": "À„¦",
+    "anu6Hex": "C0 84 A6"
+  },
+  {
+    "unicode": "ఫై",
+    "codepoints": "U+0C2B U+0C48",
+    "kind": "gunintam",
+    "anu7": "™|˜Õ",
+    "anu7Hex": "99 7C 98 D5",
+    "anu6": "Ì„¦á",
+    "anu6Hex": "CC 84 A6 E1"
+  },
+  {
+    "unicode": "ఫొ",
+    "codepoints": "U+0C2B U+0C4A",
+    "kind": "gunintam",
+    "anu7": "b˜õ",
+    "anu7Hex": "62 98 F5",
+    "anu6": "‡¦Ú",
+    "anu6Hex": "87 A6 DA"
+  },
+  {
+    "unicode": "ఫో",
+    "codepoints": "U+0C2B U+0C4B",
+    "kind": "gunintam",
+    "anu7": "b˜þ",
+    "anu7Hex": "62 98 FE",
+    "anu6": "‡¦é",
+    "anu6Hex": "87 A6 E9"
+  },
+  {
+    "unicode": "ఫౌ",
+    "codepoints": "U+0C2B U+0C4C",
+    "kind": "gunintam",
+    "anu7": "b˜å",
+    "anu7Hex": "62 98 E5",
+    "anu6": "‡¦Ï",
+    "anu6Hex": "87 A6 CF"
+  },
+  {
+    "unicode": "ఫం",
+    "codepoints": "U+0C2B U+0C02",
+    "kind": "gunintam",
+    "anu7": "|˜Ÿ+",
+    "anu7Hex": "7C 98 9F 2B",
+    "anu6": "„¦¬O",
+    "anu6Hex": "84 A6 AC 4F"
+  },
+  {
+    "unicode": "ఫః",
+    "codepoints": "U+0C2B U+0C03",
+    "kind": "gunintam",
+    "anu7": "|˜Ÿ'",
+    "anu7Hex": "7C 98 9F 27",
+    "anu6": "„¦¬:",
+    "anu6Hex": "84 A6 AC 3A"
+  },
+  {
+    "unicode": "బ",
+    "codepoints": "U+0C2C",
+    "kind": "gunintam",
+    "anu7": "‹",
+    "anu7Hex": "8B",
+    "anu6": "|",
+    "anu6Hex": "7C"
+  },
+  {
+    "unicode": "బా",
+    "codepoints": "U+0C2C U+0C3E",
+    "kind": "gunintam",
+    "anu7": "u²",
+    "anu7Hex": "75 B2",
+    "anu6": "ƒì",
+    "anu6Hex": "83 EC"
+  },
+  {
+    "unicode": "బి",
+    "codepoints": "U+0C2C U+0C3F",
+    "kind": "gunintam",
+    "anu7": "_",
+    "anu7Hex": "5F",
+    "anu6": "a",
+    "anu6Hex": "61"
+  },
+  {
+    "unicode": "బీ",
+    "codepoints": "U+0C2C U+0C40",
+    "kind": "gunintam",
+    "anu7": ";",
+    "anu7Hex": "3B",
+    "anu6": "c",
+    "anu6Hex": "63"
+  },
+  {
+    "unicode": "బు",
+    "codepoints": "U+0C2C U+0C41",
+    "kind": "gunintam",
+    "anu7": "‹T",
+    "anu7Hex": "8B 54",
+    "anu6": "|°",
+    "anu6Hex": "7C B0"
+  },
+  {
+    "unicode": "బూ",
+    "codepoints": "U+0C2C U+0C42",
+    "kind": "gunintam",
+    "anu7": "‹Ö",
+    "anu7Hex": "8B D6",
+    "anu6": "|¶",
+    "anu6Hex": "7C B6"
+  },
+  {
+    "unicode": "బె",
+    "codepoints": "U+0C2C U+0C46",
+    "kind": "gunintam",
+    "anu7": "uÉ",
+    "anu7Hex": "75 C9",
+    "anu6": "ƒÿ",
+    "anu6Hex": "83 FF"
+  },
+  {
+    "unicode": "బే",
+    "codepoints": "U+0C2C U+0C47",
+    "kind": "gunintam",
+    "anu7": "uñ",
+    "anu7Hex": "75 F1",
+    "anu6": "ƒè",
+    "anu6Hex": "83 E8"
+  },
+  {
+    "unicode": "బై",
+    "codepoints": "U+0C2C U+0C48",
+    "kind": "gunintam",
+    "anu7": "uÉÕ",
+    "anu7Hex": "75 C9 D5",
+    "anu6": "ƒÿá",
+    "anu6Hex": "83 FF E1"
+  },
+  {
+    "unicode": "బొ",
+    "codepoints": "U+0C2C U+0C4A",
+    "kind": "gunintam",
+    "anu7": "u¤",
+    "anu7Hex": "75 A4",
+    "anu6": "ƒç",
+    "anu6Hex": "83 E7"
+  },
+  {
+    "unicode": "బో",
+    "codepoints": "U+0C2C U+0C4B",
+    "kind": "gunintam",
+    "anu7": "uË",
+    "anu7Hex": "75 CB",
+    "anu6": "ƒÕ",
+    "anu6Hex": "83 D5"
+  },
+  {
+    "unicode": "బౌ",
+    "codepoints": "U+0C2C U+0C4C",
+    "kind": "gunintam",
+    "anu7": "u…",
+    "anu7Hex": "75 85",
+    "anu6": "ƒº",
+    "anu6Hex": "83 BA"
+  },
+  {
+    "unicode": "బం",
+    "codepoints": "U+0C2C U+0C02",
+    "kind": "gunintam",
+    "anu7": "‹+",
+    "anu7Hex": "8B 2B",
+    "anu6": "|O",
+    "anu6Hex": "7C 4F"
+  },
+  {
+    "unicode": "బః",
+    "codepoints": "U+0C2C U+0C03",
+    "kind": "gunintam",
+    "anu7": "‹'",
+    "anu7Hex": "8B 27",
+    "anu6": "|:",
+    "anu6Hex": "7C 3A"
+  },
+  {
+    "unicode": "భ",
+    "codepoints": "U+0C2D",
+    "kind": "gunintam",
+    "anu7": "uó„",
+    "anu7Hex": "75 F3 84",
+    "anu6": "ƒ’",
+    "anu6Hex": "83 8F 92"
+  },
+  {
+    "unicode": "భా",
+    "codepoints": "U+0C2D U+0C3E",
+    "kind": "gunintam",
+    "anu7": "uó²",
+    "anu7Hex": "75 F3 B2",
+    "anu6": "ƒì",
+    "anu6Hex": "83 8F EC"
+  },
+  {
+    "unicode": "భి",
+    "codepoints": "U+0C2D U+0C3F",
+    "kind": "gunintam",
+    "anu7": "_ó",
+    "anu7Hex": "5F F3",
+    "anu6": "a",
+    "anu6Hex": "61 8F"
+  },
+  {
+    "unicode": "భీ",
+    "codepoints": "U+0C2D U+0C40",
+    "kind": "gunintam",
+    "anu7": ";ó",
+    "anu7Hex": "3B F3",
+    "anu6": "c",
+    "anu6Hex": "63 8F"
+  },
+  {
+    "unicode": "భు",
+    "codepoints": "U+0C2D U+0C41",
+    "kind": "gunintam",
+    "anu7": "uó„T",
+    "anu7Hex": "75 F3 84 54",
+    "anu6": "ƒ’°",
+    "anu6Hex": "83 8F 92 B0"
+  },
+  {
+    "unicode": "భూ",
+    "codepoints": "U+0C2D U+0C42",
+    "kind": "gunintam",
+    "anu7": "uó„Ö",
+    "anu7Hex": "75 F3 84 D6",
+    "anu6": "ƒ’¶",
+    "anu6Hex": "83 8F 92 B6"
+  },
+  {
+    "unicode": "భె",
+    "codepoints": "U+0C2D U+0C46",
+    "kind": "gunintam",
+    "anu7": "uóÉ",
+    "anu7Hex": "75 F3 C9",
+    "anu6": "ƒÿ",
+    "anu6Hex": "83 8F FF"
+  },
+  {
+    "unicode": "భే",
+    "codepoints": "U+0C2D U+0C47",
+    "kind": "gunintam",
+    "anu7": "uóñ",
+    "anu7Hex": "75 F3 F1",
+    "anu6": "ƒè",
+    "anu6Hex": "83 8F E8"
+  },
+  {
+    "unicode": "భై",
+    "codepoints": "U+0C2D U+0C48",
+    "kind": "gunintam",
+    "anu7": "uóÉÕ",
+    "anu7Hex": "75 F3 C9 D5",
+    "anu6": "ƒÿá",
+    "anu6Hex": "83 8F FF E1"
+  },
+  {
+    "unicode": "భొ",
+    "codepoints": "U+0C2D U+0C4A",
+    "kind": "gunintam",
+    "anu7": "uó¤",
+    "anu7Hex": "75 F3 A4",
+    "anu6": "ƒç",
+    "anu6Hex": "83 8F E7"
+  },
+  {
+    "unicode": "భో",
+    "codepoints": "U+0C2D U+0C4B",
+    "kind": "gunintam",
+    "anu7": "uóË",
+    "anu7Hex": "75 F3 CB",
+    "anu6": "ƒÕ",
+    "anu6Hex": "83 8F D5"
+  },
+  {
+    "unicode": "భౌ",
+    "codepoints": "U+0C2D U+0C4C",
+    "kind": "gunintam",
+    "anu7": "uó…",
+    "anu7Hex": "75 F3 85",
+    "anu6": "ƒº",
+    "anu6Hex": "83 8F BA"
+  },
+  {
+    "unicode": "భం",
+    "codepoints": "U+0C2D U+0C02",
+    "kind": "gunintam",
+    "anu7": "uó„+",
+    "anu7Hex": "75 F3 84 2B",
+    "anu6": "ƒ’O",
+    "anu6Hex": "83 8F 92 4F"
+  },
+  {
+    "unicode": "భః",
+    "codepoints": "U+0C2D U+0C03",
+    "kind": "gunintam",
+    "anu7": "uó„'",
+    "anu7Hex": "75 F3 84 27",
+    "anu6": "ƒ’:",
+    "anu6Hex": "83 8F 92 3A"
+  },
+  {
+    "unicode": "మ",
+    "codepoints": "U+0C2E",
+    "kind": "gunintam",
+    "anu7": "eT",
+    "anu7Hex": "65 54",
+    "anu6": "=°",
+    "anu6Hex": "3D B0"
+  },
+  {
+    "unicode": "మా",
+    "codepoints": "U+0C2E U+0C3E",
+    "kind": "gunintam",
+    "anu7": "eÖ",
+    "anu7Hex": "65 D6",
+    "anu6": "=¶",
+    "anu6Hex": "3D B6"
+  },
+  {
+    "unicode": "మి",
+    "codepoints": "U+0C2E U+0C3F",
+    "kind": "gunintam",
+    "anu7": "$T",
+    "anu7Hex": "24 54",
+    "anu6": "q°",
+    "anu6Hex": "71 B0"
+  },
+  {
+    "unicode": "మీ",
+    "codepoints": "U+0C2E U+0C40",
+    "kind": "gunintam",
+    "anu7": "MT",
+    "anu7Hex": "4D 54",
+    "anu6": "g°",
+    "anu6Hex": "67 B0"
+  },
+  {
+    "unicode": "ము",
+    "codepoints": "U+0C2E U+0C41",
+    "kind": "gunintam",
+    "anu7": "eTT",
+    "anu7Hex": "65 54 54",
+    "anu6": "=ò",
+    "anu6Hex": "3D F2"
+  },
+  {
+    "unicode": "మూ",
+    "codepoints": "U+0C2E U+0C42",
+    "kind": "gunintam",
+    "anu7": "eTÖ",
+    "anu7Hex": "65 54 D6",
+    "anu6": "=ü",
+    "anu6Hex": "3D FC"
+  },
+  {
+    "unicode": "మె",
+    "codepoints": "U+0C2E U+0C46",
+    "kind": "gunintam",
+    "anu7": "yîT",
+    "anu7Hex": "79 EE 54",
+    "anu6": "\"³°",
+    "anu6Hex": "22 B3 B0"
+  },
+  {
+    "unicode": "మే",
+    "codepoints": "U+0C2E U+0C47",
+    "kind": "gunintam",
+    "anu7": "yûT",
+    "anu7Hex": "79 FB 54",
+    "anu6": "\"Í°",
+    "anu6Hex": "22 CD B0"
+  },
+  {
+    "unicode": "మై",
+    "codepoints": "U+0C2E U+0C48",
+    "kind": "gunintam",
+    "anu7": "yîT®",
+    "anu7Hex": "79 EE 54 AE",
+    "anu6": "\"³°Ø",
+    "anu6Hex": "22 B3 B0 D8"
+  },
+  {
+    "unicode": "మొ",
+    "codepoints": "U+0C2E U+0C4A",
+    "kind": "gunintam",
+    "anu7": "yîTT",
+    "anu7Hex": "79 EE 54 54",
+    "anu6": "\"³ò",
+    "anu6Hex": "22 B3 F2"
+  },
+  {
+    "unicode": "మో",
+    "codepoints": "U+0C2E U+0C4B",
+    "kind": "gunintam",
+    "anu7": "yîÖ",
+    "anu7Hex": "79 EE D6",
+    "anu6": "\"³¶",
+    "anu6Hex": "22 B3 B6"
+  },
+  {
+    "unicode": "మౌ",
+    "codepoints": "U+0C2E U+0C4C",
+    "kind": "gunintam",
+    "anu7": "eTò",
+    "anu7Hex": "65 54 F2",
+    "anu6": "=°¿",
+    "anu6Hex": "3D B0 BF"
+  },
+  {
+    "unicode": "మం",
+    "codepoints": "U+0C2E U+0C02",
+    "kind": "gunintam",
+    "anu7": "eT+",
+    "anu7Hex": "65 54 2B",
+    "anu6": "=°O",
+    "anu6Hex": "3D B0 4F"
+  },
+  {
+    "unicode": "మః",
+    "codepoints": "U+0C2E U+0C03",
+    "kind": "gunintam",
+    "anu7": "eT'",
+    "anu7Hex": "65 54 27",
+    "anu6": "=°:",
+    "anu6Hex": "3D B0 3A"
+  },
+  {
+    "unicode": "య",
+    "codepoints": "U+0C2F",
+    "kind": "gunintam",
+    "anu7": "jáT",
+    "anu7Hex": "6A E1 54",
+    "anu6": "†Ç°",
+    "anu6Hex": "86 C7 B0"
+  },
+  {
+    "unicode": "యా",
+    "codepoints": "U+0C2F U+0C3E",
+    "kind": "gunintam",
+    "anu7": "jáÖ",
+    "anu7Hex": "6A E1 D6",
+    "anu6": "†Ç¶",
+    "anu6Hex": "86 C7 B6"
+  },
+  {
+    "unicode": "యి",
+    "codepoints": "U+0C2F U+0C3F",
+    "kind": "gunintam",
+    "anu7": "sTT",
+    "anu7Hex": "73 54 54",
+    "anu6": "~ò",
+    "anu6Hex": "7E F2"
+  },
+  {
+    "unicode": "యీ",
+    "codepoints": "U+0C2F U+0C40",
+    "kind": "gunintam",
+    "anu7": "sTÖ",
+    "anu7Hex": "73 54 D6",
+    "anu6": "~ü",
+    "anu6Hex": "7E FC"
+  },
+  {
+    "unicode": "యు",
+    "codepoints": "U+0C2F U+0C41",
+    "kind": "gunintam",
+    "anu7": "jáTT",
+    "anu7Hex": "6A E1 54 54",
+    "anu6": "†Çò",
+    "anu6Hex": "86 C7 F2"
+  },
+  {
+    "unicode": "యూ",
+    "codepoints": "U+0C2F U+0C42",
+    "kind": "gunintam",
+    "anu7": "jáTÖ",
+    "anu7Hex": "6A E1 54 D6",
+    "anu6": "†Çü",
+    "anu6Hex": "86 C7 FC"
+  },
+  {
+    "unicode": "యె",
+    "codepoints": "U+0C2F U+0C46",
+    "kind": "gunintam",
+    "anu7": "jîT",
+    "anu7Hex": "6A EE 54",
+    "anu6": "†³°",
+    "anu6Hex": "86 B3 B0"
+  },
+  {
+    "unicode": "యే",
+    "codepoints": "U+0C2F U+0C47",
+    "kind": "gunintam",
+    "anu7": "jûT",
+    "anu7Hex": "6A FB 54",
+    "anu6": "†Í°",
+    "anu6Hex": "86 CD B0"
+  },
+  {
+    "unicode": "యై",
+    "codepoints": "U+0C2F U+0C48",
+    "kind": "gunintam",
+    "anu7": "jî®T",
+    "anu7Hex": "6A EE AE 54",
+    "anu6": "†³Ø°",
+    "anu6Hex": "86 B3 D8 B0"
+  },
+  {
+    "unicode": "యొ",
+    "codepoints": "U+0C2F U+0C4A",
+    "kind": "gunintam",
+    "anu7": "jîTT",
+    "anu7Hex": "6A EE 54 54",
+    "anu6": "†³ò",
+    "anu6Hex": "86 B3 F2"
+  },
+  {
+    "unicode": "యో",
+    "codepoints": "U+0C2F U+0C4B",
+    "kind": "gunintam",
+    "anu7": "jîÖ",
+    "anu7Hex": "6A EE D6",
+    "anu6": "†³¶",
+    "anu6Hex": "86 B3 B6"
+  },
+  {
+    "unicode": "యౌ",
+    "codepoints": "U+0C2F U+0C4C",
+    "kind": "gunintam",
+    "anu7": "jáTò",
+    "anu7Hex": "6A E1 54 F2",
+    "anu6": "†Ç°¿",
+    "anu6Hex": "86 C7 B0 BF"
+  },
+  {
+    "unicode": "యం",
+    "codepoints": "U+0C2F U+0C02",
+    "kind": "gunintam",
+    "anu7": "jáT+",
+    "anu7Hex": "6A E1 54 2B",
+    "anu6": "†Ç°O",
+    "anu6Hex": "86 C7 B0 4F"
+  },
+  {
+    "unicode": "యః",
+    "codepoints": "U+0C2F U+0C03",
+    "kind": "gunintam",
+    "anu7": "jáT'",
+    "anu7Hex": "6A E1 54 27",
+    "anu6": "†Ç°:",
+    "anu6Hex": "86 C7 B0 3A"
+  },
+  {
+    "unicode": "ర",
+    "codepoints": "U+0C30",
+    "kind": "gunintam",
+    "anu7": "sÁ",
+    "anu7Hex": "73 C1",
+    "anu6": "~¡",
+    "anu6Hex": "7E A1"
+  },
+  {
+    "unicode": "రా",
+    "codepoints": "U+0C30 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "s",
+    "anu7Hex": "73 90",
+    "anu6": "~Œ",
+    "anu6Hex": "7E 8C"
+  },
+  {
+    "unicode": "రి",
+    "codepoints": "U+0C30 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "]",
+    "anu7Hex": "5D",
+    "anu6": "i",
+    "anu6Hex": "69"
+  },
+  {
+    "unicode": "రీ",
+    "codepoints": "U+0C30 U+0C40",
+    "kind": "gunintam",
+    "anu7": "¯",
+    "anu7Hex": "AF",
+    "anu6": "s",
+    "anu6Hex": "73"
+  },
+  {
+    "unicode": "రు",
+    "codepoints": "U+0C30 U+0C41",
+    "kind": "gunintam",
+    "anu7": "sÁT",
+    "anu7Hex": "73 C1 54",
+    "anu6": "~¡°",
+    "anu6Hex": "7E A1 B0"
+  },
+  {
+    "unicode": "రూ",
+    "codepoints": "U+0C30 U+0C42",
+    "kind": "gunintam",
+    "anu7": "sÁÖ",
+    "anu7Hex": "73 C1 D6",
+    "anu6": "~¡¶",
+    "anu6Hex": "7E A1 B6"
+  },
+  {
+    "unicode": "రె",
+    "codepoints": "U+0C30 U+0C46",
+    "kind": "gunintam",
+    "anu7": "Âs",
+    "anu7Hex": "C2 73",
+    "anu6": "ï~",
+    "anu6Hex": "EF 7E"
+  },
+  {
+    "unicode": "రే",
+    "codepoints": "U+0C30 U+0C47",
+    "kind": "gunintam",
+    "anu7": "¹s",
+    "anu7Hex": "B9 73",
+    "anu6": "ö~",
+    "anu6Hex": "F6 7E"
+  },
+  {
+    "unicode": "రై",
+    "codepoints": "U+0C30 U+0C48",
+    "kind": "gunintam",
+    "anu7": "ÂsÕ",
+    "anu7Hex": "C2 73 D5",
+    "anu6": "ï~á",
+    "anu6Hex": "EF 7E E1"
+  },
+  {
+    "unicode": "రొ",
+    "codepoints": "U+0C30 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "s=",
+    "anu7Hex": "73 3D",
+    "anu6": "~ù",
+    "anu6Hex": "7E F9"
+  },
+  {
+    "unicode": "రో",
+    "codepoints": "U+0C30 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "sÃ",
+    "anu7Hex": "73 C3",
+    "anu6": "~Ë",
+    "anu6Hex": "7E CB"
+  },
+  {
+    "unicode": "రౌ",
+    "codepoints": "U+0C30 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "sš",
+    "anu7Hex": "73 9A",
+    "anu6": "~Ò",
+    "anu6Hex": "7E D2"
+  },
+  {
+    "unicode": "రం",
+    "codepoints": "U+0C30 U+0C02",
+    "kind": "gunintam",
+    "anu7": "sÁ+",
+    "anu7Hex": "73 C1 2B",
+    "anu6": "~¡O",
+    "anu6Hex": "7E A1 4F"
+  },
+  {
+    "unicode": "రః",
+    "codepoints": "U+0C30 U+0C03",
+    "kind": "gunintam",
+    "anu7": "sÁ'",
+    "anu7Hex": "73 C1 27",
+    "anu6": "~¡:",
+    "anu6Hex": "7E A1 3A"
+  },
+  {
+    "unicode": "ల",
+    "codepoints": "U+0C32",
+    "kind": "gunintam",
+    "anu7": "\\",
+    "anu7Hex": "5C",
+    "anu6": "",
+    "anu6Hex": "81"
+  },
+  {
+    "unicode": "లా",
+    "codepoints": "U+0C32 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "ý²",
+    "anu7Hex": "FD B2",
+    "anu6": "…ì",
+    "anu6Hex": "85 EC"
+  },
+  {
+    "unicode": "లి",
+    "codepoints": "U+0C32 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "*",
+    "anu7Hex": "2A",
+    "anu6": "e",
+    "anu6Hex": "65"
+  },
+  {
+    "unicode": "లీ",
+    "codepoints": "U+0C32 U+0C40",
+    "kind": "gunintam",
+    "anu7": "©",
+    "anu7Hex": "A9",
+    "anu6": "b",
+    "anu6Hex": "62"
+  },
+  {
+    "unicode": "లు",
+    "codepoints": "U+0C32 U+0C41",
+    "kind": "gunintam",
+    "anu7": "\\T",
+    "anu7Hex": "5C 54",
+    "anu6": "°",
+    "anu6Hex": "81 B0"
+  },
+  {
+    "unicode": "లూ",
+    "codepoints": "U+0C32 U+0C42",
+    "kind": "gunintam",
+    "anu7": "\\Ö",
+    "anu7Hex": "5C D6",
+    "anu6": "¶",
+    "anu6Hex": "81 B6"
+  },
+  {
+    "unicode": "లె",
+    "codepoints": "U+0C32 U+0C46",
+    "kind": "gunintam",
+    "anu7": "ýÉ",
+    "anu7Hex": "FD C9",
+    "anu6": "…ÿ",
+    "anu6Hex": "85 FF"
+  },
+  {
+    "unicode": "లే",
+    "codepoints": "U+0C32 U+0C47",
+    "kind": "gunintam",
+    "anu7": "ýñ",
+    "anu7Hex": "FD F1",
+    "anu6": "…è",
+    "anu6Hex": "85 E8"
+  },
+  {
+    "unicode": "లై",
+    "codepoints": "U+0C32 U+0C48",
+    "kind": "gunintam",
+    "anu7": "ýÉÕ",
+    "anu7Hex": "FD C9 D5",
+    "anu6": "…ÿá",
+    "anu6Hex": "85 FF E1"
+  },
+  {
+    "unicode": "లొ",
+    "codepoints": "U+0C32 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "ý¤",
+    "anu7Hex": "FD A4",
+    "anu6": "…ç",
+    "anu6Hex": "85 E7"
+  },
+  {
+    "unicode": "లో",
+    "codepoints": "U+0C32 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "ýË",
+    "anu7Hex": "FD CB",
+    "anu6": "…Õ",
+    "anu6Hex": "85 D5"
+  },
+  {
+    "unicode": "లౌ",
+    "codepoints": "U+0C32 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "ý…",
+    "anu7Hex": "FD 85",
+    "anu6": "…º",
+    "anu6Hex": "85 BA"
+  },
+  {
+    "unicode": "లం",
+    "codepoints": "U+0C32 U+0C02",
+    "kind": "gunintam",
+    "anu7": "\\+",
+    "anu7Hex": "5C 2B",
+    "anu6": "O",
+    "anu6Hex": "81 4F"
+  },
+  {
+    "unicode": "లః",
+    "codepoints": "U+0C32 U+0C03",
+    "kind": "gunintam",
+    "anu7": "\\'",
+    "anu7Hex": "5C 27",
+    "anu6": ":",
+    "anu6Hex": "81 3A"
+  },
+  {
+    "unicode": "వ",
+    "codepoints": "U+0C35",
+    "kind": "gunintam",
+    "anu7": "e",
+    "anu7Hex": "65",
+    "anu6": "=",
+    "anu6Hex": "3D"
+  },
+  {
+    "unicode": "వా",
+    "codepoints": "U+0C35 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "y",
+    "anu7Hex": "79 90",
+    "anu6": "\"Œ",
+    "anu6Hex": "22 8C"
+  },
+  {
+    "unicode": "వి",
+    "codepoints": "U+0C35 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "$",
+    "anu7Hex": "24",
+    "anu6": "q",
+    "anu6Hex": "71"
+  },
+  {
+    "unicode": "వీ",
+    "codepoints": "U+0C35 U+0C40",
+    "kind": "gunintam",
+    "anu7": "M",
+    "anu7Hex": "4D",
+    "anu6": "g",
+    "anu6Hex": "67"
+  },
+  {
+    "unicode": "వు",
+    "codepoints": "U+0C35 U+0C41",
+    "kind": "gunintam",
+    "anu7": "eÚ",
+    "anu7Hex": "65 DA",
+    "anu6": "=ô",
+    "anu6Hex": "3D F4"
+  },
+  {
+    "unicode": "వూ",
+    "codepoints": "U+0C35 U+0C42",
+    "kind": "gunintam",
+    "anu7": "eP",
+    "anu7Hex": "65 50",
+    "anu6": "=î",
+    "anu6Hex": "3D EE"
+  },
+  {
+    "unicode": "వె",
+    "codepoints": "U+0C35 U+0C46",
+    "kind": "gunintam",
+    "anu7": "yî",
+    "anu7Hex": "79 EE",
+    "anu6": "\"³",
+    "anu6Hex": "22 B3"
+  },
+  {
+    "unicode": "వే",
+    "codepoints": "U+0C35 U+0C47",
+    "kind": "gunintam",
+    "anu7": "yû",
+    "anu7Hex": "79 FB",
+    "anu6": "\"Í",
+    "anu6Hex": "22 CD"
+  },
+  {
+    "unicode": "వై",
+    "codepoints": "U+0C35 U+0C48",
+    "kind": "gunintam",
+    "anu7": "yîÕ",
+    "anu7Hex": "79 EE D5",
+    "anu6": "\"³á",
+    "anu6Hex": "22 B3 E1"
+  },
+  {
+    "unicode": "వొ",
+    "codepoints": "U+0C35 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "y=",
+    "anu7Hex": "79 3D",
+    "anu6": "\"ù",
+    "anu6Hex": "22 F9"
+  },
+  {
+    "unicode": "వో",
+    "codepoints": "U+0C35 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "yÃ",
+    "anu7Hex": "79 C3",
+    "anu6": "\"Ë",
+    "anu6Hex": "22 CB"
+  },
+  {
+    "unicode": "వౌ",
+    "codepoints": "U+0C35 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "yê",
+    "anu7Hex": "79 EA",
+    "anu6": "\"ñ",
+    "anu6Hex": "22 F1"
+  },
+  {
+    "unicode": "వం",
+    "codepoints": "U+0C35 U+0C02",
+    "kind": "gunintam",
+    "anu7": "e+",
+    "anu7Hex": "65 2B",
+    "anu6": "=O",
+    "anu6Hex": "3D 4F"
+  },
+  {
+    "unicode": "వః",
+    "codepoints": "U+0C35 U+0C03",
+    "kind": "gunintam",
+    "anu7": "e'",
+    "anu7Hex": "65 27",
+    "anu6": "=:",
+    "anu6Hex": "3D 3A"
+  },
+  {
+    "unicode": "శ",
+    "codepoints": "U+0C36",
+    "kind": "gunintam",
+    "anu7": "Xø",
+    "anu7Hex": "58 F8",
+    "anu6": "‰×",
+    "anu6Hex": "89 D7"
+  },
+  {
+    "unicode": "శా",
+    "codepoints": "U+0C36 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "Xæ",
+    "anu7Hex": "58 E6",
+    "anu6": "‰§",
+    "anu6Hex": "89 A7"
+  },
+  {
+    "unicode": "శి",
+    "codepoints": "U+0C36 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "¥",
+    "anu7Hex": "A5",
+    "anu6": "t",
+    "anu6Hex": "74"
+  },
+  {
+    "unicode": "శీ",
+    "codepoints": "U+0C36 U+0C40",
+    "kind": "gunintam",
+    "anu7": "o",
+    "anu7Hex": "6F",
+    "anu6": "j",
+    "anu6Hex": "6A"
+  },
+  {
+    "unicode": "శు",
+    "codepoints": "U+0C36 U+0C41",
+    "kind": "gunintam",
+    "anu7": "Xø—",
+    "anu7Hex": "58 F8 97",
+    "anu6": "‰×Ã",
+    "anu6Hex": "89 D7 C3"
+  },
+  {
+    "unicode": "శూ",
+    "codepoints": "U+0C36 U+0C42",
+    "kind": "gunintam",
+    "anu7": "XøS",
+    "anu7Hex": "58 F8 53",
+    "anu6": "‰×´",
+    "anu6Hex": "89 D7 B4"
+  },
+  {
+    "unicode": "శె",
+    "codepoints": "U+0C36 U+0C46",
+    "kind": "gunintam",
+    "anu7": "Xè",
+    "anu7Hex": "58 E8",
+    "anu6": "‰Ü",
+    "anu6Hex": "89 DC"
+  },
+  {
+    "unicode": "శే",
+    "codepoints": "U+0C36 U+0C47",
+    "kind": "gunintam",
+    "anu7": "Xâ",
+    "anu7Hex": "58 E2",
+    "anu6": "‰õ",
+    "anu6Hex": "89 F5"
+  },
+  {
+    "unicode": "శై",
+    "codepoints": "U+0C36 U+0C48",
+    "kind": "gunintam",
+    "anu7": "XèÕ",
+    "anu7Hex": "58 E8 D5",
+    "anu6": "‰Üá",
+    "anu6Hex": "89 DC E1"
+  },
+  {
+    "unicode": "శొ",
+    "codepoints": "U+0C36 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "X¤",
+    "anu7Hex": "58 A4",
+    "anu6": "‰ç",
+    "anu6Hex": "89 E7"
+  },
+  {
+    "unicode": "శో",
+    "codepoints": "U+0C36 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "XË",
+    "anu7Hex": "58 CB",
+    "anu6": "‰Õ",
+    "anu6Hex": "89 D5"
+  },
+  {
+    "unicode": "శౌ",
+    "codepoints": "U+0C36 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "X…",
+    "anu7Hex": "58 85",
+    "anu6": "‰º",
+    "anu6Hex": "89 BA"
+  },
+  {
+    "unicode": "శం",
+    "codepoints": "U+0C36 U+0C02",
+    "kind": "gunintam",
+    "anu7": "Xø+",
+    "anu7Hex": "58 F8 2B",
+    "anu6": "‰×O",
+    "anu6Hex": "89 D7 4F"
+  },
+  {
+    "unicode": "శః",
+    "codepoints": "U+0C36 U+0C03",
+    "kind": "gunintam",
+    "anu7": "Xø'",
+    "anu7Hex": "58 F8 27",
+    "anu6": "‰×:",
+    "anu6Hex": "89 D7 3A"
+  },
+  {
+    "unicode": "ష",
+    "codepoints": "U+0C37",
+    "kind": "gunintam",
+    "anu7": "wŸ",
+    "anu7Hex": "77 9F",
+    "anu6": "+¬",
+    "anu6Hex": "2B AC"
+  },
+  {
+    "unicode": "షా",
+    "codepoints": "U+0C37 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "cÍ",
+    "anu7Hex": "63 CD",
+    "anu6": "‘",
+    "anu6Hex": "91 90"
+  },
+  {
+    "unicode": "షి",
+    "codepoints": "U+0C37 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "w¾",
+    "anu7Hex": "77 BE",
+    "anu6": "+²",
+    "anu6Hex": "2B B2"
+  },
+  {
+    "unicode": "షీ",
+    "codepoints": "U+0C37 U+0C40",
+    "kind": "gunintam",
+    "anu7": "wÓ",
+    "anu7Hex": "77 D3",
+    "anu6": "+Ô",
+    "anu6Hex": "2B D4"
+  },
+  {
+    "unicode": "షు",
+    "codepoints": "U+0C37 U+0C41",
+    "kind": "gunintam",
+    "anu7": "wŸ§",
+    "anu7Hex": "77 9F A7",
+    "anu6": "+¬µ",
+    "anu6Hex": "2B AC B5"
+  },
+  {
+    "unicode": "షూ",
+    "codepoints": "U+0C37 U+0C42",
+    "kind": "gunintam",
+    "anu7": "wŸO",
+    "anu7Hex": "77 9F 4F",
+    "anu6": "+¬¯",
+    "anu6Hex": "2B AC AF"
+  },
+  {
+    "unicode": "షె",
+    "codepoints": "U+0C37 U+0C46",
+    "kind": "gunintam",
+    "anu7": "™w",
+    "anu7Hex": "99 77",
+    "anu6": "Ì+",
+    "anu6Hex": "CC 2B"
+  },
+  {
+    "unicode": "షే",
+    "codepoints": "U+0C37 U+0C47",
+    "kind": "gunintam",
+    "anu7": "w",
+    "anu7Hex": "9D 77",
+    "anu6": "À+",
+    "anu6Hex": "C0 2B"
+  },
+  {
+    "unicode": "షై",
+    "codepoints": "U+0C37 U+0C48",
+    "kind": "gunintam",
+    "anu7": "™wÕ",
+    "anu7Hex": "99 77 D5",
+    "anu6": "Ì+á",
+    "anu6Hex": "CC 2B E1"
+  },
+  {
+    "unicode": "షొ",
+    "codepoints": "U+0C37 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "cþ",
+    "anu7Hex": "63 FE",
+    "anu6": "‘Ú",
+    "anu6Hex": "91 DA"
+  },
+  {
+    "unicode": "షో",
+    "codepoints": "U+0C37 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "cþ",
+    "anu7Hex": "63 FE",
+    "anu6": "‘é",
+    "anu6Hex": "91 E9"
+  },
+  {
+    "unicode": "షౌ",
+    "codepoints": "U+0C37 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "cå",
+    "anu7Hex": "63 E5",
+    "anu6": "‘Ï",
+    "anu6Hex": "91 CF"
+  },
+  {
+    "unicode": "షం",
+    "codepoints": "U+0C37 U+0C02",
+    "kind": "gunintam",
+    "anu7": "wŸ+",
+    "anu7Hex": "77 9F 2B",
+    "anu6": "+¬O",
+    "anu6Hex": "2B AC 4F"
+  },
+  {
+    "unicode": "షః",
+    "codepoints": "U+0C37 U+0C03",
+    "kind": "gunintam",
+    "anu7": "wŸ'",
+    "anu7Hex": "77 9F 27",
+    "anu6": "+¬:",
+    "anu6Hex": "2B AC 3A"
+  },
+  {
+    "unicode": "స",
+    "codepoints": "U+0C38",
+    "kind": "gunintam",
+    "anu7": "dŸ",
+    "anu7Hex": "64 9F",
+    "anu6": "‹¬",
+    "anu6Hex": "8B AC"
+  },
+  {
+    "unicode": "సా",
+    "codepoints": "U+0C38 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "kÍ",
+    "anu7Hex": "6B CD",
+    "anu6": "ª",
+    "anu6Hex": "AA 90"
+  },
+  {
+    "unicode": "సి",
+    "codepoints": "U+0C38 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "d¾",
+    "anu7Hex": "64 BE",
+    "anu6": "‹²",
+    "anu6Hex": "8B B2"
+  },
+  {
+    "unicode": "సీ",
+    "codepoints": "U+0C38 U+0C40",
+    "kind": "gunintam",
+    "anu7": "dÓ",
+    "anu7Hex": "64 D3",
+    "anu6": "‹Ô",
+    "anu6Hex": "8B D4"
+  },
+  {
+    "unicode": "సు",
+    "codepoints": "U+0C38 U+0C41",
+    "kind": "gunintam",
+    "anu7": "dŸT",
+    "anu7Hex": "64 9F 54",
+    "anu6": "‹¬°",
+    "anu6Hex": "8B AC B0"
+  },
+  {
+    "unicode": "సూ",
+    "codepoints": "U+0C38 U+0C42",
+    "kind": "gunintam",
+    "anu7": "dŸÖ",
+    "anu7Hex": "64 9F D6",
+    "anu6": "‹¬¶",
+    "anu6Hex": "8B AC B6"
+  },
+  {
+    "unicode": "సె",
+    "codepoints": "U+0C38 U+0C46",
+    "kind": "gunintam",
+    "anu7": "™d",
+    "anu7Hex": "99 64",
+    "anu6": "Ì‹",
+    "anu6Hex": "CC 8B"
+  },
+  {
+    "unicode": "సే",
+    "codepoints": "U+0C38 U+0C47",
+    "kind": "gunintam",
+    "anu7": "d",
+    "anu7Hex": "9D 64",
+    "anu6": "À‹",
+    "anu6Hex": "C0 8B"
+  },
+  {
+    "unicode": "సై",
+    "codepoints": "U+0C38 U+0C48",
+    "kind": "gunintam",
+    "anu7": "™dÕ",
+    "anu7Hex": "99 64 D5",
+    "anu6": "Ì‹á",
+    "anu6Hex": "CC 8B E1"
+  },
+  {
+    "unicode": "సొ",
+    "codepoints": "U+0C38 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "kõ",
+    "anu7Hex": "6B F5",
+    "anu6": "ªÚ",
+    "anu6Hex": "AA DA"
+  },
+  {
+    "unicode": "సో",
+    "codepoints": "U+0C38 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "kþ",
+    "anu7Hex": "6B FE",
+    "anu6": "ªé",
+    "anu6Hex": "AA E9"
+  },
+  {
+    "unicode": "సౌ",
+    "codepoints": "U+0C38 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "kå",
+    "anu7Hex": "6B E5",
+    "anu6": "ªÏ",
+    "anu6Hex": "AA CF"
+  },
+  {
+    "unicode": "సం",
+    "codepoints": "U+0C38 U+0C02",
+    "kind": "gunintam",
+    "anu7": "dŸ+",
+    "anu7Hex": "64 9F 2B",
+    "anu6": "‹¬O",
+    "anu6Hex": "8B AC 4F"
+  },
+  {
+    "unicode": "సః",
+    "codepoints": "U+0C38 U+0C03",
+    "kind": "gunintam",
+    "anu7": "dŸ'",
+    "anu7Hex": "64 9F 27",
+    "anu6": "‹¬:",
+    "anu6Hex": "8B AC 3A"
+  },
+  {
+    "unicode": "హ",
+    "codepoints": "U+0C39",
+    "kind": "gunintam",
+    "anu7": "VŸ²",
+    "anu7Hex": "56 9F B2",
+    "anu6": "‚¬ì",
+    "anu6Hex": "82 AC EC"
+  },
+  {
+    "unicode": "హా",
+    "codepoints": "U+0C39 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "VŸä",
+    "anu7Hex": "56 9F E4",
+    "anu6": "‚¬ð",
+    "anu6Hex": "82 AC F0"
+  },
+  {
+    "unicode": "హి",
+    "codepoints": "U+0C39 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "V¾²",
+    "anu7Hex": "56 BE B2",
+    "anu6": "‚²ì",
+    "anu6Hex": "82 B2 EC"
+  },
+  {
+    "unicode": "హీ",
+    "codepoints": "U+0C39 U+0C40",
+    "kind": "gunintam",
+    "anu7": "VÓ²",
+    "anu7Hex": "56 D3 B2",
+    "anu6": "‚Ôì",
+    "anu6Hex": "82 D4 EC"
+  },
+  {
+    "unicode": "హు",
+    "codepoints": "U+0C39 U+0C41",
+    "kind": "gunintam",
+    "anu7": "VŸQ",
+    "anu7Hex": "56 9F 51",
+    "anu6": "‚¬•",
+    "anu6Hex": "82 AC 95"
+  },
+  {
+    "unicode": "హూ",
+    "codepoints": "U+0C39 U+0C42",
+    "kind": "gunintam",
+    "anu7": "VŸA",
+    "anu7Hex": "56 9F 41",
+    "anu6": "‚¬ú",
+    "anu6Hex": "82 AC FA"
+  },
+  {
+    "unicode": "హె",
+    "codepoints": "U+0C39 U+0C46",
+    "kind": "gunintam",
+    "anu7": "™V²",
+    "anu7Hex": "99 56 B2",
+    "anu6": "Ì‚ì",
+    "anu6Hex": "CC 82 EC"
+  },
+  {
+    "unicode": "హే",
+    "codepoints": "U+0C39 U+0C47",
+    "kind": "gunintam",
+    "anu7": "V²",
+    "anu7Hex": "9D 56 B2",
+    "anu6": "À‚ì",
+    "anu6Hex": "C0 82 EC"
+  },
+  {
+    "unicode": "హై",
+    "codepoints": "U+0C39 U+0C48",
+    "kind": "gunintam",
+    "anu7": "™VÕ²",
+    "anu7Hex": "99 56 D5 B2",
+    "anu6": "Ì‚áì",
+    "anu6Hex": "CC 82 E1 EC"
+  },
+  {
+    "unicode": "హొ",
+    "codepoints": "U+0C39 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "™VQ",
+    "anu7Hex": "99 56 51",
+    "anu6": "‚¬ì¸",
+    "anu6Hex": "82 AC EC B8"
+  },
+  {
+    "unicode": "హో",
+    "codepoints": "U+0C39 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "¬",
+    "anu7Hex": "AC",
+    "anu6": "‚¬ìÙ",
+    "anu6Hex": "82 AC EC D9"
+  },
+  {
+    "unicode": "హౌ",
+    "codepoints": "U+0C39 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "VŸ²…",
+    "anu7Hex": "56 9F B2 85",
+    "anu6": "‚¬ìº",
+    "anu6Hex": "82 AC EC BA"
+  },
+  {
+    "unicode": "హం",
+    "codepoints": "U+0C39 U+0C02",
+    "kind": "gunintam",
+    "anu7": "VŸ²+",
+    "anu7Hex": "56 9F B2 2B",
+    "anu6": "‚¬ìO",
+    "anu6Hex": "82 AC EC 4F"
+  },
+  {
+    "unicode": "హః",
+    "codepoints": "U+0C39 U+0C03",
+    "kind": "gunintam",
+    "anu7": "VŸ²'",
+    "anu7Hex": "56 9F B2 27",
+    "anu6": "‚¬ì:",
+    "anu6Hex": "82 AC EC 3A"
+  },
+  {
+    "unicode": "ళ",
+    "codepoints": "U+0C33",
+    "kind": "gunintam",
+    "anu7": "Þø",
+    "anu7Hex": "DE F8",
+    "anu6": "ˆ×",
+    "anu6Hex": "88 D7"
+  },
+  {
+    "unicode": "ళా",
+    "codepoints": "U+0C33 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "Þ²",
+    "anu7Hex": "DE B2",
+    "anu6": "ˆì",
+    "anu6Hex": "88 EC"
+  },
+  {
+    "unicode": "ళి",
+    "codepoints": "U+0C33 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "[",
+    "anu7Hex": "5B",
+    "anu6": "o",
+    "anu6Hex": "6F"
+  },
+  {
+    "unicode": "ళీ",
+    "codepoints": "U+0C33 U+0C40",
+    "kind": "gunintam",
+    "anu7": "°",
+    "anu7Hex": "B0",
+    "anu6": "m",
+    "anu6Hex": "6D"
+  },
+  {
+    "unicode": "ళు",
+    "codepoints": "U+0C33 U+0C41",
+    "kind": "gunintam",
+    "anu7": "Þø—",
+    "anu7Hex": "DE F8 97",
+    "anu6": "ˆ×Ã",
+    "anu6Hex": "88 D7 C3"
+  },
+  {
+    "unicode": "ళూ",
+    "codepoints": "U+0C33 U+0C42",
+    "kind": "gunintam",
+    "anu7": "ÞøS",
+    "anu7Hex": "DE F8 53",
+    "anu6": "ˆ×´",
+    "anu6Hex": "88 D7 B4"
+  },
+  {
+    "unicode": "ళె",
+    "codepoints": "U+0C33 U+0C46",
+    "kind": "gunintam",
+    "anu7": "Þè",
+    "anu7Hex": "DE E8",
+    "anu6": "ˆÜ",
+    "anu6Hex": "88 DC"
+  },
+  {
+    "unicode": "ళే",
+    "codepoints": "U+0C33 U+0C47",
+    "kind": "gunintam",
+    "anu7": "Þâ",
+    "anu7Hex": "DE E2",
+    "anu6": "ˆõ",
+    "anu6Hex": "88 F5"
+  },
+  {
+    "unicode": "ళై",
+    "codepoints": "U+0C33 U+0C48",
+    "kind": "gunintam",
+    "anu7": "ÞèÕ",
+    "anu7Hex": "DE E8 D5",
+    "anu6": "ˆÜá",
+    "anu6Hex": "88 DC E1"
+  },
+  {
+    "unicode": "ళొ",
+    "codepoints": "U+0C33 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "Þ¤",
+    "anu7Hex": "DE A4",
+    "anu6": "ˆç",
+    "anu6Hex": "88 E7"
+  },
+  {
+    "unicode": "ళో",
+    "codepoints": "U+0C33 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "ÞË",
+    "anu7Hex": "DE CB",
+    "anu6": "ˆÕ",
+    "anu6Hex": "88 D5"
+  },
+  {
+    "unicode": "ళౌ",
+    "codepoints": "U+0C33 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "Þ…",
+    "anu7Hex": "DE 85",
+    "anu6": "ˆº",
+    "anu6Hex": "88 BA"
+  },
+  {
+    "unicode": "ళం",
+    "codepoints": "U+0C33 U+0C02",
+    "kind": "gunintam",
+    "anu7": "Þø+",
+    "anu7Hex": "DE F8 2B",
+    "anu6": "ˆ×O",
+    "anu6Hex": "88 D7 4F"
+  },
+  {
+    "unicode": "ళః",
+    "codepoints": "U+0C33 U+0C03",
+    "kind": "gunintam",
+    "anu7": "Þø'",
+    "anu7Hex": "DE F8 27",
+    "anu6": "ˆ×:",
+    "anu6Hex": "88 D7 3A"
+  },
+  {
+    "unicode": "ఱ",
+    "codepoints": "U+0C31",
+    "kind": "gunintam",
+    "anu7": "i",
+    "anu7Hex": "69",
+    "anu6": "Ž",
+    "anu6Hex": "8E"
+  },
+  {
+    "unicode": "ఱా",
+    "codepoints": "U+0C31 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "i²",
+    "anu7Hex": "69 B2",
+    "anu6": "Žì",
+    "anu6Hex": "8E EC"
+  },
+  {
+    "unicode": "ఱి",
+    "codepoints": "U+0C31 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "iì",
+    "anu7Hex": "69 EC",
+    "anu6": "Ž÷",
+    "anu6Hex": "8E F7"
+  },
+  {
+    "unicode": "ఱీ",
+    "codepoints": "U+0C31 U+0C40",
+    "kind": "gunintam",
+    "anu7": "i¡",
+    "anu7Hex": "69 A1",
+    "anu6": "Ž©",
+    "anu6Hex": "8E A9"
+  },
+  {
+    "unicode": "ఱు",
+    "codepoints": "U+0C31 U+0C41",
+    "kind": "gunintam",
+    "anu7": "iT",
+    "anu7Hex": "69 54",
+    "anu6": "Ž°",
+    "anu6Hex": "8E B0"
+  },
+  {
+    "unicode": "ఱూ",
+    "codepoints": "U+0C31 U+0C42",
+    "kind": "gunintam",
+    "anu7": "iÖ",
+    "anu7Hex": "69 D6",
+    "anu6": "Ž¶",
+    "anu6Hex": "8E B6"
+  },
+  {
+    "unicode": "ఱె",
+    "codepoints": "U+0C31 U+0C46",
+    "kind": "gunintam",
+    "anu7": "iÉ",
+    "anu7Hex": "69 C9",
+    "anu6": "Žÿ",
+    "anu6Hex": "8E FF"
+  },
+  {
+    "unicode": "ఱే",
+    "codepoints": "U+0C31 U+0C47",
+    "kind": "gunintam",
+    "anu7": "iñ",
+    "anu7Hex": "69 F1",
+    "anu6": "Žè",
+    "anu6Hex": "8E E8"
+  },
+  {
+    "unicode": "ఱై",
+    "codepoints": "U+0C31 U+0C48",
+    "kind": "gunintam",
+    "anu7": "iÉ®",
+    "anu7Hex": "69 C9 AE",
+    "anu6": "ŽÿØ",
+    "anu6Hex": "8E FF D8"
+  },
+  {
+    "unicode": "ఱొ",
+    "codepoints": "U+0C31 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "i=",
+    "anu7Hex": "69 3D",
+    "anu6": "Žù",
+    "anu6Hex": "8E F9"
+  },
+  {
+    "unicode": "ఱో",
+    "codepoints": "U+0C31 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "iÃ",
+    "anu7Hex": "69 C3",
+    "anu6": "ŽÕ",
+    "anu6Hex": "8E D5"
+  },
+  {
+    "unicode": "ఱౌ",
+    "codepoints": "U+0C31 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "i…",
+    "anu7Hex": "69 85",
+    "anu6": "Žº",
+    "anu6Hex": "8E BA"
+  },
+  {
+    "unicode": "ఱం",
+    "codepoints": "U+0C31 U+0C02",
+    "kind": "gunintam",
+    "anu7": "i+",
+    "anu7Hex": "69 2B",
+    "anu6": "ŽO",
+    "anu6Hex": "8E 4F"
+  },
+  {
+    "unicode": "ఱః",
+    "codepoints": "U+0C31 U+0C03",
+    "kind": "gunintam",
+    "anu7": "i'",
+    "anu7Hex": "69 27",
+    "anu6": "Ž:",
+    "anu6Hex": "8E 3A"
+  },
+  {
+    "unicode": "క్ష",
+    "codepoints": "U+0C15 U+0C4D U+0C37",
+    "kind": "gunintam",
+    "anu7": "¿£Œ",
+    "anu7Hex": "BF A3 8C",
+    "anu6": "H›Æ",
+    "anu6Hex": "48 9B C6"
+  },
+  {
+    "unicode": "క్షా",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C3E",
+    "kind": "gunintam",
+    "anu7": "¿Œ±",
+    "anu7Hex": "BF 8C B1",
+    "anu6": "HÆê",
+    "anu6Hex": "48 C6 EA"
+  },
+  {
+    "unicode": "క్షి",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C3F",
+    "kind": "gunintam",
+    "anu7": "¿ìŒ",
+    "anu7Hex": "BF EC 8C",
+    "anu6": "H÷Æ",
+    "anu6Hex": "48 F7 C6"
+  },
+  {
+    "unicode": "క్షీ",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C40",
+    "kind": "gunintam",
+    "anu7": "¿¡Œ",
+    "anu7Hex": "BF A1 8C",
+    "anu6": "H©Æ",
+    "anu6Hex": "48 A9 C6"
+  },
+  {
+    "unicode": "క్షు",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C41",
+    "kind": "gunintam",
+    "anu7": "Å£Œ”",
+    "anu7Hex": "C5 A3 8C 94",
+    "anu6": "ä›Æ½",
+    "anu6Hex": "E4 9B C6 BD"
+  },
+  {
+    "unicode": "క్షూ",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C42",
+    "kind": "gunintam",
+    "anu7": "Å£ŒL",
+    "anu7Hex": "C5 A3 8C 4C",
+    "anu6": "ä›Æ€",
+    "anu6Hex": "E4 9B C6 80"
+  },
+  {
+    "unicode": "క్షె",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C46",
+    "kind": "gunintam",
+    "anu7": "Â¿Œ",
+    "anu7Hex": "C2 BF 8C",
+    "anu6": "ïHÆ",
+    "anu6Hex": "EF 48 C6"
+  },
+  {
+    "unicode": "క్షే",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C47",
+    "kind": "gunintam",
+    "anu7": "¹¿Œ",
+    "anu7Hex": "B9 BF 8C",
+    "anu6": "öHÆ",
+    "anu6Hex": "F6 48 C6"
+  },
+  {
+    "unicode": "క్షై",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C48",
+    "kind": "gunintam",
+    "anu7": "Â¿Œí",
+    "anu7Hex": "C2 BF 8C ED",
+    "anu6": "ïHÆå",
+    "anu6Hex": "EF 48 C6 E5"
+  },
+  {
+    "unicode": "క్షొ",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C4A",
+    "kind": "gunintam",
+    "anu7": "¿Œ=",
+    "anu7Hex": "BF 8C 3D",
+    "anu6": "HÆù",
+    "anu6Hex": "48 C6 F9"
+  },
+  {
+    "unicode": "క్షో",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C4B",
+    "kind": "gunintam",
+    "anu7": "¿ŒÃ",
+    "anu7Hex": "BF 8C C3",
+    "anu6": "HÆË",
+    "anu6Hex": "48 C6 CB"
+  },
+  {
+    "unicode": "క్షౌ",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C4C",
+    "kind": "gunintam",
+    "anu7": "¿Œš",
+    "anu7Hex": "BF 8C 9A",
+    "anu6": "HÆÒ",
+    "anu6Hex": "48 C6 D2"
+  },
+  {
+    "unicode": "క్షం",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C02",
+    "kind": "gunintam",
+    "anu7": "¿£Œ+",
+    "anu7Hex": "BF A3 8C 2B",
+    "anu6": "H›ÆO",
+    "anu6Hex": "48 9B C6 4F"
+  },
+  {
+    "unicode": "క్షః",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C03",
+    "kind": "gunintam",
+    "anu7": "¿£Œ'",
+    "anu7Hex": "BF A3 8C 27",
+    "anu6": "H›Æ:",
+    "anu6Hex": "48 9B C6 3A"
+  },
+  {
+    "unicode": "క్",
+    "codepoints": "U+0C15 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "¿ù",
+    "anu7Hex": "BF F9",
+    "anu6": "H±",
+    "anu6Hex": "48 B1"
+  },
+  {
+    "unicode": "ఖ్",
+    "codepoints": "U+0C16 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "UÙ",
+    "anu7Hex": "55 D9",
+    "anu6": "M˜",
+    "anu6Hex": "4D 98"
+  },
+  {
+    "unicode": "గ్",
+    "codepoints": "U+0C17 U+0C4D",
+    "kind": "gunintam",
+    "anu7": ">´",
+    "anu7Hex": "3E B4",
+    "anu6": "Q·",
+    "anu6Hex": "51 B7"
+  },
+  {
+    "unicode": "ఘ్",
+    "codepoints": "U+0C18 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "|˜tT",
+    "anu7Hex": "7C 98 74 54",
+    "anu6": "„¦¹°",
+    "anu6Hex": "84 A6 B9 B0"
+  },
+  {
+    "unicode": "చ్",
+    "codepoints": "U+0C1A U+0C4D",
+    "kind": "gunintam",
+    "anu7": "#Y",
+    "anu7Hex": "23 59",
+    "anu6": "KŸ",
+    "anu6Hex": "4B 9F"
+  },
+  {
+    "unicode": "ఛ్",
+    "codepoints": "U+0C1B U+0C4D",
+    "kind": "gunintam",
+    "anu7": "#óY",
+    "anu7Hex": "23 F3 59",
+    "anu6": "KŸ",
+    "anu6Hex": "4B 8F 9F"
+  },
+  {
+    "unicode": "జ్",
+    "codepoints": "U+0C1C U+0C4D",
+    "kind": "gunintam",
+    "anu7": "CÙ",
+    "anu7Hex": "43 D9",
+    "anu6": "*˜",
+    "anu6Hex": "2A 98"
+  },
+  {
+    "unicode": "ఝ్",
+    "codepoints": "U+0C1D U+0C4D",
+    "kind": "gunintam",
+    "anu7": "sYa",
+    "anu7Hex": "73 59 61",
+    "anu6": "~Ÿ­",
+    "anu6Hex": "7E 9F AD"
+  },
+  {
+    "unicode": "ట్",
+    "codepoints": "U+0C1F U+0C4D",
+    "kind": "gunintam",
+    "anu7": "{Ù",
+    "anu7Hex": "7B D9",
+    "anu6": "\\˜",
+    "anu6Hex": "5C 98"
+  },
+  {
+    "unicode": "ఠ్",
+    "codepoints": "U+0C20 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "sÄY",
+    "anu7Hex": "73 C4 59",
+    "anu6": "~”Ÿ",
+    "anu6Hex": "7E 94 9F"
+  },
+  {
+    "unicode": "డ్",
+    "codepoints": "U+0C21 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "&Ž",
+    "anu7Hex": "26 8E",
+    "anu6": "_£",
+    "anu6Hex": "5F A3"
+  },
+  {
+    "unicode": "ఢ్",
+    "codepoints": "U+0C22 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "&óŽ",
+    "anu7Hex": "26 F3 8E",
+    "anu6": "_£",
+    "anu6Hex": "5F 8F A3"
+  },
+  {
+    "unicode": "ణ్",
+    "codepoints": "U+0C23 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "DY",
+    "anu7Hex": "44 59",
+    "anu6": "}Ÿ",
+    "anu6Hex": "7D 9F"
+  },
+  {
+    "unicode": "త్",
+    "codepoints": "U+0C24 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "ÔY",
+    "anu7Hex": "D4 59",
+    "anu6": "`Ÿ",
+    "anu6Hex": "60 9F"
+  },
+  {
+    "unicode": "థ్",
+    "codepoints": "U+0C25 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "<¸Ž",
+    "anu7Hex": "3C B8 8E",
+    "anu6": "^Š£",
+    "anu6Hex": "5E 8A A3"
+  },
+  {
+    "unicode": "ద్",
+    "codepoints": "U+0C26 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "<Ž",
+    "anu7Hex": "3C 8E",
+    "anu6": "^£",
+    "anu6Hex": "5E A3"
+  },
+  {
+    "unicode": "ధ్",
+    "codepoints": "U+0C27 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "<óŽ",
+    "anu7Hex": "3C F3 8E",
+    "anu6": "^£",
+    "anu6Hex": "5E 8F A3"
+  },
+  {
+    "unicode": "న్",
+    "codepoints": "U+0C28 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "HŽ",
+    "anu7Hex": "48 8E",
+    "anu6": "<£",
+    "anu6Hex": "3C A3"
+  },
+  {
+    "unicode": "ప్",
+    "codepoints": "U+0C2A U+0C4D",
+    "kind": "gunintam",
+    "anu7": "|t",
+    "anu7Hex": "7C 74",
+    "anu6": "„¹",
+    "anu6Hex": "84 B9"
+  },
+  {
+    "unicode": "ఫ్",
+    "codepoints": "U+0C2B U+0C4D",
+    "kind": "gunintam",
+    "anu7": "|˜t",
+    "anu7Hex": "7C 98 74",
+    "anu6": "„¦¹",
+    "anu6Hex": "84 A6 B9"
+  },
+  {
+    "unicode": "బ్",
+    "codepoints": "U+0C2C U+0C4D",
+    "kind": "gunintam",
+    "anu7": "uÙ",
+    "anu7Hex": "75 D9",
+    "anu6": "ƒ˜",
+    "anu6Hex": "83 98"
+  },
+  {
+    "unicode": "భ్",
+    "codepoints": "U+0C2D U+0C4D",
+    "kind": "gunintam",
+    "anu7": "uóÙ",
+    "anu7Hex": "75 F3 D9",
+    "anu6": "ƒ˜",
+    "anu6Hex": "83 8F 98"
+  },
+  {
+    "unicode": "మ్",
+    "codepoints": "U+0C2E U+0C4D",
+    "kind": "gunintam",
+    "anu7": "yŽT",
+    "anu7Hex": "79 8E 54",
+    "anu6": "\"£°",
+    "anu6Hex": "22 A3 B0"
+  },
+  {
+    "unicode": "య్",
+    "codepoints": "U+0C2F U+0C4D",
+    "kind": "gunintam",
+    "anu7": "jYT",
+    "anu7Hex": "6A 59 54",
+    "anu6": "†Ÿ°",
+    "anu6Hex": "86 9F B0"
+  },
+  {
+    "unicode": "ర్",
+    "codepoints": "U+0C30 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "sY",
+    "anu7Hex": "73 59",
+    "anu6": "~Ÿ",
+    "anu6Hex": "7E 9F"
+  },
+  {
+    "unicode": "ల్",
+    "codepoints": "U+0C32 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "ýÙ",
+    "anu7Hex": "FD D9",
+    "anu6": "…˜",
+    "anu6Hex": "85 98"
+  },
+  {
+    "unicode": "వ్",
+    "codepoints": "U+0C35 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "yŽ",
+    "anu7Hex": "79 8E",
+    "anu6": "\"£",
+    "anu6Hex": "22 A3"
+  },
+  {
+    "unicode": "శ్",
+    "codepoints": "U+0C36 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "XÙ",
+    "anu7Hex": "58 D9",
+    "anu6": "‰˜",
+    "anu6Hex": "89 98"
+  },
+  {
+    "unicode": "ష్",
+    "codepoints": "U+0C37 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "wt",
+    "anu7Hex": "77 74",
+    "anu6": "+¹",
+    "anu6Hex": "2B B9"
+  },
+  {
+    "unicode": "స్",
+    "codepoints": "U+0C38 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "dt",
+    "anu7Hex": "64 74",
+    "anu6": "‹¹",
+    "anu6Hex": "8B B9"
+  },
+  {
+    "unicode": "హ్",
+    "codepoints": "U+0C39 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "Vt²",
+    "anu7Hex": "56 74 B2",
+    "anu6": "‚¹ì",
+    "anu6Hex": "82 B9 EC"
+  },
+  {
+    "unicode": "ళ్",
+    "codepoints": "U+0C33 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "ÞÙ",
+    "anu7Hex": "DE D9",
+    "anu6": "ˆ˜",
+    "anu6Hex": "88 98"
+  },
+  {
+    "unicode": "క్ష్",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "¿Œù",
+    "anu7Hex": "BF 8C F9",
+    "anu6": "HÆ±",
+    "anu6Hex": "48 C6 B1"
+  },
+  {
+    "unicode": "ఱ్",
+    "codepoints": "U+0C31 U+0C4D",
+    "kind": "gunintam",
+    "anu7": "iY",
+    "anu7Hex": "69 59",
+    "anu6": "ŽŸ",
+    "anu6Hex": "8E 9F"
+  },
+  {
+    "unicode": "స్త్ర",
+    "codepoints": "U+0C38 U+0C4D U+0C24 U+0C4D U+0C30",
+    "kind": "gunintam",
+    "anu7": "g",
+    "anu7Hex": "67",
+    "anu6": "G",
+    "anu6Hex": "47"
+  },
+  {
+    "unicode": "ష్ట్ర",
+    "codepoints": "U+0C37 U+0C4D U+0C1F U+0C4D U+0C30",
+    "kind": "gunintam",
+    "anu7": "h",
+    "anu7Hex": "68",
+    "anu6": "R",
+    "anu6Hex": "52"
+  },
+  {
+    "unicode": "శ్రీ",
+    "codepoints": "U+0C36 U+0C4D U+0C30 U+0C40",
+    "kind": "gunintam",
+    "anu7": "l",
+    "anu7Hex": "6C",
+    "anu6": "N",
+    "anu6Hex": "4E"
+  },
+  {
+    "unicode": "కృ",
+    "codepoints": "U+0C15 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "H›$",
+    "anu6Hex": "48 9B 24"
+  },
+  {
+    "unicode": "కౄ",
+    "codepoints": "U+0C15 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "H›$ì",
+    "anu6Hex": "48 9B 24 EC"
+  },
+  {
+    "unicode": "కఁ",
+    "codepoints": "U+0C15 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "H›–",
+    "anu6Hex": "48 9B 96"
+  },
+  {
+    "unicode": "ఖృ",
+    "codepoints": "U+0C16 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "Y$",
+    "anu6Hex": "59 24"
+  },
+  {
+    "unicode": "ఖౄ",
+    "codepoints": "U+0C16 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "Y$ì",
+    "anu6Hex": "59 24 EC"
+  },
+  {
+    "unicode": "ఖఁ",
+    "codepoints": "U+0C16 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "Y–",
+    "anu6Hex": "59 96"
+  },
+  {
+    "unicode": "గృ",
+    "codepoints": "U+0C17 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "Q®$",
+    "anu6Hex": "51 AE 24"
+  },
+  {
+    "unicode": "గౄ",
+    "codepoints": "U+0C17 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "Q®$ì",
+    "anu6Hex": "51 AE 24 EC"
+  },
+  {
+    "unicode": "గఁ",
+    "codepoints": "U+0C17 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "Q®–",
+    "anu6Hex": "51 AE 96"
+  },
+  {
+    "unicode": "ఘృ",
+    "codepoints": "U+0C18 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "„¦¬°$",
+    "anu6Hex": "84 A6 AC B0 24"
+  },
+  {
+    "unicode": "ఘౄ",
+    "codepoints": "U+0C18 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "„¦¬°$ì",
+    "anu6Hex": "84 A6 AC B0 24 EC"
+  },
+  {
+    "unicode": "ఘఁ",
+    "codepoints": "U+0C18 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "„¦¬°–",
+    "anu6Hex": "84 A6 AC B0 96"
+  },
+  {
+    "unicode": "చృ",
+    "codepoints": "U+0C1A U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "KÇ$",
+    "anu6Hex": "4B C7 24"
+  },
+  {
+    "unicode": "చౄ",
+    "codepoints": "U+0C1A U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "KÇ$ì",
+    "anu6Hex": "4B C7 24 EC"
+  },
+  {
+    "unicode": "చఁ",
+    "codepoints": "U+0C1A U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "KÇ–",
+    "anu6Hex": "4B C7 96"
+  },
+  {
+    "unicode": "ఛృ",
+    "codepoints": "U+0C1B U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "KÇ$",
+    "anu6Hex": "4B 8F C7 24"
+  },
+  {
+    "unicode": "ఛౄ",
+    "codepoints": "U+0C1B U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "KÇ$ì",
+    "anu6Hex": "4B 8F C7 24 EC"
+  },
+  {
+    "unicode": "ఛఁ",
+    "codepoints": "U+0C1B U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "KÇ–",
+    "anu6Hex": "4B 8F C7 96"
+  },
+  {
+    "unicode": "జృ",
+    "codepoints": "U+0C1C U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "[$",
+    "anu6Hex": "5B 24"
+  },
+  {
+    "unicode": "జౄ",
+    "codepoints": "U+0C1C U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "[$ì",
+    "anu6Hex": "5B 24 EC"
+  },
+  {
+    "unicode": "జఁ",
+    "codepoints": "U+0C1C U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "[–",
+    "anu6Hex": "5B 96"
+  },
+  {
+    "unicode": "ఝృ",
+    "codepoints": "U+0C1D U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "~¡­$",
+    "anu6Hex": "7E A1 AD 24"
+  },
+  {
+    "unicode": "ఝౄ",
+    "codepoints": "U+0C1D U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "~¡­$ì",
+    "anu6Hex": "7E A1 AD 24 EC"
+  },
+  {
+    "unicode": "ఝఁ",
+    "codepoints": "U+0C1D U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "~¡­–",
+    "anu6Hex": "7E A1 AD 96"
+  },
+  {
+    "unicode": "టృ",
+    "codepoints": "U+0C1F U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "@$",
+    "anu6Hex": "40 24"
+  },
+  {
+    "unicode": "టౄ",
+    "codepoints": "U+0C1F U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "@$ì",
+    "anu6Hex": "40 24 EC"
+  },
+  {
+    "unicode": "టఁ",
+    "codepoints": "U+0C1F U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "@–",
+    "anu6Hex": "40 96"
+  },
+  {
+    "unicode": "ఠృ",
+    "codepoints": "U+0C20 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "~”¡$",
+    "anu6Hex": "7E 94 A1 24"
+  },
+  {
+    "unicode": "ఠౄ",
+    "codepoints": "U+0C20 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "~”¡$ì",
+    "anu6Hex": "7E 94 A1 24 EC"
+  },
+  {
+    "unicode": "ఠఁ",
+    "codepoints": "U+0C20 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "~”¡–",
+    "anu6Hex": "7E 94 A1 96"
+  },
+  {
+    "unicode": "డృ",
+    "codepoints": "U+0C21 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "_È$",
+    "anu6Hex": "5F C8 24"
+  },
+  {
+    "unicode": "డౄ",
+    "codepoints": "U+0C21 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "_È$ì",
+    "anu6Hex": "5F C8 24 EC"
+  },
+  {
+    "unicode": "డఁ",
+    "codepoints": "U+0C21 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "_È–",
+    "anu6Hex": "5F C8 96"
+  },
+  {
+    "unicode": "ఢృ",
+    "codepoints": "U+0C22 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "_È$",
+    "anu6Hex": "5F 8F C8 24"
+  },
+  {
+    "unicode": "ఢౄ",
+    "codepoints": "U+0C22 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "_È$ì",
+    "anu6Hex": "5F 8F C8 24 EC"
+  },
+  {
+    "unicode": "ఢఁ",
+    "codepoints": "U+0C22 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "_È–",
+    "anu6Hex": "5F 8F C8 96"
+  },
+  {
+    "unicode": "ణృ",
+    "codepoints": "U+0C23 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "}$",
+    "anu6Hex": "7D 24"
+  },
+  {
+    "unicode": "ణౄ",
+    "codepoints": "U+0C23 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "}$ì",
+    "anu6Hex": "7D 24 EC"
+  },
+  {
+    "unicode": "ణఁ",
+    "codepoints": "U+0C23 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "}–",
+    "anu6Hex": "7D 96"
+  },
+  {
+    "unicode": "తృ",
+    "codepoints": "U+0C24 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "`Ç$",
+    "anu6Hex": "60 C7 24"
+  },
+  {
+    "unicode": "తౄ",
+    "codepoints": "U+0C24 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "`Ç$ì",
+    "anu6Hex": "60 C7 24 EC"
+  },
+  {
+    "unicode": "తఁ",
+    "codepoints": "U+0C24 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "`Ç–",
+    "anu6Hex": "60 C7 96"
+  },
+  {
+    "unicode": "థృ",
+    "codepoints": "U+0C25 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "^ŠÎ$",
+    "anu6Hex": "5E 8A CE 24"
+  },
+  {
+    "unicode": "థౄ",
+    "codepoints": "U+0C25 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "^ŠÎ$ì",
+    "anu6Hex": "5E 8A CE 24 EC"
+  },
+  {
+    "unicode": "థఁ",
+    "codepoints": "U+0C25 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "^ŠÎ–",
+    "anu6Hex": "5E 8A CE 96"
+  },
+  {
+    "unicode": "దృ",
+    "codepoints": "U+0C26 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "^Î$",
+    "anu6Hex": "5E CE 24"
+  },
+  {
+    "unicode": "దౄ",
+    "codepoints": "U+0C26 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "^Î$ì",
+    "anu6Hex": "5E CE 24 EC"
+  },
+  {
+    "unicode": "దఁ",
+    "codepoints": "U+0C26 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "^Î–",
+    "anu6Hex": "5E CE 96"
+  },
+  {
+    "unicode": "ధృ",
+    "codepoints": "U+0C27 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "^Î$",
+    "anu6Hex": "5E 8F CE 24"
+  },
+  {
+    "unicode": "ధౄ",
+    "codepoints": "U+0C27 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "^Î$ì",
+    "anu6Hex": "5E 8F CE 24 EC"
+  },
+  {
+    "unicode": "ధఁ",
+    "codepoints": "U+0C27 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "^Î–",
+    "anu6Hex": "5E 8F CE 96"
+  },
+  {
+    "unicode": "నృ",
+    "codepoints": "U+0C28 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "#$",
+    "anu6Hex": "23 24"
+  },
+  {
+    "unicode": "నౄ",
+    "codepoints": "U+0C28 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "#$ì",
+    "anu6Hex": "23 24 EC"
+  },
+  {
+    "unicode": "నఁ",
+    "codepoints": "U+0C28 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "#–",
+    "anu6Hex": "23 96"
+  },
+  {
+    "unicode": "పృ",
+    "codepoints": "U+0C2A U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "„¬$",
+    "anu6Hex": "84 AC 24"
+  },
+  {
+    "unicode": "పౄ",
+    "codepoints": "U+0C2A U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "„¬$ì",
+    "anu6Hex": "84 AC 24 EC"
+  },
+  {
+    "unicode": "పఁ",
+    "codepoints": "U+0C2A U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "„¬–",
+    "anu6Hex": "84 AC 96"
+  },
+  {
+    "unicode": "ఫృ",
+    "codepoints": "U+0C2B U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "„¦¬$",
+    "anu6Hex": "84 A6 AC 24"
+  },
+  {
+    "unicode": "ఫౄ",
+    "codepoints": "U+0C2B U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "„¦¬$ì",
+    "anu6Hex": "84 A6 AC 24 EC"
+  },
+  {
+    "unicode": "ఫఁ",
+    "codepoints": "U+0C2B U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "„¦¬–",
+    "anu6Hex": "84 A6 AC 96"
+  },
+  {
+    "unicode": "బృ",
+    "codepoints": "U+0C2C U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "|$",
+    "anu6Hex": "7C 24"
+  },
+  {
+    "unicode": "బౄ",
+    "codepoints": "U+0C2C U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "|$ì",
+    "anu6Hex": "7C 24 EC"
+  },
+  {
+    "unicode": "బఁ",
+    "codepoints": "U+0C2C U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "|–",
+    "anu6Hex": "7C 96"
+  },
+  {
+    "unicode": "భృ",
+    "codepoints": "U+0C2D U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "ƒ’$",
+    "anu6Hex": "83 8F 92 24"
+  },
+  {
+    "unicode": "భౄ",
+    "codepoints": "U+0C2D U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "ƒ’$ì",
+    "anu6Hex": "83 8F 92 24 EC"
+  },
+  {
+    "unicode": "భఁ",
+    "codepoints": "U+0C2D U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "ƒ’–",
+    "anu6Hex": "83 8F 92 96"
+  },
+  {
+    "unicode": "మృ",
+    "codepoints": "U+0C2E U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "=°$",
+    "anu6Hex": "3D B0 24"
+  },
+  {
+    "unicode": "మౄ",
+    "codepoints": "U+0C2E U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "=°$ì",
+    "anu6Hex": "3D B0 24 EC"
+  },
+  {
+    "unicode": "మఁ",
+    "codepoints": "U+0C2E U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "=°–",
+    "anu6Hex": "3D B0 96"
+  },
+  {
+    "unicode": "యృ",
+    "codepoints": "U+0C2F U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "†Ç°$",
+    "anu6Hex": "86 C7 B0 24"
+  },
+  {
+    "unicode": "యౄ",
+    "codepoints": "U+0C2F U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "†Ç°$ì",
+    "anu6Hex": "86 C7 B0 24 EC"
+  },
+  {
+    "unicode": "యఁ",
+    "codepoints": "U+0C2F U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "†Ç°–",
+    "anu6Hex": "86 C7 B0 96"
+  },
+  {
+    "unicode": "రృ",
+    "codepoints": "U+0C30 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "~¡$",
+    "anu6Hex": "7E A1 24"
+  },
+  {
+    "unicode": "రౄ",
+    "codepoints": "U+0C30 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "~¡$ì",
+    "anu6Hex": "7E A1 24 EC"
+  },
+  {
+    "unicode": "రఁ",
+    "codepoints": "U+0C30 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "~¡–",
+    "anu6Hex": "7E A1 96"
+  },
+  {
+    "unicode": "లృ",
+    "codepoints": "U+0C32 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "$",
+    "anu6Hex": "81 24"
+  },
+  {
+    "unicode": "లౄ",
+    "codepoints": "U+0C32 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "$ì",
+    "anu6Hex": "81 24 EC"
+  },
+  {
+    "unicode": "లఁ",
+    "codepoints": "U+0C32 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "–",
+    "anu6Hex": "81 96"
+  },
+  {
+    "unicode": "వృ",
+    "codepoints": "U+0C35 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "=$",
+    "anu6Hex": "3D 24"
+  },
+  {
+    "unicode": "వౄ",
+    "codepoints": "U+0C35 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "=$ì",
+    "anu6Hex": "3D 24 EC"
+  },
+  {
+    "unicode": "వఁ",
+    "codepoints": "U+0C35 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "=–",
+    "anu6Hex": "3D 96"
+  },
+  {
+    "unicode": "శృ",
+    "codepoints": "U+0C36 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "‰×$",
+    "anu6Hex": "89 D7 24"
+  },
+  {
+    "unicode": "శౄ",
+    "codepoints": "U+0C36 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "‰×$ì",
+    "anu6Hex": "89 D7 24 EC"
+  },
+  {
+    "unicode": "శఁ",
+    "codepoints": "U+0C36 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "‰×–",
+    "anu6Hex": "89 D7 96"
+  },
+  {
+    "unicode": "షృ",
+    "codepoints": "U+0C37 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "+¬$",
+    "anu6Hex": "2B AC 24"
+  },
+  {
+    "unicode": "షౄ",
+    "codepoints": "U+0C37 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "+¬$ì",
+    "anu6Hex": "2B AC 24 EC"
+  },
+  {
+    "unicode": "షఁ",
+    "codepoints": "U+0C37 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "+¬–",
+    "anu6Hex": "2B AC 96"
+  },
+  {
+    "unicode": "సృ",
+    "codepoints": "U+0C38 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "‹¬$",
+    "anu6Hex": "8B AC 24"
+  },
+  {
+    "unicode": "సౄ",
+    "codepoints": "U+0C38 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "‹¬$ì",
+    "anu6Hex": "8B AC 24 EC"
+  },
+  {
+    "unicode": "సఁ",
+    "codepoints": "U+0C38 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "‹¬–",
+    "anu6Hex": "8B AC 96"
+  },
+  {
+    "unicode": "హృ",
+    "codepoints": "U+0C39 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "‚¬ì$",
+    "anu6Hex": "82 AC EC 24"
+  },
+  {
+    "unicode": "హౄ",
+    "codepoints": "U+0C39 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "‚¬ì$ì",
+    "anu6Hex": "82 AC EC 24 EC"
+  },
+  {
+    "unicode": "హఁ",
+    "codepoints": "U+0C39 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "‚¬ì–",
+    "anu6Hex": "82 AC EC 96"
+  },
+  {
+    "unicode": "ళృ",
+    "codepoints": "U+0C33 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "ˆ×$",
+    "anu6Hex": "88 D7 24"
+  },
+  {
+    "unicode": "ళౄ",
+    "codepoints": "U+0C33 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "ˆ×$ì",
+    "anu6Hex": "88 D7 24 EC"
+  },
+  {
+    "unicode": "ళఁ",
+    "codepoints": "U+0C33 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "ˆ×–",
+    "anu6Hex": "88 D7 96"
+  },
+  {
+    "unicode": "క్షృ",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "H›Æ$",
+    "anu6Hex": "48 9B C6 24"
+  },
+  {
+    "unicode": "క్షౄ",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "H›Æ$ì",
+    "anu6Hex": "48 9B C6 24 EC"
+  },
+  {
+    "unicode": "క్షఁ",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "H›Æ–",
+    "anu6Hex": "48 9B C6 96"
+  },
+  {
+    "unicode": "ఱృ",
+    "codepoints": "U+0C31 U+0C43",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "Ž$",
+    "anu6Hex": "8E 24"
+  },
+  {
+    "unicode": "ఱౄ",
+    "codepoints": "U+0C31 U+0C44",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "Ž$ì",
+    "anu6Hex": "8E 24 EC"
+  },
+  {
+    "unicode": "ఱఁ",
+    "codepoints": "U+0C31 U+0C01",
+    "kind": "gunintam",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "Ž–",
+    "anu6Hex": "8E 96"
+  },
+  {
+    "unicode": "్క",
+    "codepoints": "U+0C4D U+0C15",
+    "kind": "vattu",
+    "anu7": "Ø",
+    "anu7Hex": "D8",
+    "anu6": "ø",
+    "anu6Hex": "F8"
+  },
+  {
+    "unicode": "్ఖ",
+    "codepoints": "U+0C4D U+0C16",
+    "kind": "vattu",
+    "anu7": "‰",
+    "anu7Hex": "89",
+    "anu6": "š",
+    "anu6Hex": "9A"
+  },
+  {
+    "unicode": "్గ",
+    "codepoints": "U+0C4D U+0C17",
+    "kind": "vattu",
+    "anu7": "Z",
+    "anu7Hex": "5A",
+    "anu6": "¾",
+    "anu6Hex": "BE"
+  },
+  {
+    "unicode": "్ఘ",
+    "codepoints": "U+0C4D U+0C18",
+    "kind": "vattu",
+    "anu7": "é",
+    "anu7Hex": "E9",
+    "anu6": "É",
+    "anu6Hex": "C9"
+  },
+  {
+    "unicode": "్చ",
+    "codepoints": "U+0C4D U+0C1A",
+    "kind": "vattu",
+    "anu7": "Ì",
+    "anu7Hex": "CC",
+    "anu6": "ó",
+    "anu6Hex": "F3"
+  },
+  {
+    "unicode": "్ఛ",
+    "codepoints": "U+0C4D U+0C1B",
+    "kind": "vattu",
+    "anu7": "ÌÛ",
+    "anu7Hex": "CC DB",
+    "anu6": "ó",
+    "anu6Hex": "F3 9D"
+  },
+  {
+    "unicode": "్జ",
+    "codepoints": "U+0C4D U+0C1C",
+    "kind": "vattu",
+    "anu7": "¨",
+    "anu7Hex": "A8",
+    "anu6": "û",
+    "anu6Hex": "FB"
+  },
+  {
+    "unicode": "్ఞ",
+    "codepoints": "U+0C4D U+0C1E",
+    "kind": "vattu",
+    "anu7": "ã",
+    "anu7Hex": "E3",
+    "anu6": "ý",
+    "anu6Hex": "FD"
+  },
+  {
+    "unicode": "్ట",
+    "codepoints": "U+0C4D U+0C1F",
+    "kind": "vattu",
+    "anu7": "¼",
+    "anu7Hex": "BC",
+    "anu6": "“",
+    "anu6Hex": "93"
+  },
+  {
+    "unicode": "్ఠ",
+    "codepoints": "U+0C4D U+0C20",
+    "kind": "vattu",
+    "anu7": "÷",
+    "anu7Hex": "F7",
+    "anu6": "»",
+    "anu6Hex": "BB"
+  },
+  {
+    "unicode": "్డ",
+    "codepoints": "U+0C4D U+0C21",
+    "kind": "vattu",
+    "anu7": "¦",
+    "anu7Hex": "A6",
+    "anu6": "Û",
+    "anu6Hex": "DB"
+  },
+  {
+    "unicode": "్ణ",
+    "codepoints": "U+0C4D U+0C23",
+    "kind": "vattu",
+    "anu7": "’",
+    "anu7Hex": "92",
+    "anu6": "â",
+    "anu6Hex": "E2"
+  },
+  {
+    "unicode": "్త",
+    "codepoints": "U+0C4D U+0C24",
+    "kind": "vattu",
+    "anu7": "ï",
+    "anu7Hex": "EF",
+    "anu6": "ë",
+    "anu6Hex": "EB"
+  },
+  {
+    "unicode": "్థ",
+    "codepoints": "U+0C4D U+0C25",
+    "kind": "vattu",
+    "anu7": "œ",
+    "anu7Hex": "9C",
+    "anu6": "Ö",
+    "anu6Hex": "D6"
+  },
+  {
+    "unicode": "్ద",
+    "codepoints": "U+0C4D U+0C26",
+    "kind": "vattu",
+    "anu7": "Ý",
+    "anu7Hex": "DD",
+    "anu6": "í",
+    "anu6Hex": "ED"
+  },
+  {
+    "unicode": "్ధ",
+    "codepoints": "U+0C4D U+0C27",
+    "kind": "vattu",
+    "anu7": "Æ",
+    "anu7Hex": "C6",
+    "anu6": "œ",
+    "anu6Hex": "9C"
+  },
+  {
+    "unicode": "్న",
+    "codepoints": "U+0C4D U+0C28",
+    "kind": "vattu",
+    "anu7": "•",
+    "anu7Hex": "95",
+    "anu6": "ß",
+    "anu6Hex": "DF"
+  },
+  {
+    "unicode": "్ప",
+    "codepoints": "U+0C4D U+0C2A",
+    "kind": "vattu",
+    "anu7": "Î",
+    "anu7Hex": "CE",
+    "anu6": "æ",
+    "anu6Hex": "E6"
+  },
+  {
+    "unicode": "్ఫ",
+    "codepoints": "U+0C4D U+0C2B",
+    "kind": "vattu",
+    "anu7": "ÎÛ",
+    "anu7Hex": "CE DB",
+    "anu6": "æ",
+    "anu6Hex": "E6 9D"
+  },
+  {
+    "unicode": "్బ",
+    "codepoints": "U+0C4D U+0C2C",
+    "kind": "vattu",
+    "anu7": "Ò",
+    "anu7Hex": "D2",
+    "anu6": "Ä",
+    "anu6Hex": "C4"
+  },
+  {
+    "unicode": "్భ",
+    "codepoints": "U+0C4D U+0C2D",
+    "kind": "vattu",
+    "anu7": "ÒÛ",
+    "anu7Hex": "D2 DB",
+    "anu6": "Ä",
+    "anu6Hex": "C4 9D"
+  },
+  {
+    "unicode": "్మ",
+    "codepoints": "U+0C4D U+0C2E",
+    "kind": "vattu",
+    "anu7": "ˆ",
+    "anu7Hex": "88",
+    "anu6": "à",
+    "anu6Hex": "E0"
+  },
+  {
+    "unicode": "్య",
+    "codepoints": "U+0C4D U+0C2F",
+    "kind": "vattu",
+    "anu7": "«",
+    "anu7Hex": "AB",
+    "anu6": "¼",
+    "anu6Hex": "BC"
+  },
+  {
+    "unicode": "్ర",
+    "codepoints": "U+0C4D U+0C30",
+    "kind": "vattu",
+    "anu7": "ç",
+    "anu7Hex": "E7",
+    "anu6": "ã",
+    "anu6Hex": "E3"
+  },
+  {
+    "unicode": "్ల",
+    "codepoints": "U+0C4D U+0C32",
+    "kind": "vattu",
+    "anu7": "¢",
+    "anu7Hex": "A2",
+    "anu6": "Á",
+    "anu6Hex": "C1"
+  },
+  {
+    "unicode": "్వ",
+    "codepoints": "U+0C4D U+0C35",
+    "kind": "vattu",
+    "anu7": "Ç",
+    "anu7Hex": "C7",
+    "anu6": "Þ",
+    "anu6Hex": "DE"
+  },
+  {
+    "unicode": "్శ",
+    "codepoints": "U+0C4D U+0C36",
+    "kind": "vattu",
+    "anu7": "ô",
+    "anu7Hex": "F4",
+    "anu6": "Å",
+    "anu6Hex": "C5"
+  },
+  {
+    "unicode": "్ష",
+    "codepoints": "U+0C4D U+0C37",
+    "kind": "vattu",
+    "anu7": "ü",
+    "anu7Hex": "FC",
+    "anu6": "Â",
+    "anu6Hex": "C2"
+  },
+  {
+    "unicode": "్స",
+    "codepoints": "U+0C4D U+0C38",
+    "kind": "vattu",
+    "anu7": "à",
+    "anu7Hex": "E0",
+    "anu6": "ž",
+    "anu6Hex": "9E"
+  },
+  {
+    "unicode": "్హ",
+    "codepoints": "U+0C4D U+0C39",
+    "kind": "vattu",
+    "anu7": "½",
+    "anu7Hex": "BD",
+    "anu6": "",
+    "anu6Hex": "9D"
+  },
+  {
+    "unicode": "్ళ",
+    "codepoints": "U+0C4D U+0C33",
+    "kind": "vattu",
+    "anu7": "ß",
+    "anu7Hex": "DF",
+    "anu6": "¤",
+    "anu6Hex": "A4"
+  },
+  {
+    "unicode": "్ఱ",
+    "codepoints": "U+0C4D U+0C31",
+    "kind": "vattu",
+    "anu7": "À",
+    "anu7Hex": "C0",
+    "anu6": "]",
+    "anu6Hex": "5D"
+  },
+  {
+    "unicode": "్ష్మ",
+    "codepoints": "U+0C4D U+0C37 U+0C4D U+0C2E",
+    "kind": "vattu",
+    "anu7": ";",
+    "anu7Hex": "3B",
+    "anu6": ";",
+    "anu6Hex": "3B"
+  },
+  {
+    "unicode": "్పు",
+    "codepoints": "U+0C4D U+0C2A U+0C41",
+    "kind": "vattu",
+    "anu7": "C",
+    "anu7Hex": "43",
+    "anu6": "C",
+    "anu6Hex": "43"
+  },
+  {
+    "unicode": "్క్ష్మ",
+    "codepoints": "U+0C4D U+0C15 U+0C4D U+0C37 U+0C4D U+0C2E",
+    "kind": "vattu",
+    "anu7": "ë",
+    "anu7Hex": "EB",
+    "anu6": "",
+    "anu6Hex": ""
+  },
+  {
+    "unicode": "్ప్పు",
+    "codepoints": "U+0C4D U+0C2A U+0C4D U+0C2A U+0C41",
+    "kind": "vattu",
+    "anu7": "ð",
+    "anu7Hex": "F0",
+    "anu6": "",
+    "anu6Hex": ""
+  },
+  {
+    "unicode": "్ౘ్",
+    "codepoints": "U+0C4D U+0C58 U+0C4D",
+    "kind": "vattu",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "ó",
+    "anu6Hex": "F3"
+  },
+  {
+    "unicode": "్ౙ",
+    "codepoints": "U+0C4D U+0C59",
+    "kind": "vattu",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "û",
+    "anu6Hex": "FB"
+  },
+  {
+    "unicode": "్ఝ",
+    "codepoints": "U+0C4D U+0C1D",
+    "kind": "vattu",
+    "anu7": "",
+    "anu7Hex": "",
+    "anu6": "~¡­",
+    "anu6Hex": "7E A1 AD"
+  },
+  {
+    "unicode": "క్",
+    "codepoints": "U+0C15 U+0C4D",
+    "kind": "halant",
+    "anu7": "¿ù",
+    "anu7Hex": "BF F9",
+    "anu6": "H±",
+    "anu6Hex": "48 B1"
+  },
+  {
+    "unicode": "ఖ్",
+    "codepoints": "U+0C16 U+0C4D",
+    "kind": "halant",
+    "anu7": "UÙ",
+    "anu7Hex": "55 D9",
+    "anu6": "M˜",
+    "anu6Hex": "4D 98"
+  },
+  {
+    "unicode": "గ్",
+    "codepoints": "U+0C17 U+0C4D",
+    "kind": "halant",
+    "anu7": ">´",
+    "anu7Hex": "3E B4",
+    "anu6": "Q·",
+    "anu6Hex": "51 B7"
+  },
+  {
+    "unicode": "ఘ్",
+    "codepoints": "U+0C18 U+0C4D",
+    "kind": "halant",
+    "anu7": "|˜tT",
+    "anu7Hex": "7C 98 74 54",
+    "anu6": "„¦¹°",
+    "anu6Hex": "84 A6 B9 B0"
+  },
+  {
+    "unicode": "చ్",
+    "codepoints": "U+0C1A U+0C4D",
+    "kind": "halant",
+    "anu7": "#Y",
+    "anu7Hex": "23 59",
+    "anu6": "KŸ",
+    "anu6Hex": "4B 9F"
+  },
+  {
+    "unicode": "ఛ్",
+    "codepoints": "U+0C1B U+0C4D",
+    "kind": "halant",
+    "anu7": "#óY",
+    "anu7Hex": "23 F3 59",
+    "anu6": "KŸ",
+    "anu6Hex": "4B 8F 9F"
+  },
+  {
+    "unicode": "జ్",
+    "codepoints": "U+0C1C U+0C4D",
+    "kind": "halant",
+    "anu7": "CÙ",
+    "anu7Hex": "43 D9",
+    "anu6": "*˜",
+    "anu6Hex": "2A 98"
+  },
+  {
+    "unicode": "ఝ్",
+    "codepoints": "U+0C1D U+0C4D",
+    "kind": "halant",
+    "anu7": "sYa",
+    "anu7Hex": "73 59 61",
+    "anu6": "~Ÿ­",
+    "anu6Hex": "7E 9F AD"
+  },
+  {
+    "unicode": "ట్",
+    "codepoints": "U+0C1F U+0C4D",
+    "kind": "halant",
+    "anu7": "{Ù",
+    "anu7Hex": "7B D9",
+    "anu6": "\\˜",
+    "anu6Hex": "5C 98"
+  },
+  {
+    "unicode": "ఠ్",
+    "codepoints": "U+0C20 U+0C4D",
+    "kind": "halant",
+    "anu7": "sÄY",
+    "anu7Hex": "73 C4 59",
+    "anu6": "~”Ÿ",
+    "anu6Hex": "7E 94 9F"
+  },
+  {
+    "unicode": "డ్",
+    "codepoints": "U+0C21 U+0C4D",
+    "kind": "halant",
+    "anu7": "&Ž",
+    "anu7Hex": "26 8E",
+    "anu6": "_£",
+    "anu6Hex": "5F A3"
+  },
+  {
+    "unicode": "ఢ్",
+    "codepoints": "U+0C22 U+0C4D",
+    "kind": "halant",
+    "anu7": "&óŽ",
+    "anu7Hex": "26 F3 8E",
+    "anu6": "_£",
+    "anu6Hex": "5F 8F A3"
+  },
+  {
+    "unicode": "ణ్",
+    "codepoints": "U+0C23 U+0C4D",
+    "kind": "halant",
+    "anu7": "DY",
+    "anu7Hex": "44 59",
+    "anu6": "}Ÿ",
+    "anu6Hex": "7D 9F"
+  },
+  {
+    "unicode": "త్",
+    "codepoints": "U+0C24 U+0C4D",
+    "kind": "halant",
+    "anu7": "ÔY",
+    "anu7Hex": "D4 59",
+    "anu6": "`Ÿ",
+    "anu6Hex": "60 9F"
+  },
+  {
+    "unicode": "థ్",
+    "codepoints": "U+0C25 U+0C4D",
+    "kind": "halant",
+    "anu7": "<¸Ž",
+    "anu7Hex": "3C B8 8E",
+    "anu6": "^Š£",
+    "anu6Hex": "5E 8A A3"
+  },
+  {
+    "unicode": "ద్",
+    "codepoints": "U+0C26 U+0C4D",
+    "kind": "halant",
+    "anu7": "<Ž",
+    "anu7Hex": "3C 8E",
+    "anu6": "^£",
+    "anu6Hex": "5E A3"
+  },
+  {
+    "unicode": "ధ్",
+    "codepoints": "U+0C27 U+0C4D",
+    "kind": "halant",
+    "anu7": "<óŽ",
+    "anu7Hex": "3C F3 8E",
+    "anu6": "^£",
+    "anu6Hex": "5E 8F A3"
+  },
+  {
+    "unicode": "న్",
+    "codepoints": "U+0C28 U+0C4D",
+    "kind": "halant",
+    "anu7": "HŽ",
+    "anu7Hex": "48 8E",
+    "anu6": "<£",
+    "anu6Hex": "3C A3"
+  },
+  {
+    "unicode": "ప్",
+    "codepoints": "U+0C2A U+0C4D",
+    "kind": "halant",
+    "anu7": "|t",
+    "anu7Hex": "7C 74",
+    "anu6": "„¹",
+    "anu6Hex": "84 B9"
+  },
+  {
+    "unicode": "ఫ్",
+    "codepoints": "U+0C2B U+0C4D",
+    "kind": "halant",
+    "anu7": "|˜t",
+    "anu7Hex": "7C 98 74",
+    "anu6": "„¦¹",
+    "anu6Hex": "84 A6 B9"
+  },
+  {
+    "unicode": "బ్",
+    "codepoints": "U+0C2C U+0C4D",
+    "kind": "halant",
+    "anu7": "uÙ",
+    "anu7Hex": "75 D9",
+    "anu6": "ƒ˜",
+    "anu6Hex": "83 98"
+  },
+  {
+    "unicode": "భ్",
+    "codepoints": "U+0C2D U+0C4D",
+    "kind": "halant",
+    "anu7": "uóÙ",
+    "anu7Hex": "75 F3 D9",
+    "anu6": "ƒ˜",
+    "anu6Hex": "83 8F 98"
+  },
+  {
+    "unicode": "మ్",
+    "codepoints": "U+0C2E U+0C4D",
+    "kind": "halant",
+    "anu7": "yŽT",
+    "anu7Hex": "79 8E 54",
+    "anu6": "\"£°",
+    "anu6Hex": "22 A3 B0"
+  },
+  {
+    "unicode": "య్",
+    "codepoints": "U+0C2F U+0C4D",
+    "kind": "halant",
+    "anu7": "jYT",
+    "anu7Hex": "6A 59 54",
+    "anu6": "†Ÿ°",
+    "anu6Hex": "86 9F B0"
+  },
+  {
+    "unicode": "ర్",
+    "codepoints": "U+0C30 U+0C4D",
+    "kind": "halant",
+    "anu7": "sY",
+    "anu7Hex": "73 59",
+    "anu6": "~Ÿ",
+    "anu6Hex": "7E 9F"
+  },
+  {
+    "unicode": "ఱ్",
+    "codepoints": "U+0C31 U+0C4D",
+    "kind": "halant",
+    "anu7": "iY",
+    "anu7Hex": "69 59",
+    "anu6": "ŽŸ",
+    "anu6Hex": "8E 9F"
+  },
+  {
+    "unicode": "ల్",
+    "codepoints": "U+0C32 U+0C4D",
+    "kind": "halant",
+    "anu7": "ýÙ",
+    "anu7Hex": "FD D9",
+    "anu6": "…˜",
+    "anu6Hex": "85 98"
+  },
+  {
+    "unicode": "ళ్",
+    "codepoints": "U+0C33 U+0C4D",
+    "kind": "halant",
+    "anu7": "ÞÙ",
+    "anu7Hex": "DE D9",
+    "anu6": "ˆ˜",
+    "anu6Hex": "88 98"
+  },
+  {
+    "unicode": "వ్",
+    "codepoints": "U+0C35 U+0C4D",
+    "kind": "halant",
+    "anu7": "yŽ",
+    "anu7Hex": "79 8E",
+    "anu6": "\"£",
+    "anu6Hex": "22 A3"
+  },
+  {
+    "unicode": "శ్",
+    "codepoints": "U+0C36 U+0C4D",
+    "kind": "halant",
+    "anu7": "XÙ",
+    "anu7Hex": "58 D9",
+    "anu6": "‰˜",
+    "anu6Hex": "89 98"
+  },
+  {
+    "unicode": "ష్",
+    "codepoints": "U+0C37 U+0C4D",
+    "kind": "halant",
+    "anu7": "wt",
+    "anu7Hex": "77 74",
+    "anu6": "+¹",
+    "anu6Hex": "2B B9"
+  },
+  {
+    "unicode": "స్",
+    "codepoints": "U+0C38 U+0C4D",
+    "kind": "halant",
+    "anu7": "dt",
+    "anu7Hex": "64 74",
+    "anu6": "‹¹",
+    "anu6Hex": "8B B9"
+  },
+  {
+    "unicode": "హ్",
+    "codepoints": "U+0C39 U+0C4D",
+    "kind": "halant",
+    "anu7": "Vt²",
+    "anu7Hex": "56 74 B2",
+    "anu6": "‚¹ì",
+    "anu6Hex": "82 B9 EC"
+  },
+  {
+    "unicode": "క్ష",
+    "codepoints": "U+0C15 U+0C4D U+0C37",
+    "kind": "ksha",
+    "anu7": "¿£Œ",
+    "anu7Hex": "BF A3 8C",
+    "anu6": "H›Æ",
+    "anu6Hex": "48 9B C6"
+  },
+  {
+    "unicode": "క్షా",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C3E",
+    "kind": "ksha",
+    "anu7": "¿Œ±",
+    "anu7Hex": "BF 8C B1",
+    "anu6": "HÆê",
+    "anu6Hex": "48 C6 EA"
+  },
+  {
+    "unicode": "క్షి",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C3F",
+    "kind": "ksha",
+    "anu7": "¿ìŒ",
+    "anu7Hex": "BF EC 8C",
+    "anu6": "H÷Æ",
+    "anu6Hex": "48 F7 C6"
+  },
+  {
+    "unicode": "క్షీ",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C40",
+    "kind": "ksha",
+    "anu7": "¿¡Œ",
+    "anu7Hex": "BF A1 8C",
+    "anu6": "H©Æ",
+    "anu6Hex": "48 A9 C6"
+  },
+  {
+    "unicode": "క్షు",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C41",
+    "kind": "ksha",
+    "anu7": "Å£Œ”",
+    "anu7Hex": "C5 A3 8C 94",
+    "anu6": "ä›Æ½",
+    "anu6Hex": "E4 9B C6 BD"
+  },
+  {
+    "unicode": "క్షూ",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C42",
+    "kind": "ksha",
+    "anu7": "Å£ŒL",
+    "anu7Hex": "C5 A3 8C 4C",
+    "anu6": "ä›Æ€",
+    "anu6Hex": "E4 9B C6 80"
+  },
+  {
+    "unicode": "క్షృ",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C43",
+    "kind": "ksha",
+    "anu7": "¿£Œ",
+    "anu7Hex": "BF A3 8C 7F",
+    "anu6": "H›Æ$",
+    "anu6Hex": "48 9B C6 24"
+  },
+  {
+    "unicode": "క్షౄ",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C44",
+    "kind": "ksha",
+    "anu7": "¿£Œ²",
+    "anu7Hex": "BF A3 8C 7F B2",
+    "anu6": "H›Æ$ì",
+    "anu6Hex": "48 9B C6 24 EC"
+  },
+  {
+    "unicode": "క్షె",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C46",
+    "kind": "ksha",
+    "anu7": "Â¿Œ",
+    "anu7Hex": "C2 BF 8C",
+    "anu6": "ïHÆ",
+    "anu6Hex": "EF 48 C6"
+  },
+  {
+    "unicode": "క్షే",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C47",
+    "kind": "ksha",
+    "anu7": "¹¿Œ",
+    "anu7Hex": "B9 BF 8C",
+    "anu6": "öHÆ",
+    "anu6Hex": "F6 48 C6"
+  },
+  {
+    "unicode": "క్షై",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C48",
+    "kind": "ksha",
+    "anu7": "Â¿Œí",
+    "anu7Hex": "C2 BF 8C ED",
+    "anu6": "ïHÆå",
+    "anu6Hex": "EF 48 C6 E5"
+  },
+  {
+    "unicode": "క్షొ",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C4A",
+    "kind": "ksha",
+    "anu7": "¿Œ=",
+    "anu7Hex": "BF 8C 3D",
+    "anu6": "HÆù",
+    "anu6Hex": "48 C6 F9"
+  },
+  {
+    "unicode": "క్షో",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C4B",
+    "kind": "ksha",
+    "anu7": "¿ŒÃ",
+    "anu7Hex": "BF 8C C3",
+    "anu6": "HÆË",
+    "anu6Hex": "48 C6 CB"
+  },
+  {
+    "unicode": "క్షౌ",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C4C",
+    "kind": "ksha",
+    "anu7": "¿Œš",
+    "anu7Hex": "BF 8C 9A",
+    "anu6": "HÆÒ",
+    "anu6Hex": "48 C6 D2"
+  },
+  {
+    "unicode": "క్ష్",
+    "codepoints": "U+0C15 U+0C4D U+0C37 U+0C4D",
+    "kind": "ksha",
+    "anu7": "¿Œù",
+    "anu7Hex": "BF 8C F9",
+    "anu6": "HÆ±",
+    "anu6Hex": "48 C6 B1"
+  },
+  {
+    "unicode": "శ్రీ",
+    "codepoints": "U+0C36 U+0C4D U+0C30 U+0C40",
+    "kind": "lig",
+    "anu7": "l",
+    "anu7Hex": "6C",
+    "anu6": "N",
+    "anu6Hex": "4E"
+  },
+  {
+    "unicode": "ష్ట్ర",
+    "codepoints": "U+0C37 U+0C4D U+0C1F U+0C4D U+0C30",
+    "kind": "lig",
+    "anu7": "h",
+    "anu7Hex": "68",
+    "anu6": "R",
+    "anu6Hex": "52"
+  },
+  {
+    "unicode": "స్త్ర",
+    "codepoints": "U+0C38 U+0C4D U+0C24 U+0C4D U+0C30",
+    "kind": "lig",
+    "anu7": "g",
+    "anu7Hex": "67",
+    "anu6": "G",
+    "anu6Hex": "47"
+  }
+]

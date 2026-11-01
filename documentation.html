@@ -1,0 +1,969 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#ffffff">
+<title>Project Documentation | Telugu Vector Studio</title>
+
+<style>
+:root {
+  --blue: #1769e8;
+  --dark: #102044;
+  --muted: #65738e;
+  --border: #e0e8f5;
+  --soft: #f4f8ff;
+  --green: #159653;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: Inter, "Noto Sans Telugu", "Nirmala UI", Arial, sans-serif;
+  color: var(--dark);
+  background: #f8faff;
+}
+
+a { text-decoration: none; color: inherit; }
+
+.topbar {
+  background: white;
+  border-bottom: 1px solid var(--border);
+  padding: 14px 5%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.logo {
+  width: 43px;
+  height: 43px;
+  background: var(--blue);
+  color: white;
+  border-radius: 12px;
+  display: grid;
+  place-items: center;
+  font-size: 22px;
+  font-weight: 800;
+}
+
+.brand strong { display: block; font-size: 16px; }
+.brand small { color: var(--muted); font-size: 10px; }
+
+nav { display: flex; gap: 8px; flex-wrap: wrap; }
+nav a {
+  padding: 10px 13px;
+  font-size: 12px;
+  font-weight: 650;
+  border-radius: 8px;
+}
+nav a:hover, nav a.active { color: var(--blue); background: #edf4ff; }
+
+.layout {
+  width: min(1350px, 94%);
+  margin: 35px auto;
+  display: grid;
+  grid-template-columns: 245px minmax(0, 1fr);
+  gap: 25px;
+  align-items: start;
+}
+
+.sidebar {
+  position: sticky;
+  top: 95px;
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 13px;
+  padding: 18px;
+}
+
+.sidebar h3 {
+  font-size: 11px;
+  letter-spacing: 1px;
+  color: var(--muted);
+  margin: 5px 0 13px;
+}
+
+.sidebar a {
+  display: block;
+  padding: 9px 10px;
+  border-radius: 7px;
+  color: #526582;
+  font-size: 12px;
+  margin: 3px 0;
+}
+
+.sidebar a:hover {
+  background: var(--soft);
+  color: var(--blue);
+}
+
+.content { min-width: 0; }
+
+.hero {
+  padding: 45px 35px;
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
+
+.eyebrow {
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 1.5px;
+  color: var(--blue);
+}
+
+.hero h1 {
+  font-size: clamp(29px, 4vw, 42px);
+  letter-spacing: -1px;
+  margin: 14px 0;
+}
+
+.hero p {
+  max-width: 750px;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+.hero-tags {
+  display: flex;
+  gap: 9px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.hero-tags span {
+  padding: 8px 12px;
+  border: 1px solid var(--border);
+  border-radius: 30px;
+  font-size: 10px;
+  color: #456080;
+  background: #fbfcff;
+}
+
+.doc-section {
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 28px;
+  margin-bottom: 18px;
+  scroll-margin-top: 95px;
+}
+
+.doc-section h2 {
+  font-size: 22px;
+  margin: 9px 0 17px;
+}
+
+.doc-section h3 {
+  font-size: 15px;
+  margin: 23px 0 9px;
+}
+
+.doc-section p,
+.doc-section li {
+  color: #596b86;
+  font-size: 13px;
+  line-height: 1.85;
+}
+
+.doc-section ul, .doc-section ol {
+  padding-left: 22px;
+}
+
+.doc-section li { margin-bottom: 5px; }
+
+.callout {
+  padding: 17px;
+  background: #eff6ff;
+  border-left: 3px solid var(--blue);
+  border-radius: 8px;
+  color: #38577e;
+  font-size: 13px;
+  line-height: 1.8;
+  margin: 17px 0;
+}
+
+.callout.green {
+  background: #effaf3;
+  border-color: var(--green);
+}
+
+.flow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}
+
+.flow span {
+  padding: 12px;
+  background: #edf4ff;
+  color: #27558e;
+  border-radius: 8px;
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.flow b { color: var(--blue); }
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.card {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 17px;
+  background: #fcfdff;
+}
+
+.card strong { font-size: 13px; }
+.card p { font-size: 11px; margin-bottom: 0; }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 15px 0;
+  min-width: 480px;
+  font-size: 12px;
+}
+
+.table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--border);
+  border-radius: 9px;
+  margin: 15px 0;
+}
+
+th {
+  background: #f1f6fd;
+  color: #526582;
+  text-align: left;
+  font-size: 11px;
+}
+
+th, td {
+  padding: 12px;
+  border-bottom: 1px solid #edf1f7;
+}
+
+td { color: #50627e; }
+
+code {
+  background: #f0f4fa;
+  padding: 4px 7px;
+  border-radius: 5px;
+  font-size: 11px;
+  overflow-wrap: anywhere;
+}
+
+pre {
+  background: #101f39;
+  color: #e5efff;
+  padding: 18px;
+  border-radius: 9px;
+  overflow-x: auto;
+  font-size: 12px;
+  line-height: 1.7;
+}
+
+.metric-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: 18px 0;
+}
+
+.metric {
+  background: #f5f8ff;
+  border: 1px solid var(--border);
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.metric strong {
+  display: block;
+  color: var(--green);
+  font-size: 24px;
+}
+
+.metric span {
+  display: block;
+  font-size: 10px;
+  color: var(--muted);
+  margin-top: 6px;
+}
+
+.step {
+  display: flex;
+  gap: 14px;
+  margin: 17px 0;
+}
+
+.step-number {
+  flex: 0 0 32px;
+  height: 32px;
+  background: #eaf2ff;
+  color: var(--blue);
+  display: grid;
+  place-items: center;
+  border-radius: 9px;
+  font-weight: 800;
+  font-size: 11px;
+}
+
+.step h3 { margin: 3px 0; }
+.step p { margin: 5px 0; }
+
+footer {
+  padding: 25px 5%;
+  background: white;
+  border-top: 1px solid var(--border);
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+  flex-wrap: wrap;
+  color: var(--muted);
+  font-size: 11px;
+}
+
+footer strong { color: var(--dark); }
+
+@media(max-width: 850px) {
+  .layout { grid-template-columns: 1fr; }
+  .sidebar { position: static; }
+  .sidebar nav { display: grid; grid-template-columns: repeat(2, 1fr); }
+  .metric-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media(max-width: 550px) {
+  .topbar { flex-direction: column; align-items: flex-start; }
+  .cards { grid-template-columns: 1fr; }
+  .hero, .doc-section { padding: 20px; }
+  .hero h1 { font-size: 29px; }
+  .metric-grid { grid-template-columns: 1fr 1fr; }
+}
+</style>
+</head>
+
+<body>
+
+<header class="topbar">
+  <a class="brand" href="index.html">
+    <div class="logo">తె</div>
+    <div>
+      <strong>Telugu Vector Studio</strong>
+      <small>Telugu Font Conversion & Publishing Tools</small>
+    </div>
+  </a>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="accuracy.html">Accuracy</a>
+    <a class="active" href="documentation.html">Documentation</a>
+    <a href="about.html">About</a>
+  </nav>
+</header>
+
+<div class="layout">
+
+<aside class="sidebar">
+  <h3>DOCUMENTATION</h3>
+  <nav>
+    <a href="#overview">Project Overview</a>
+    <a href="#origin">How It Started</a>
+    <a href="#evolution">Project Evolution</a>
+    <a href="#solution">The Solution</a>
+    <a href="#architecture">Architecture</a>
+    <a href="#algorithms">Algorithms</a>
+    <a href="#complexity">Time & Space</a>
+    <a href="#validation">Accuracy</a>
+    <a href="#limitations">Limitations</a>
+    <a href="#technology">Tech Stack</a>
+    <a href="#future">Future Scope</a>
+    <a href="#conclusion">Conclusion</a>
+    <a href="#interview">Interview Summary</a>
+  </nav>
+</aside>
+
+<main class="content">
+
+<section class="hero" id="overview">
+  <span class="eyebrow">PROJECT DOCUMENTATION / 01</span>
+  <h1>Telugu Vector Studio</h1>
+  <h3>From Legacy Telugu Typing to Modern Publishing</h3>
+  <p>
+    A browser-based Telugu text conversion application designed
+    to bridge the gap between legacy ANU6/ANU7 encoding systems
+    and modern Unicode publishing workflows.
+  </p>
+  <div class="hero-tags">
+    <span>ANU6 / ANU7</span>
+    <span>Unicode Conversion</span>
+    <span>JavaScript</span>
+    <span>Rule-Based Engine</span>
+    <span>Local Processing</span>
+  </div>
+</section>
+
+<section class="doc-section">
+  <span class="eyebrow">PROJECT AT A GLANCE</span>
+  <div class="cards">
+    <div class="card">
+      <strong>Problem</strong>
+      <p>Reusing legacy Telugu content in modern publishing applications.</p>
+    </div>
+    <div class="card">
+      <strong>Solution</strong>
+      <p>Convert ANU6/ANU7 text into standard Unicode and back.</p>
+    </div>
+    <div class="card">
+      <strong>Core Algorithm</strong>
+      <p>Dictionary-based mapping with greedy longest-match processing.</p>
+    </div>
+    <div class="card">
+      <strong>Target Users</strong>
+      <p>DTP operators, printing shops and Telugu publishing professionals.</p>
+    </div>
+  </div>
+</section>
+
+<section class="doc-section" id="origin">
+  <span class="eyebrow">02 / THE ORIGIN</span>
+  <h2>How the Idea Started</h2>
+
+  <h3>Observing a real-world problem</h3>
+  <p>
+    The idea started by observing how Telugu typing and publishing
+    work in DTP environments. Applications such as FlexiSIGN and
+    CorelDRAW are used for creating banners, signboards, stickers,
+    invitations and other printed materials.
+  </p>
+  <p>
+    Many older workflows depend on ANU-based keyboard layouts and
+    compatible legacy fonts. When operators receive old Telugu
+    content, reusing it in modern software can become difficult.
+  </p>
+
+  <h3>The problem identified</h3>
+  <ul>
+    <li>Existing legacy text may not behave like standard Unicode Telugu.</li>
+    <li>Operators may need compatible legacy fonts to view the content.</li>
+    <li>Re-entering old Telugu text creates repetitive work.</li>
+    <li>Manual typing can introduce spelling and character-combination mistakes.</li>
+    <li>Legacy content is harder to search and reuse in modern workflows.</li>
+  </ul>
+
+  <div class="callout">
+    <strong>The question that started the project:</strong><br>
+    Can we convert existing ANU Telugu text into Unicode automatically
+    instead of asking users to type everything again?
+  </div>
+</section>
+
+<section class="doc-section" id="evolution">
+  <span class="eyebrow">03 / DEVELOPMENT JOURNEY</span>
+  <h2>How the Project Evolved</h2>
+
+  <div class="step">
+    <div class="step-number">01</div>
+    <div>
+      <h3>Understanding legacy encoding</h3>
+      <p>Studied how ANU-based Telugu content is represented and why changing a font alone does not perform a true Unicode conversion.</p>
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-number">02</div>
+    <div>
+      <h3>Studying mapping data</h3>
+      <p>Used a CSV dataset containing Unicode characters, code points, mapping categories and ANU6/ANU7 representations. The supplied dataset contains 790 rows.</p>
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-number">03</div>
+    <div>
+      <h3>Building the conversion engine</h3>
+      <p>Created structured mapping groups and a JavaScript engine capable of processing Telugu sequences rather than relying only on individual character replacements.</p>
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-number">04</div>
+    <div>
+      <h3>Implementing reverse conversion</h3>
+      <p>Developed reverse lookup to convert legacy ANU code sequences into Unicode Telugu.</p>
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-number">05</div>
+    <div>
+      <h3>Building the web application</h3>
+      <p>Integrated the engine with a browser interface using HTML, CSS and JavaScript ES modules.</p>
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-number">06</div>
+    <div>
+      <h3>Testing and evaluation</h3>
+      <p>Compared outputs against reference results, examined round-trip behaviour and documented ambiguous mappings.</p>
+    </div>
+  </div>
+</section>
+
+<section class="doc-section" id="solution">
+  <span class="eyebrow">04 / THE SOLUTION</span>
+  <h2>How It Solves the Problem</h2>
+
+  <h3>Earlier workflow</h3>
+  <ol>
+    <li>Open old content using a compatible ANU font.</li>
+    <li>Understand the legacy keyboard layout.</li>
+    <li>Manually re-enter the Telugu content.</li>
+    <li>Correct mistakes and adjust the design.</li>
+  </ol>
+
+  <h3>New workflow</h3>
+  <div class="flow">
+    <span>Existing ANU7 Text</span><b>→</b>
+    <span>Telugu Vector Studio</span><b>→</b>
+    <span>Unicode Telugu</span><b>→</b>
+    <span>FlexiSIGN</span>
+  </div>
+
+  <ol>
+    <li>Copy existing ANU7 text.</li>
+    <li>Paste it into Telugu Vector Studio.</li>
+    <li>Select ANU7 → Unicode and convert.</li>
+    <li>Copy the Unicode result.</li>
+    <li>Paste into FlexiSIGN or compatible software.</li>
+    <li>Choose a compatible Telugu Unicode font.</li>
+    <li>Edit and optionally convert text into vector outlines.</li>
+  </ol>
+
+  <div class="callout green">
+    <strong>Important:</strong> Unicode text is editable text, not vector artwork.
+    FlexiSIGN's text-to-outline or convert-to-curves functionality
+    creates vector shapes for cutting workflows.
+  </div>
+</section>
+
+<section class="doc-section" id="architecture">
+  <span class="eyebrow">05 / SYSTEM DESIGN</span>
+  <h2>System Architecture</h2>
+
+  <div class="flow">
+    <span>User Input</span><b>→</b>
+    <span>Application Logic</span><b>→</b>
+    <span>Conversion Engine</span><b>→</b>
+    <span>Mapping Lookup</span><b>→</b>
+    <span>Output</span>
+  </div>
+
+  <h3>Presentation Layer</h3>
+  <p>HTML and CSS provide the interface, text editors, controls, conversion direction and result display.</p>
+
+  <h3>Application Layer</h3>
+  <p>JavaScript handles input, validates the selected mode, calls the engine, updates the interface and handles copying.</p>
+
+  <h3>Processing Layer</h3>
+  <p>The conversion engine performs normalization, Telugu sequence processing, mapping and output generation.</p>
+
+  <h3>Mapping Data Layer</h3>
+  <p>Structured mapping groups include base, vattu, gunintam, halant, ksha and ligature data.</p>
+
+  <h3>Output Layer</h3>
+  <p>Returns converted text for display, copying and use in external applications.</p>
+</section>
+
+<section class="doc-section" id="algorithms">
+  <span class="eyebrow">06 / CORE ENGINEERING</span>
+  <h2>Algorithms Used</h2>
+
+  <h3>1. Dictionary-Based Mapping</h3>
+  <p>
+    The engine uses structured mapping tables to connect Unicode
+    Telugu sequences with ANU6/ANU7 representations.
+    The same mapping relationships support deterministic conversion.
+  </p>
+
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Unicode</th><th>ANU7</th></tr></thead>
+      <tbody>
+        <tr><td>వ</td><td><code>e</code></td></tr>
+        <tr><td>వి</td><td><code>$</code></td></tr>
+        <tr><td>వీ</td><td><code>M</code></td></tr>
+        <tr><td>ద</td><td><code>&lt;Š</code></td></tr>
+        <tr><td>ది</td><td><code>~</code></td></tr>
+        <tr><td>దీ</td><td><code>B</code></td></tr>
+        <tr><td>క్ష</td><td><code>¿£Œ</code></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3>2. Greedy Longest-Match Algorithm</h3>
+  <p>
+    Telugu combinations may contain multiple components. The engine
+    checks longer sequences before shorter sequences to avoid
+    incorrectly splitting a valid combination.
+  </p>
+
+  <ol>
+    <li>Start at the current input position.</li>
+    <li>Check the longest eligible sequence.</li>
+    <li>Search for a matching mapping entry.</li>
+    <li>If found, append its converted value.</li>
+    <li>Move past the matched sequence.</li>
+    <li>If no match is found, apply fallback handling.</li>
+    <li>Continue until the input is processed.</li>
+  </ol>
+
+  <h3>3. Reverse Lookup Using JavaScript Map</h3>
+  <p>
+    Reverse conversion uses a lookup structure that connects ANU
+    code sequences to Unicode equivalents. The reverse mapping
+    is cached to avoid rebuilding it for every conversion.
+  </p>
+
+  <pre><code>const reverseMap = new Map();
+
+for (const [unicode, anu] of Object.entries(mapping)) {
+  reverseMap.set(anu, unicode);
+}</code></pre>
+
+  <p>This is a simplified illustration of reverse mapping, not the complete engine source.</p>
+
+  <h3>4. Maximum Sequence Length</h3>
+  <p>
+    The engine tracks the maximum eligible mapping sequence length.
+    This limits the number of candidate sequences checked at each
+    input position.
+  </p>
+
+  <h3>5. Unicode NFC Normalization</h3>
+  <pre><code>const normalized = text.normalize("NFC");</code></pre>
+  <p>
+    NFC normalization creates a consistent canonical representation
+    of Unicode input where applicable. It helps reduce mismatches
+    between canonically equivalent sequences.
+  </p>
+
+  <h3>6. Heuristic Format Detection</h3>
+  <p>
+    The engine has a format detection function that uses heuristic
+    scoring to estimate whether input resembles ANU6 or ANU7.
+    This is an estimate, not guaranteed identification.
+  </p>
+</section>
+
+<section class="doc-section" id="complexity">
+  <span class="eyebrow">07 / PERFORMANCE ANALYSIS</span>
+  <h2>Time and Space Complexity</h2>
+
+  <p>Let:</p>
+  <ul>
+    <li><strong>n:</strong> Input text length.</li>
+    <li><strong>M:</strong> Number of mapping entries.</li>
+    <li><strong>L:</strong> Maximum mapping sequence length.</li>
+  </ul>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr><th>Operation</th><th>Time complexity</th><th>Space complexity</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Mapping construction</td><td>O(M)</td><td>O(M)</td></tr>
+        <tr><td>Reverse lookup construction</td><td>O(M)</td><td>O(M)</td></tr>
+        <tr><td>Unicode normalization</td><td>Approximately O(n)</td><td>O(n) worst-case output</td></tr>
+        <tr><td>Longest-match conversion</td><td>O(n × L)</td><td>O(n)</td></tr>
+        <tr><td>Cached hash lookup</td><td>Average O(1) per lookup</td><td>O(M) for cached mapping</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="callout">
+    If maximum sequence length L is a small fixed constant,
+    longest-match conversion behaves approximately linearly:
+    <strong>O(n)</strong>.
+  </div>
+
+  <p>
+    These are algorithmic estimates based on the described design.
+    They are not measured CPU, RAM or production performance benchmarks.
+  </p>
+</section>
+
+<section class="doc-section" id="validation">
+  <span class="eyebrow">08 / TESTING & QUALITY</span>
+  <h2>Accuracy and Validation</h2>
+
+  <p>
+    Two different measurements are used: reference comparison
+    and round-trip consistency.
+  </p>
+
+  <div class="metric-grid">
+    <div class="metric"><strong>99.4%</strong><span>ANU7 reference match</span></div>
+    <div class="metric"><strong>98.7%</strong><span>ANU7 round-trip exact</span></div>
+    <div class="metric"><strong>99.6%</strong><span>ANU6 reference match</span></div>
+    <div class="metric"><strong>99.9%</strong><span>ANU6 round-trip exact</span></div>
+  </div>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr><th>Encoding</th><th>Test forms</th><th>Reference match</th><th>Round-trip exact</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Telugu ANU7</td><td>1,426</td><td>99.4%</td><td>98.7% of 1,415</td></tr>
+        <tr><td>Telugu ANU6</td><td>1,426</td><td>99.6%</td><td>99.9% of 1,415</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3>Reference comparison</h3>
+  <p>Compares the converter's output with expected reference output. It measures agreement with the reference implementation.</p>
+
+  <h3>Round-trip consistency</h3>
+  <p>Converts Unicode to ANU and back to Unicode, then compares the final result with the original.</p>
+
+  <div class="callout">
+    A successful round trip does not independently prove that
+    the ANU representation is historically correct. These
+    supplied evaluation results are distinct from the application's
+    32 built-in automated checks.
+  </div>
+
+  <p>
+    See the <a href="accuracy.html" style="color:#1769e8;font-weight:700">Accuracy & Validation page →</a>
+    for detailed differences, exceptions and design decisions.
+  </p>
+</section>
+
+<section class="doc-section" id="limitations">
+  <span class="eyebrow">09 / KNOWN LIMITATIONS</span>
+  <h2>Limitations</h2>
+
+  <ul>
+    <li>Legacy visual rendering depends on compatible ANU fonts.</li>
+    <li>Some legacy byte sequences can represent multiple Telugu sequences.</li>
+    <li>Some archaic Telugu characters have no corresponding legacy font glyph.</li>
+    <li>The converter processes text, not complete publishing documents.</li>
+    <li>Original document formatting, page layout, graphics and text positions are not preserved.</li>
+    <li>Unicode output still requires compatible font and shaping support in the target application.</li>
+    <li>The current 32 automated checks are not comprehensive coverage of all Telugu combinations.</li>
+  </ul>
+</section>
+
+<section class="doc-section" id="technology">
+  <span class="eyebrow">10 / IMPLEMENTATION</span>
+  <h2>Technology Stack</h2>
+
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Technology</th><th>Purpose</th></tr></thead>
+      <tbody>
+        <tr><td>HTML5</td><td>Application structure</td></tr>
+        <tr><td>CSS3</td><td>Interface and responsive layout</td></tr>
+        <tr><td>JavaScript</td><td>Application logic and conversion</td></tr>
+        <tr><td>ES Modules</td><td>Separate application and engine code</td></tr>
+        <tr><td>JavaScript Map</td><td>Efficient lookup and reverse mapping</td></tr>
+        <tr><td>Unicode NFC</td><td>Consistent Unicode representation</td></tr>
+        <tr><td>CSV</td><td>Character mapping reference data</td></tr>
+        <tr><td>Clipboard API</td><td>Copy converted text</td></tr>
+        <tr><td>Performance API</td><td>Measure conversion duration</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3>Project structure</h3>
+  <pre><code>telugu-vector-studio/
+│
+├── index.html
+├── style.css
+├── app.js
+├── telugu-engine.js
+├── accuracy.html
+├── accuracy.css
+└── documentation.html</code></pre>
+
+  <p>
+    The current application uses local browser processing for
+    basic conversion and does not require a backend server.
+  </p>
+</section>
+
+<section class="doc-section" id="future">
+  <span class="eyebrow">11 / FUTURE DEVELOPMENT</span>
+  <h2>Future Scope</h2>
+
+  <div class="cards">
+    <div class="card">
+      <strong>01. Batch Conversion</strong>
+      <p>Upload and convert multiple legacy text files, with downloadable results and reports.</p>
+    </div>
+    <div class="card">
+      <strong>02. Improved Validation</strong>
+      <p>Expand testing with real-world Telugu documents, complex conjuncts and mixed-language content.</p>
+    </div>
+    <div class="card">
+      <strong>03. Text Doctor</strong>
+      <p>Identify ambiguous mappings, unsupported sequences and possible conversion issues.</p>
+    </div>
+    <div class="card">
+      <strong>04. Font Preview</strong>
+      <p>Compare Unicode Telugu fonts and preview converted content before pasting into design software.</p>
+    </div>
+    <div class="card">
+      <strong>05. Vector Design Integration</strong>
+      <p>Explore SVG text export, font-aware previews and cutting-ready outline workflows.</p>
+    </div>
+    <div class="card">
+      <strong>06. Telugu Transliteration</strong>
+      <p>Allow users to type Telugu using English keyboard input with transliteration suggestions.</p>
+    </div>
+    <div class="card">
+      <strong>07. Local Job History</strong>
+      <p>Save and reuse recent conversions locally in the browser.</p>
+    </div>
+    <div class="card">
+      <strong>08. More Legacy Formats</strong>
+      <p>Extend the mapping architecture to additional Telugu legacy encodings after validation.</p>
+    </div>
+  </div>
+
+  <div class="callout">
+    These are proposed future improvements. They are not
+    capabilities of the current conversion engine.
+  </div>
+</section>
+
+<section class="doc-section" id="conclusion">
+  <span class="eyebrow">12 / PROJECT OUTCOME</span>
+  <h2>Conclusion</h2>
+
+  <p>
+    Telugu Vector Studio started with a practical observation:
+    existing Telugu content should not have to be manually retyped
+    simply because it is stored in an older encoding.
+  </p>
+
+  <p>
+    The project evolved through mapping analysis, conversion-engine
+    development, reverse lookup, Unicode normalization and
+    validation.
+  </p>
+
+  <p>
+    Its core engineering approach uses deterministic mapping tables,
+    greedy longest-match processing, reverse lookup caching and
+    structured Telugu character mappings.
+  </p>
+
+  <p>
+    The project also recognizes the limitations of legacy encoding.
+    Some byte sequences are ambiguous, some characters are unsupported
+    by older fonts, and not every conversion can be perfectly reversed.
+  </p>
+
+  <div class="callout green">
+    <strong>Project vision:</strong><br>
+    Build a useful Telugu publishing toolkit that connects
+    legacy content with modern editing, design and vector
+    production workflows.
+    <br><br>
+    <strong>Convert existing Telugu content instead of typing it again.</strong>
+  </div>
+</section>
+
+<section class="doc-section" id="interview">
+  <span class="eyebrow">13 / INTERVIEW PREPARATION</span>
+  <h2>Explain the Project in an Interview</h2>
+
+  <h3>Tell me about your project.</h3>
+
+  <p>
+    Telugu Vector Studio is a browser-based Telugu text conversion
+    application that converts legacy ANU6 and ANU7 text into
+    standard Unicode and vice versa.
+  </p>
+
+  <p>
+    The idea came from observing the workflow of DTP operators
+    and printing shops. They often work with legacy ANU fonts
+    and keyboard layouts. When they need to reuse existing
+    Telugu content in modern applications like FlexiSIGN or
+    CorelDRAW, manually retyping the content takes time and
+    can introduce errors.
+  </p>
+
+  <p>
+    I studied the Unicode-to-ANU mapping data and developed a
+    rule-based conversion engine using dictionary-based mappings
+    and greedy longest-match processing.
+  </p>
+
+  <p>
+    For reverse conversion, I implemented lookup mapping with
+    caching. I also used Unicode NFC normalization to maintain
+    consistent text representation.
+  </p>
+
+  <p>
+    The application is built using HTML, CSS and JavaScript
+    ES modules. It performs conversion directly in the browser.
+  </p>
+
+  <p>
+    I evaluated the mappings using reference comparisons and
+    round-trip tests, and documented cases where legacy byte
+    ambiguity prevents exact recovery.
+  </p>
+
+  <div class="callout">
+    <strong>Key technical terms to remember:</strong><br>
+    Deterministic mapping · Greedy longest-match · Reverse lookup ·
+    Hash Map · Unicode NFC normalization · Algorithmic complexity ·
+    Round-trip validation
+  </div>
+</section>
+
+</main>
+</div>
+
+<footer>
+  <div>
+    <strong>Telugu Vector Studio</strong><br>
+    Telugu Font Conversion & Publishing Tools
+  </div>
+  <span>Technical Documentation · Local browser application</span>
+</footer>
+
+</body>
+</html>

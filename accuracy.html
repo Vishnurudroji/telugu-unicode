@@ -1,0 +1,383 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <title>Accuracy & Validation | Telugu Vector Studio</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="accuracy.css">
+</head>
+<body>
+
+<header class="topbar">
+  <a class="brand" href="index.html">
+    <div class="brand-icon">తె</div>
+    <div>
+      <strong>Telugu Vector Studio</strong>
+      <span>Telugu Font Conversion & Publishing Tools</span>
+    </div>
+  </a>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a class="active" href="accuracy.html">Accuracy</a>
+    <a href="documentation.html">Documentation</a>
+    <a href="about.html">About</a>
+  </nav>
+</header>
+
+<main class="accuracy-page">
+
+  <!-- INTRO -->
+  <section class="accuracy-hero">
+    <span class="eyebrow">VALIDATION & QUALITY REPORT</span>
+    <h1>Conversion Accuracy</h1>
+    <p>
+      A transparent evaluation of Telugu ANU6 and ANU7 conversion,
+      including reference comparisons, round-trip results and
+      documented exceptions.
+    </p>
+    <div class="evaluation-note">
+      <span>ⓘ</span>
+      <p>
+        The following figures and examples represent the supplied
+        evaluation results. They are separate from the 32 built-in
+        automated checks in the converter.
+      </p>
+    </div>
+  </section>
+
+  <!-- SUMMARY -->
+  <section class="accuracy-summary">
+    <div class="section-title">
+      <span class="eyebrow">01 / OVERALL RESULTS</span>
+      <h2>Evaluation Summary</h2>
+      <p>Comparison against reference outputs and reverse conversion.</p>
+    </div>
+
+    <div class="result-table-wrap">
+      <table class="accuracy-table summary-table">
+        <thead>
+          <tr>
+            <th>Encoding</th>
+            <th>Test forms</th>
+            <th>Identical to reference</th>
+            <th>Round-trip exact</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Telugu ANU 7</strong></td>
+            <td>1,426</td>
+            <td><span class="metric green">99.4%</span></td>
+            <td>
+              <span class="metric blue">98.7%</span>
+              <small>of 1,415</small>
+            </td>
+          </tr>
+          <tr>
+            <td><strong>Telugu ANU 6</strong></td>
+            <td>1,426</td>
+            <td><span class="metric green">99.6%</span></td>
+            <td>
+              <span class="metric blue">99.9%</span>
+              <small>of 1,415</small>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="metric-cards">
+      <article class="metric-card">
+        <span>ANU 7</span>
+        <strong>99.4%</strong>
+        <p>Identical to reference</p>
+        <div class="metric-track"><i style="width:99.4%"></i></div>
+      </article>
+      <article class="metric-card">
+        <span>ANU 6</span>
+        <strong>99.6%</strong>
+        <p>Identical to reference</p>
+        <div class="metric-track"><i style="width:99.6%"></i></div>
+      </article>
+      <article class="metric-card">
+        <span>ANU 7</span>
+        <strong>98.7%</strong>
+        <p>Round-trip exact</p>
+        <div class="metric-track blue-track"><i style="width:98.7%"></i></div>
+      </article>
+      <article class="metric-card">
+        <span>ANU 6</span>
+        <strong>99.9%</strong>
+        <p>Round-trip exact</p>
+        <div class="metric-track blue-track"><i style="width:99.9%"></i></div>
+      </article>
+    </div>
+  </section>
+
+  <!-- REFERENCE DIFFERENCES -->
+  <section class="accuracy-section">
+    <div class="section-title">
+      <span class="eyebrow">02 / REFERENCE COMPARISON</span>
+      <h2>Forms Where We Differ from the Reference</h2>
+      <p>
+        These are documented cases where our converter intentionally
+        produces a different output from the reference converter.
+      </p>
+    </div>
+
+    <div class="subsection-heading">
+      <span class="encoding-badge anu7">ANU 7</span>
+      <h3>ANU 7 Differences</h3>
+    </div>
+
+    <div class="result-table-wrap">
+      <table class="accuracy-table">
+        <thead>
+          <tr>
+            <th>Telugu</th>
+            <th>Our output</th>
+            <th>Reference</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="telugu">ఘూ</td><td><code>|˜ŸTÖ</code></td><td><code>|˜Ÿ¶</code></td></tr>
+          <tr><td class="telugu">మూ</td><td><code>eTÖ</code></td><td><code>e¶</code></td></tr>
+          <tr><td class="telugu">యీ</td><td><code>sTÖ</code></td><td><code>s¶</code></td></tr>
+          <tr><td class="telugu">యూ</td><td><code>jáTÖ</code></td><td><code>já¶</code></td></tr>
+          <tr><td class="telugu">ౘ్</td><td class="unicode-value">ౘ</td><td><code>#Y</code></td></tr>
+          <tr><td class="telugu">ౙ</td><td class="unicode-value">ౙ</td><td><code>È</code></td></tr>
+          <tr><td class="telugu">మ్రూ</td><td><code>çeTÖ</code></td><td><code>çe¶</code></td></tr>
+          <tr><td class="telugu">మ్మూ</td><td><code>eTÖˆ</code></td><td><code>e¶ˆ</code></td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="subsection-heading">
+      <span class="encoding-badge anu6">ANU 6</span>
+      <h3>ANU 6 Differences</h3>
+    </div>
+
+    <div class="result-table-wrap">
+      <table class="accuracy-table">
+        <thead>
+          <tr>
+            <th>Telugu</th>
+            <th>Our output</th>
+            <th>Reference</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="telugu">ః</td><td><code>:</code></td><td>—</td></tr>
+          <tr><td class="telugu">ధః</td><td><code>^\x8fÎ:</code></td><td><code>^Î:</code></td></tr>
+          <tr><td class="telugu">ౄ</td><td class="unicode-value">ౄ</td><td><code>null</code></td></tr>
+          <tr><td class="telugu">ౘ్</td><td class="unicode-value">ౘ</td><td><code>KŸ</code></td></tr>
+          <tr><td class="telugu">ౙ</td><td class="unicode-value">ౙ</td><td><code>[</code></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- WHY DIFFERENT -->
+  <section class="accuracy-section">
+    <div class="section-title">
+      <span class="eyebrow">03 / DESIGN DECISIONS</span>
+      <h2>Why We Kept Our Version</h2>
+      <p>
+        Not every difference is necessarily a conversion error.
+        Some are deliberate decisions to preserve information.
+      </p>
+    </div>
+
+    <div class="decision-list">
+
+      <article class="decision-card">
+        <div class="decision-number">01</div>
+        <div>
+          <h3>Long vowel sign ూ after మ, ఘ and య</h3>
+          <p>
+            The reference uses a different glyph byte for the vowel
+            sign. A second converter uses the same form as our output,
+            and our version converts back cleanly. Without a licensed
+            font to render and compare both forms, we retained the
+            majority form.
+          </p>
+          <span class="decision-tag">Consistency & compatibility</span>
+        </div>
+      </article>
+
+      <article class="decision-card">
+        <div class="decision-number">02</div>
+        <div>
+          <h3>Archaic letters ౘ and ౙ</h3>
+          <p>
+            ANU fonts have no glyph for these archaic letters.
+            The reference silently substitutes చ and జ. We preserve
+            the original letter visibly so that users can notice
+            unsupported content instead of receiving a different word.
+          </p>
+          <span class="decision-tag">Preserve original information</span>
+        </div>
+      </article>
+
+      <article class="decision-card">
+        <div class="decision-number">03</div>
+        <div>
+          <h3>ANU 6 visarga ః and ధః</h3>
+          <p>
+            The reference outputs a dash for ః in ANU 6 and represents
+            ధః using the same bytes as దః. This makes the two forms
+            indistinguishable after conversion. We use a colon and
+            preserve the distinction.
+          </p>
+          <span class="decision-tag">Avoid information loss</span>
+        </div>
+      </article>
+
+      <article class="decision-card">
+        <div class="decision-number">04</div>
+        <div>
+          <h3>ANU 6 sign ౄ</h3>
+          <p>
+            The reference outputs the literal word "null".
+            Our converter passes the sign through instead of
+            replacing it with an unrelated text value.
+          </p>
+          <span class="decision-tag">Safer fallback behaviour</span>
+        </div>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- ROUND TRIP -->
+  <section class="accuracy-section">
+    <div class="section-title">
+      <span class="eyebrow">04 / REVERSIBILITY</span>
+      <h2>Forms That Don't Round-Trip</h2>
+      <p>
+        These forms convert to ANU, but the resulting bytes can be
+        interpreted in more than one way. Reverse conversion may
+        therefore produce a different Telugu sequence.
+      </p>
+    </div>
+
+    <div class="subsection-heading">
+      <span class="encoding-badge anu7">ANU 7</span>
+      <h3>ANU 7 Round-Trip Exceptions</h3>
+    </div>
+
+    <div class="result-table-wrap">
+      <table class="accuracy-table">
+        <thead>
+          <tr>
+            <th>Telugu</th>
+            <th>ANU bytes</th>
+            <th>Reads back as</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="telugu">షొ</td><td><code>cþ</code></td><td class="telugu">షో</td></tr>
+          <tr><td class="telugu">ు</td><td><code>•</code></td><td class="telugu">్న</td></tr>
+          <tr><td class="telugu">ూ</td><td><code>¯</code></td><td class="telugu">రీ</td></tr>
+          <tr><td class="telugu">ె</td><td><code>³</code></td><td class="telugu">ట</td></tr>
+          <tr><td class="telugu">ే</td><td><code>À</code></td><td class="telugu">్ఱ</td></tr>
+          <tr><td class="telugu">ౌ</td><td><code>º</code></td><td class="telugu">చి</td></tr>
+          <tr><td class="telugu">ౘ్</td><td class="unicode-value">ౘ</td><td class="telugu">ౘ</td></tr>
+          <tr><td class="telugu">ష్టొ</td><td><code>cþ¼</code></td><td class="telugu">ష్టో</td></tr>
+          <tr><td class="telugu">ష్ట్ట్రొ</td><td><code>çcþ¼</code></td><td class="telugu">ష్ట్ట్రో</td></tr>
+          <tr><td class="telugu">ఙ్కు</td><td><code>v•Ø</code></td><td class="telugu">ఙ్న్క</td></tr>
+          <tr><td class="telugu">ఙ్కూ</td><td><code>v¯Ø</code></td><td class="telugu">ఙర్కీ</td></tr>
+          <tr><td class="telugu">ఙ్కె</td><td><code>v³Ø</code></td><td class="telugu">ఙట్క</td></tr>
+          <tr><td class="telugu">ఙ్కే</td><td><code>vÀØ</code></td><td class="telugu">ఙ్ఱ్క</td></tr>
+          <tr><td class="telugu">ఙ్కౌ</td><td><code>vºØ</code></td><td class="telugu">ఙచ్కి</td></tr>
+          <tr><td class="telugu">ఞ్చు</td><td><code>x•Ì</code></td><td class="telugu">ఞ్న్చ</td></tr>
+          <tr><td class="telugu">ఞ్చూ</td><td><code>x¯Ì</code></td><td class="telugu">ఞర్చీ</td></tr>
+          <tr><td class="telugu">ఞ్చె</td><td><code>x³Ì</code></td><td class="telugu">ఞట్చ</td></tr>
+          <tr><td class="telugu">ఞ్చే</td><td><code>xÀÌ</code></td><td class="telugu">ఞ్ఱ్చ</td></tr>
+          <tr><td class="telugu">ఞ్చౌ</td><td><code>xºÌ</code></td><td class="telugu">ఞచ్చి</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="subsection-heading">
+      <span class="encoding-badge anu6">ANU 6</span>
+      <h3>ANU 6 Round-Trip Exceptions</h3>
+    </div>
+
+    <div class="result-table-wrap">
+      <table class="accuracy-table">
+        <thead>
+          <tr>
+            <th>Telugu</th>
+            <th>ANU bytes</th>
+            <th>Reads back as</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="telugu">ౘ్</td>
+            <td class="unicode-value">ౘ</td>
+            <td class="telugu">ౘ</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- EXPLANATION -->
+  <section class="accuracy-section">
+    <div class="section-title">
+      <span class="eyebrow">05 / UNDERSTANDING THE RESULTS</span>
+      <h2>Why Do Round-Trip Differences Occur?</h2>
+    </div>
+
+    <div class="explanation-box">
+      <h3>Ambiguous legacy byte sequences</h3>
+      <p>
+        Most exceptions involve vowel signs typed independently,
+        without a consonant. Such standalone signs do not normally
+        occur in real Telugu text.
+      </p>
+      <p>
+        Other exceptions involve ఙ్క and ఞ్చ with vowel signs,
+        which occur mainly in Sanskrit loanwords. The షొ forms
+        also share the same ANU 7 bytes as షో in the supplied table.
+      </p>
+      <div class="explanation-callout">
+        <strong>Key point:</strong>
+        A legacy encoding may map multiple Telugu sequences to the
+        same byte sequence. Once this happens, reverse conversion
+        cannot always determine the original sequence uniquely.
+      </div>
+    </div>
+  </section>
+
+  <!-- FINAL NOTE -->
+  <section class="accuracy-footer-note">
+    <div class="footer-note-icon">✓</div>
+    <div>
+      <h3>Transparent conversion, documented limitations</h3>
+      <p>
+        We document differences instead of hiding them. Our goal is
+        to preserve Telugu text, avoid silent substitutions and make
+        legacy publishing content more accessible to modern software.
+      </p>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <div>
+    <strong>Telugu Vector Studio</strong>
+    <span>Telugu Font Conversion & Publishing Tools</span>
+  </div>
+  <span>Browser-based conversion · Local processing</span>
+</footer>
+
+</body>
+</html>

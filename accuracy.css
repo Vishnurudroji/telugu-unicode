@@ -1,0 +1,395 @@
+
+.accuracy-page {
+  padding-bottom: 45px;
+}
+
+.accuracy-hero {
+  padding: 55px 10px 35px;
+  text-align: center;
+}
+
+.accuracy-hero h1 {
+  font-size: clamp(30px, 4vw, 43px);
+  letter-spacing: -1.2px;
+  margin: 13px 0;
+}
+
+.accuracy-hero > p {
+  max-width: 750px;
+  margin: auto;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+.evaluation-note {
+  max-width: 850px;
+  margin: 24px auto 0;
+  padding: 14px 18px;
+  background: #edf5ff;
+  border: 1px solid #d7e7ff;
+  border-radius: 10px;
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  text-align: left;
+}
+
+.evaluation-note > span {
+  color: var(--blue);
+  font-size: 20px;
+}
+
+.evaluation-note p {
+  color: #425b7e;
+  font-size: 12px;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.accuracy-summary,
+.accuracy-section {
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 17px;
+  box-shadow: var(--shadow);
+  padding: 28px;
+  margin-bottom: 23px;
+}
+
+.section-title {
+  margin-bottom: 22px;
+}
+
+.section-title h2 {
+  font-size: 24px;
+  margin: 9px 0;
+}
+
+.section-title > p {
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--muted);
+  margin: 0;
+}
+
+.result-table-wrap {
+  width: 100%;
+  overflow-x: auto;
+  border: 1px solid var(--border);
+  border-radius: 11px;
+  margin: 15px 0 25px;
+}
+
+.accuracy-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 520px;
+  background: white;
+  font-size: 13px;
+}
+
+.accuracy-table th {
+  background: #f3f7fd;
+  color: #526582;
+  font-size: 11px;
+  letter-spacing: .3px;
+  text-align: left;
+  padding: 15px;
+  white-space: nowrap;
+}
+
+.accuracy-table td {
+  padding: 13px 15px;
+  border-top: 1px solid #edf1f7;
+  color: #334765;
+}
+
+.accuracy-table tbody tr:hover {
+  background: #f9fbff;
+}
+
+.accuracy-table td small {
+  display: block;
+  margin-top: 4px;
+  color: var(--muted);
+  font-size: 10px;
+}
+
+.metric {
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 800;
+}
+
+.metric.green {
+  color: #159653;
+}
+
+.metric.blue {
+  color: #1769e8;
+}
+
+.metric-cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 13px;
+}
+
+.metric-card {
+  background: #f8faff;
+  border: 1px solid var(--border);
+  padding: 17px;
+  border-radius: 12px;
+}
+
+.metric-card > span {
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: .8px;
+}
+
+.metric-card strong {
+  display: block;
+  font-size: 29px;
+  margin: 10px 0 3px;
+  color: #159653;
+}
+
+.metric-card p {
+  font-size: 11px;
+  color: var(--muted);
+  margin: 0 0 13px;
+}
+
+.metric-track {
+  height: 6px;
+  background: #e5eee9;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.metric-track i {
+  height: 100%;
+  display: block;
+  background: #20aa68;
+  border-radius: inherit;
+}
+
+.blue-track {
+  background: #e4edfc;
+}
+
+.blue-track i {
+  background: var(--blue);
+}
+
+.subsection-heading {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 30px 0 12px;
+}
+
+.subsection-heading h3 {
+  font-size: 16px;
+  margin: 0;
+}
+
+.encoding-badge {
+  padding: 6px 11px;
+  font-size: 10px;
+  font-weight: 800;
+  border-radius: 7px;
+}
+
+.encoding-badge.anu7 {
+  color: #6041ae;
+  background: #f0eaff;
+}
+
+.encoding-badge.anu6 {
+  color: #1761b7;
+  background: #e8f1ff;
+}
+
+.accuracy-table code {
+  background: #f0f4fa;
+  color: #293c5a;
+  padding: 5px 8px;
+  border-radius: 5px;
+  font-family: "Consolas", "Courier New", monospace;
+  font-size: 12px;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.accuracy-table .telugu {
+  font-family: "Noto Sans Telugu", "Nirmala UI", sans-serif;
+  font-size: 17px;
+  font-weight: 650;
+  color: #17396d;
+}
+
+.accuracy-table .unicode-value {
+  font-family: "Noto Sans Telugu", "Nirmala UI", sans-serif;
+  font-size: 16px;
+  color: #1769e8;
+}
+
+.decision-list {
+  display: grid;
+  gap: 13px;
+}
+
+.decision-card {
+  display: flex;
+  gap: 17px;
+  padding: 19px;
+  background: #f8faff;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+
+.decision-number {
+  flex: 0 0 36px;
+  height: 36px;
+  display: grid;
+  place-items: center;
+  border-radius: 10px;
+  background: #e8f1ff;
+  color: var(--blue);
+  font-weight: 800;
+  font-size: 12px;
+}
+
+.decision-card h3 {
+  font-size: 14px;
+  margin: 2px 0 9px;
+}
+
+.decision-card p {
+  font-size: 12px;
+  color: var(--muted);
+  line-height: 1.8;
+  margin: 0 0 11px;
+}
+
+.decision-tag {
+  display: inline-block;
+  color: #147c4b;
+  background: #e8f7ee;
+  padding: 6px 9px;
+  border-radius: 6px;
+  font-size: 10px;
+  font-weight: 750;
+}
+
+.explanation-box {
+  padding: 22px;
+  border-radius: 12px;
+  background: #f5f8ff;
+  border: 1px solid #e0eafa;
+}
+
+.explanation-box h3 {
+  margin: 0 0 12px;
+  font-size: 16px;
+}
+
+.explanation-box p {
+  color: #5d6e89;
+  font-size: 13px;
+  line-height: 1.8;
+}
+
+.explanation-callout {
+  padding: 15px;
+  margin-top: 17px;
+  background: white;
+  border-left: 3px solid var(--blue);
+  border-radius: 5px;
+  color: #526582;
+  font-size: 12px;
+  line-height: 1.7;
+}
+
+.explanation-callout strong {
+  color: var(--blue-dark);
+}
+
+.accuracy-footer-note {
+  display: flex;
+  gap: 17px;
+  padding: 23px;
+  border: 1px solid #ccebd8;
+  border-radius: 13px;
+  background: #f0faf3;
+  margin-bottom: 25px;
+}
+
+.footer-note-icon {
+  width: 39px;
+  height: 39px;
+  flex: 0 0 39px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  color: white;
+  background: #19a35e;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.accuracy-footer-note h3 {
+  margin: 2px 0 7px;
+  font-size: 15px;
+  color: #12653d;
+}
+
+.accuracy-footer-note p {
+  margin: 0;
+  font-size: 12px;
+  color: #527361;
+  line-height: 1.8;
+}
+
+@media (max-width: 850px) {
+  .metric-cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .accuracy-summary,
+  .accuracy-section {
+    padding: 17px;
+  }
+
+  .accuracy-hero {
+    padding: 38px 5px 25px;
+  }
+
+  .metric-cards {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .metric-card {
+    padding: 12px;
+  }
+
+  .metric-card strong {
+    font-size: 24px;
+  }
+
+  .decision-card {
+    padding: 14px;
+    gap: 11px;
+  }
+
+  .accuracy-table th,
+  .accuracy-table td {
+    padding: 11px;
+  }
+}

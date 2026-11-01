@@ -1,0 +1,888 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Discover Telugu Vector Studio — a simple way to convert legacy Telugu ANU6 and ANU7 text into Unicode and back.">
+  <title>About | Telugu Vector Studio</title>
+
+  <style>
+    :root {
+      --primary: #2457d6;
+      --primary-light: #edf3ff;
+      --text: #172033;
+      --muted: #64748b;
+      --border: #e6eaf0;
+      --surface: #ffffff;
+      --background: #f8fafc;
+      --radius: 18px;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: Inter, "Segoe UI", Arial, sans-serif;
+      background: var(--background);
+      color: var(--text);
+      line-height: 1.7;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .container {
+      width: min(1120px, 92%);
+      margin: auto;
+    }
+
+    /* Navigation */
+    header {
+      background: rgba(255,255,255,.96);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    nav {
+      min-height: 72px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .brand {
+      font-size: 19px;
+      font-weight: 800;
+      letter-spacing: -.5px;
+    }
+
+    .brand span {
+      color: var(--primary);
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 26px;
+      font-size: 14px;
+      color: var(--muted);
+    }
+
+    .nav-links a:hover,
+    .nav-links .active {
+      color: var(--primary);
+    }
+
+    /* Hero */
+    .hero {
+      padding: 105px 0 85px;
+      text-align: center;
+      background:
+        radial-gradient(ellipse at 50% 0%, #e5edff 0%, transparent 65%),
+        var(--surface);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .eyebrow {
+      display: inline-block;
+      background: var(--primary-light);
+      color: var(--primary);
+      padding: 7px 14px;
+      border-radius: 30px;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: .7px;
+      margin-bottom: 23px;
+    }
+
+    h1 {
+      font-size: clamp(38px, 6vw, 66px);
+      line-height: 1.12;
+      letter-spacing: -2.5px;
+      max-width: 850px;
+      margin: 0 auto 24px;
+    }
+
+    h1 span {
+      color: var(--primary);
+    }
+
+    .hero p {
+      color: var(--muted);
+      max-width: 680px;
+      margin: auto;
+      font-size: 17px;
+    }
+
+    .hero-actions {
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-top: 32px;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 12px 22px;
+      border-radius: 9px;
+      font-size: 14px;
+      font-weight: 700;
+      transition: .2s;
+    }
+
+    .btn-primary {
+      background: var(--primary);
+      color: white;
+    }
+
+    .btn-primary:hover {
+      background: #1745b5;
+      transform: translateY(-2px);
+    }
+
+    .btn-secondary {
+      border: 1px solid var(--border);
+      background: white;
+    }
+
+    .btn-secondary:hover {
+      border-color: var(--primary);
+      color: var(--primary);
+    }
+
+    /* General sections */
+    section {
+      padding: 85px 0;
+    }
+
+    .section-heading {
+      max-width: 650px;
+      margin-bottom: 40px;
+    }
+
+    .section-heading.center {
+      text-align: center;
+      margin: 0 auto 45px;
+    }
+
+    .section-heading small {
+      display: block;
+      color: var(--primary);
+      font-size: 12px;
+      font-weight: 800;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+    }
+
+    h2 {
+      font-size: clamp(28px, 4vw, 40px);
+      letter-spacing: -1.2px;
+      line-height: 1.2;
+      margin-bottom: 15px;
+    }
+
+    .section-heading p,
+    .description {
+      color: var(--muted);
+      font-size: 15px;
+    }
+
+    /* Story */
+    .story-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      align-items: center;
+    }
+
+    .story-visual {
+      min-height: 340px;
+      border-radius: 24px;
+      background: linear-gradient(140deg, #e8efff, #f8faff);
+      border: 1px solid #dce6ff;
+      display: grid;
+      place-items: center;
+      padding: 35px;
+    }
+
+    .text-demo {
+      background: white;
+      width: 100%;
+      border: 1px solid var(--border);
+      padding: 27px;
+      border-radius: 15px;
+      box-shadow: 0 15px 45px rgba(30,60,120,.08);
+    }
+
+    .demo-label {
+      font-size: 11px;
+      color: var(--muted);
+      font-weight: 800;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+
+    .demo-text {
+      font-size: 29px;
+      font-weight: 700;
+      margin: 10px 0 20px;
+      word-break: break-word;
+    }
+
+    .demo-arrow {
+      color: var(--primary);
+      font-size: 23px;
+      margin: 8px 0;
+    }
+
+    .story-content p {
+      color: var(--muted);
+      margin-bottom: 17px;
+    }
+
+    /* Problem and solution */
+    .problem-section {
+      background: white;
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+    }
+
+    .card {
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 27px;
+      transition: .2s;
+    }
+
+    .card:hover {
+      border-color: #bdccf5;
+      transform: translateY(-4px);
+    }
+
+    .card-icon {
+      width: 45px;
+      height: 45px;
+      display: grid;
+      place-items: center;
+      background: var(--primary-light);
+      border-radius: 12px;
+      font-size: 21px;
+      margin-bottom: 20px;
+    }
+
+    .card h3 {
+      font-size: 17px;
+      margin-bottom: 9px;
+    }
+
+    .card p {
+      font-size: 14px;
+      color: var(--muted);
+    }
+
+    /* Workflow */
+    .workflow {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 15px;
+    }
+
+    .step {
+      padding: 25px 18px;
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: 15px;
+      text-align: center;
+    }
+
+    .step-number {
+      width: 37px;
+      height: 37px;
+      display: grid;
+      place-items: center;
+      border-radius: 50%;
+      margin: 0 auto 15px;
+      background: var(--primary-light);
+      color: var(--primary);
+      font-weight: 800;
+    }
+
+    .step h3 {
+      font-size: 15px;
+      margin-bottom: 8px;
+    }
+
+    .step p {
+      font-size: 13px;
+      color: var(--muted);
+    }
+
+    /* Tech */
+    .tech-section {
+      background: white;
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .tech-list {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .tech {
+      border: 1px solid var(--border);
+      background: var(--background);
+      padding: 11px 19px;
+      border-radius: 9px;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .tech-note {
+      max-width: 700px;
+      margin: 25px auto 0;
+      text-align: center;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    /* Audience */
+    .audience {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 15px;
+    }
+
+    .audience-item {
+      display: flex;
+      gap: 15px;
+      padding: 20px;
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: 13px;
+    }
+
+    .audience-item span {
+      font-size: 23px;
+    }
+
+    .audience-item h3 {
+      font-size: 15px;
+      margin-bottom: 4px;
+    }
+
+    .audience-item p {
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    /* Vision */
+    .vision {
+      background: #172b55;
+      color: white;
+      text-align: center;
+      border-radius: 25px;
+      padding: 65px 35px;
+    }
+
+    .vision h2 {
+      max-width: 650px;
+      margin: 0 auto 17px;
+    }
+
+    .vision p {
+      max-width: 650px;
+      margin: auto;
+      color: #c4d1ed;
+      font-size: 15px;
+    }
+
+    /* Developer */
+    .developer {
+      display: flex;
+      align-items: center;
+      gap: 25px;
+      background: white;
+      border: 1px solid var(--border);
+      padding: 30px;
+      border-radius: var(--radius);
+      max-width: 700px;
+      margin: auto;
+    }
+
+    .developer-avatar {
+      width: 75px;
+      height: 75px;
+      flex-shrink: 0;
+      display: grid;
+      place-items: center;
+      background: var(--primary-light);
+      color: var(--primary);
+      border-radius: 50%;
+      font-size: 28px;
+      font-weight: 800;
+    }
+
+    .developer h3 {
+      font-size: 19px;
+      margin-bottom: 5px;
+    }
+
+    .developer p {
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .developer-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 17px;
+      margin-top: 12px;
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--primary);
+    }
+
+    /* Footer */
+    footer {
+      border-top: 1px solid var(--border);
+      background: white;
+      padding: 30px 0;
+      text-align: center;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    footer a {
+      color: var(--primary);
+    }
+
+    @media (max-width: 760px) {
+      .nav-links {
+        gap: 13px;
+        font-size: 12px;
+      }
+
+      .brand {
+        font-size: 16px;
+      }
+
+      .hero {
+        padding: 75px 0;
+      }
+
+      .story-grid {
+        grid-template-columns: 1fr;
+        gap: 30px;
+      }
+
+      .cards {
+        grid-template-columns: 1fr;
+      }
+
+      .workflow {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .audience {
+        grid-template-columns: 1fr;
+      }
+
+      section {
+        padding: 65px 0;
+      }
+    }
+
+    @media (max-width: 430px) {
+      nav {
+        align-items: flex-start;
+        flex-direction: column;
+        padding: 15px 0;
+        gap: 12px;
+      }
+
+      .nav-links {
+        width: 100%;
+        justify-content: space-between;
+        gap: 8px;
+      }
+
+      .workflow {
+        grid-template-columns: 1fr;
+      }
+
+      .developer {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <div class="container">
+    <nav>
+      <a class="brand" href="index.html">
+        Telugu <span>Vector Studio</span>
+      </a>
+
+      <div class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="accuracy.html">Accuracy</a>
+        <a href="documentation.html">Documentation</a>
+        <a href="about.html" class="active">About</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="container">
+    <span class="eyebrow">ABOUT THE PROJECT</span>
+
+    <h1>
+      Preserving Telugu text.
+      <span>Connecting generations.</span>
+    </h1>
+
+    <p>
+      From legacy ANU fonts to modern Unicode, Telugu Vector Studio
+      makes Telugu text reusable, accessible and ready for modern workflows.
+    </p>
+
+    <div class="hero-actions">
+      <a href="index.html" class="btn btn-primary">Try the Converter →</a>
+      <a href="documentation.html" class="btn btn-secondary">Explore Documentation</a>
+    </div>
+  </div>
+</div>
+
+<!-- STORY -->
+<section>
+  <div class="container story-grid">
+
+    <div class="story-visual">
+      <div class="text-demo">
+        <div class="demo-label">Legacy Telugu Text</div>
+        <div class="demo-text">ANU 6 / ANU 7</div>
+
+        <div class="demo-arrow">↓ Convert to Unicode</div>
+
+        <div class="demo-label">Modern Telugu Text</div>
+        <div class="demo-text">తెలుగు భాష</div>
+      </div>
+    </div>
+
+    <div class="story-content">
+      <div class="section-heading">
+        <small>THE STORY</small>
+        <h2>Every old document deserves a second life.</h2>
+      </div>
+
+      <p>
+        Telugu publishing has used legacy font systems for many years.
+        A large amount of existing content is stored using older encodings
+        such as ANU6 and ANU7.
+      </p>
+
+      <p>
+        When people try to reuse this content in modern applications,
+        they may face compatibility problems. In many cases, they end up
+        typing the same Telugu text again.
+      </p>
+
+      <p>
+        Telugu Vector Studio was developed to make that process easier
+        by providing a way to convert legacy Telugu text into Unicode
+        and convert Unicode text back into supported legacy formats.
+      </p>
+    </div>
+
+  </div>
+</section>
+
+<!-- PROBLEM -->
+<section class="problem-section">
+  <div class="container">
+
+    <div class="section-heading center">
+      <small>THE CHALLENGE</small>
+      <h2>Why does this matter?</h2>
+      <p>
+        Working with older Telugu documents can introduce unnecessary
+        effort into everyday publishing workflows.
+      </p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card">
+        <div class="card-icon">⌨️</div>
+        <h3>Manual retyping</h3>
+        <p>
+          Re-entering existing Telugu content takes time and can
+          introduce typing mistakes.
+        </p>
+      </div>
+
+      <div class="card">
+        <div class="card-icon">📄</div>
+        <h3>Legacy compatibility</h3>
+        <p>
+          Text created with older font encodings may not behave as
+          expected in modern Unicode-based applications.
+        </p>
+      </div>
+
+      <div class="card">
+        <div class="card-icon">🔄</div>
+        <h3>Content reuse</h3>
+        <p>
+          Reusing old Telugu content across different publishing
+          tools can be difficult without conversion.
+        </p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- SOLUTION -->
+<section>
+  <div class="container">
+
+    <div class="section-heading center">
+      <small>OUR SOLUTION</small>
+      <h2>A simpler way to work with Telugu text.</h2>
+      <p>
+        Convert text instead of typing it all over again.
+      </p>
+    </div>
+
+    <div class="workflow">
+
+      <div class="step">
+        <div class="step-number">01</div>
+        <h3>Copy legacy text</h3>
+        <p>Copy text from your existing ANU6 or ANU7 document.</p>
+      </div>
+
+      <div class="step">
+        <div class="step-number">02</div>
+        <h3>Convert text</h3>
+        <p>Paste it into Telugu Vector Studio and convert it to Unicode.</p>
+      </div>
+
+      <div class="step">
+        <div class="step-number">03</div>
+        <h3>Reuse anywhere</h3>
+        <p>Copy the converted text into compatible applications.</p>
+      </div>
+
+      <div class="step">
+        <div class="step-number">04</div>
+        <h3>Create vector text</h3>
+        <p>Use compatible fonts and convert text to curves in your design software when needed.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- TECHNOLOGY -->
+<section class="tech-section">
+  <div class="container">
+
+    <div class="section-heading center">
+      <small>UNDER THE HOOD</small>
+      <h2>Simple technology. Purposeful engineering.</h2>
+      <p>
+        The conversion engine uses deterministic mapping rules
+        rather than AI-generated guesses.
+      </p>
+    </div>
+
+    <div class="tech-list">
+      <span class="tech">HTML5</span>
+      <span class="tech">CSS3</span>
+      <span class="tech">JavaScript</span>
+      <span class="tech">ES Modules</span>
+      <span class="tech">Unicode NFC</span>
+      <span class="tech">Mapping Tables</span>
+      <span class="tech">Longest-Match Matching</span>
+    </div>
+
+    <p class="tech-note">
+      Text conversion runs locally in the browser. The engine uses
+      character mappings, sequence processing, reverse lookup and
+      normalization to produce conversion results.
+    </p>
+
+  </div>
+</section>
+
+<!-- WHO BENEFITS -->
+<section>
+  <div class="container">
+
+    <div class="section-heading center">
+      <small>WHO IS IT FOR?</small>
+      <h2>Built around real publishing needs.</h2>
+      <p>
+        A practical tool for people who work with Telugu content.
+      </p>
+    </div>
+
+    <div class="audience">
+
+      <div class="audience-item">
+        <span>🖨️</span>
+        <div>
+          <h3>DTP Operators</h3>
+          <p>Reuse existing Telugu content in desktop publishing workflows.</p>
+        </div>
+      </div>
+
+      <div class="audience-item">
+        <span>🏪</span>
+        <div>
+          <h3>Printing Shops</h3>
+          <p>Reduce repetitive retyping when working with legacy documents.</p>
+        </div>
+      </div>
+
+      <div class="audience-item">
+        <span>🎨</span>
+        <div>
+          <h3>Graphic Designers</h3>
+          <p>Prepare Telugu text for compatible design and vector software.</p>
+        </div>
+      </div>
+
+      <div class="audience-item">
+        <span>📝</span>
+        <div>
+          <h3>Telugu Content Creators</h3>
+          <p>Convert and reuse Telugu text across supported formats.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ACCURACY -->
+<section class="problem-section">
+  <div class="container">
+    <div class="section-heading center">
+      <small>TRANSPARENCY</small>
+      <h2>Accuracy matters more than assumptions.</h2>
+      <p>
+        Legacy encodings can contain ambiguous mappings and
+        special character combinations. We document known differences,
+        round-trip exceptions and design decisions instead of hiding them.
+      </p>
+
+      <div class="hero-actions">
+        <a href="accuracy.html" class="btn btn-primary">
+          Explore Accuracy Report →
+        </a>
+        <a href="documentation.html" class="btn btn-secondary">
+          Read Technical Documentation
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- VISION -->
+<section>
+  <div class="container">
+    <div class="vision">
+      <small style="color:#a9c2ff;font-weight:800;letter-spacing:1.5px;">
+        LOOKING AHEAD
+      </small>
+
+      <h2>Making Telugu digital content easier to preserve and reuse.</h2>
+
+      <p>
+        Our vision is to improve legacy text compatibility, expand
+        mapping coverage, support additional Telugu font systems and
+        make digital Telugu publishing workflows simpler.
+      </p>
+    </div>
+  </div>
+</section>
+
+<!-- DEVELOPER -->
+<section>
+  <div class="container">
+
+    <div class="section-heading center">
+      <small>THE DEVELOPER</small>
+      <h2>Built with curiosity and a real-world problem in mind.</h2>
+    </div>
+
+    <div class="developer">
+      <div class="developer-avatar">V</div>
+
+      <div>
+        <h3>Vishnu rudroji</h3>
+        <p>
+          Computer Science student and developer interested in
+          building practical software that solves everyday problems.
+        </p>
+
+        <div class="developer-links">
+          <!-- Replace # with your actual profile URLs -->
+          <a href="https://github.com/Vishnurudroji" target="_blank" rel="https://github.com/Vishnurudroji">GitHub ↗</a>
+          <a href="https://www.linkedin.com/in/vishnu-rudroji/" target="_blank" rel="https://www.linkedin.com/in/vishnu-rudroji/">LinkedIn ↗</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>
+      Telugu Vector Studio · Built to make Telugu text easier to reuse.
+    </p>
+    <p style="margin-top:7px;">
+      <a href="index.html">Home</a> ·
+      <a href="accuracy.html">Accuracy</a> ·
+      <a href="documentation.html">Documentation</a>
+    </p>
+  </div>
+</footer>
+
+</body>
+</html>
