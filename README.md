@@ -19,11 +19,11 @@ Telugu Vector Studio converts that text so you can reuse it instead of typing ev
 
 | ANU to Unicode | Unicode to ANU |
 |---|---|
-| ![ANU to Unicode](sample1.png) | ![Unicode to ANU](sample2.png) |
+| ![ANU to Unicode](sample1.png) | ![Unicode to ANU](sample2.PNG) |
 
 | Text processing | Conversion interface |
 |---|---|
-| ![Text processing](sample3.png) | ![Conversion interface](sample4.png) |
+| ![Text processing](sample3.PNG) | ![Conversion interface](sample4.PNG) |
 
 
 ---
