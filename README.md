@@ -23,7 +23,7 @@ Telugu Vector Studio converts that text so you can reuse it instead of typing ev
 
 | Text processing | Conversion interface |
 |---|---|
-| ![Text processing](sample3.PNG) | ![Conversion interface](sample4.PNG) |
+| ![Text processing](sample3.PNG) | ![Conversion interface](samplw4.PNG) |
 
 
 ---
