@@ -16,13 +16,15 @@ Telugu Vector Studio converts that text so you can reuse it instead of typing ev
 
 ## Screenshots
 
+
 | ANU to Unicode | Unicode to ANU |
 |---|---|
-| ![ANU to Unicode](screenshots/sample-1.png) | ![Unicode to ANU](screenshots/sample-2.png) |
+| ![ANU to Unicode](sample1.png) | ![Unicode to ANU](sample2.png) |
 
 | Text processing | Conversion interface |
 |---|---|
-| ![Text processing](screenshots/sample-3.png) | ![Conversion interface](screenshots/sample-4.png) |
+| ![Text processing](sample3.png) | ![Conversion interface](sample4.png) |
+
 
 ---
 
